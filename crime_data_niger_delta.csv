@@ -1,0 +1,2485 @@
+Year,Month_reported,State, Crime_rate ,Crime_occurrence_frequency,Armed Robbery,Kidnapping,Oil Bunkering,Piracy,Cultism,Human Trafficking,Drug Trafficking,Vandalism,UnemploymentRate,PovertyRate,Most_prevalent_crime
+2000,1,Abia, 23.6 ,57,Yes,Yes,Yes,No,Yes,No,Yes,No,30,50,Armed Robbery
+2000,2,Abia, 33.9 ,93,No,Yes,No,Yes,No,No,No,No,30,50,Kidnapping
+2000,3,Abia, 43.7 ,5,Yes,No,No,Yes,No,Yes,No,Yes,30,50,Armed Robbery
+2000,4,Abia, 37.5 ,89,Yes,No,No,Yes,No,Yes,Yes,No,30,50,Armed Robbery
+2000,5,Abia, 46.9 ,24,Yes,No,No,No,No,No,Yes,Yes,30,50,Armed Robbery
+2000,6,Abia, 2.7 ,93,No,Yes,No,No,Yes,No,Yes,Yes,30,50,Kidnapping
+2000,7,Abia, 0.6 ,64,Yes,Yes,No,No,No,Yes,Yes,No,30,50,Armed Robbery
+2000,8,Abia, 33.1 ,59,Yes,Yes,No,Yes,No,No,Yes,No,30,50,Armed Robbery
+2000,9,Abia, 14.5 ,38,Yes,No,Yes,No,No,Yes,No,No,30,50,Armed Robbery
+2000,10,Abia, 12.7 ,33,No,No,Yes,Yes,Yes,Yes,Yes,No,30,50,Oil Bunkering
+2000,11,Abia, 16.5 ,10,Yes,Yes,No,No,Yes,Yes,Yes,Yes,30,50,Armed Robbery
+2000,12,Abia, 13.5 ,37,Yes,No,No,Yes,No,No,No,Yes,30,50,Armed Robbery
+2001,1,Abia, 25.6 ,97,Yes,No,No,Yes,No,No,Yes,No,30,50,Armed Robbery
+2001,2,Abia, 22.0 ,87,Yes,No,Yes,Yes,No,No,No,Yes,30,50,Armed Robbery
+2001,3,Abia, 25.6 ,11,No,Yes,Yes,No,No,Yes,Yes,No,30,50,Kidnapping
+2001,4,Abia, 33.6 ,24,Yes,No,No,Yes,No,Yes,No,No,30,50,Armed Robbery
+2001,5,Abia, 19.4 ,88,No,No,No,No,No,Yes,Yes,No,30,50,Human Trafficking
+2001,6,Abia, 12.6 ,71,No,Yes,Yes,No,Yes,No,No,No,30,50,Kidnapping
+2001,7,Abia, 8.3 ,21,No,Yes,Yes,No,No,Yes,No,Yes,30,50,Kidnapping
+2001,8,Abia, 17.5 ,20,Yes,No,Yes,No,No,Yes,Yes,Yes,30,50,Armed Robbery
+2001,9,Abia, 37.1 ,10,No,No,Yes,No,No,No,Yes,No,30,50,Oil Bunkering
+2001,10,Abia, 37.8 ,89,Yes,Yes,No,Yes,No,Yes,Yes,No,30,50,Armed Robbery
+2001,11,Abia, 33.3 ,47,No,Yes,Yes,No,No,Yes,No,Yes,30,50,Kidnapping
+2001,12,Abia, 11.7 ,47,No,No,Yes,No,No,No,No,Yes,30,50,Oil Bunkering
+2002,1,Abia, 29.4 ,15,No,No,No,No,Yes,No,No,Yes,30,50,Cultism
+2002,2,Abia, 28.5 ,44,No,No,Yes,No,Yes,Yes,Yes,No,30,50,Oil Bunkering
+2002,3,Abia, 24.2 ,62,No,No,Yes,No,Yes,No,Yes,Yes,30,50,Oil Bunkering
+2002,4,Abia, 27.5 ,6,No,Yes,Yes,Yes,Yes,Yes,No,No,30,50,Kidnapping
+2002,5,Abia, 24.6 ,66,No,No,No,Yes,Yes,No,Yes,No,30,50,Piracy
+2002,6,Abia, 28.3 ,76,No,No,Yes,No,Yes,Yes,No,Yes,30,50,Oil Bunkering
+2002,7,Abia, 35.8 ,4,Yes,Yes,No,Yes,No,No,Yes,No,30,50,Armed Robbery
+2002,8,Abia, 5.5 ,23,Yes,No,No,Yes,No,Yes,Yes,Yes,30,50,Armed Robbery
+2002,9,Abia, 37.5 ,13,No,Yes,Yes,No,No,No,No,No,30,50,Kidnapping
+2002,10,Abia, 6.8 ,81,No,No,Yes,Yes,No,No,Yes,No,30,50,Oil Bunkering
+2002,11,Abia, 3.3 ,31,No,No,Yes,No,No,No,Yes,No,30,50,Oil Bunkering
+2002,12,Abia, 48.8 ,16,Yes,Yes,Yes,Yes,No,No,Yes,No,30,50,Armed Robbery
+2003,1,Abia, 47.8 ,41,No,Yes,No,Yes,Yes,No,Yes,No,30,50,Kidnapping
+2003,2,Abia, 3.0 ,90,Yes,No,Yes,Yes,No,No,Yes,No,30,50,Armed Robbery
+2003,3,Abia, 22.2 ,92,Yes,No,Yes,No,Yes,No,No,Yes,30,50,Armed Robbery
+2003,4,Abia, 9.3 ,1,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,30,50,Armed Robbery
+2003,5,Abia, 24.3 ,12,Yes,Yes,No,Yes,No,Yes,No,No,30,50,Armed Robbery
+2003,6,Abia, 41.5 ,56,Yes,No,Yes,No,No,No,Yes,Yes,30,50,Armed Robbery
+2003,7,Abia, 47.5 ,50,No,Yes,Yes,No,No,No,Yes,No,30,50,Kidnapping
+2003,8,Abia, 31.7 ,20,No,Yes,No,Yes,No,Yes,No,Yes,30,50,Kidnapping
+2003,9,Abia, 17.7 ,66,No,No,No,No,No,Yes,No,Yes,30,50,Human Trafficking
+2003,10,Abia, 30.2 ,36,No,Yes,Yes,Yes,No,No,Yes,No,30,50,Kidnapping
+2003,11,Abia, 15.6 ,79,No,No,Yes,Yes,No,Yes,Yes,Yes,30,50,Oil Bunkering
+2003,12,Abia, 45.5 ,38,Yes,No,Yes,No,Yes,Yes,No,No,30,50,Armed Robbery
+2004,1,Abia, 43.5 ,22,No,No,Yes,No,No,No,No,Yes,30,50,Oil Bunkering
+2004,2,Abia, 27.9 ,61,No,No,Yes,No,No,No,No,No,30,50,Oil Bunkering
+2004,3,Abia, 16.2 ,50,Yes,No,No,Yes,Yes,No,No,Yes,30,50,Armed Robbery
+2004,4,Abia, 14.7 ,96,No,Yes,No,No,No,Yes,Yes,No,30,50,Kidnapping
+2004,5,Abia, 1.7 ,59,Yes,Yes,Yes,Yes,No,No,Yes,Yes,30,50,Armed Robbery
+2004,6,Abia, 40.8 ,20,No,No,Yes,No,Yes,No,Yes,No,30,50,Oil Bunkering
+2004,7,Abia, 22.5 ,36,Yes,No,No,Yes,No,Yes,Yes,Yes,30,50,Armed Robbery
+2004,8,Abia, 16.3 ,97,No,Yes,Yes,No,No,No,Yes,No,30,50,Kidnapping
+2004,9,Abia, 23.6 ,15,No,Yes,Yes,Yes,No,Yes,No,Yes,30,50,Kidnapping
+2004,10,Abia, 40.9 ,62,Yes,Yes,Yes,No,No,Yes,No,No,30,50,Armed Robbery
+2004,11,Abia, 6.2 ,3,Yes,Yes,Yes,Yes,No,Yes,No,Yes,30,50,Armed Robbery
+2004,12,Abia, 42.9 ,93,Yes,No,Yes,No,No,Yes,Yes,No,30,50,Armed Robbery
+2005,1,Abia, 44.9 ,91,Yes,No,No,No,Yes,Yes,No,No,30,50,Armed Robbery
+2005,2,Abia, 47.3 ,5,Yes,Yes,Yes,Yes,No,Yes,Yes,No,30,50,Armed Robbery
+2005,3,Abia, 19.9 ,56,Yes,No,Yes,No,No,No,Yes,No,30,50,Armed Robbery
+2005,4,Abia, 10.9 ,31,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,30,50,Armed Robbery
+2005,5,Abia, 18.7 ,86,Yes,No,No,Yes,Yes,No,No,Yes,30,50,Armed Robbery
+2005,6,Abia, 16.6 ,35,No,Yes,No,No,No,Yes,Yes,Yes,30,50,Kidnapping
+2005,7,Abia, 8.8 ,71,No,No,No,Yes,Yes,No,Yes,No,30,50,Piracy
+2005,8,Abia, 30.4 ,70,Yes,Yes,No,No,No,Yes,No,No,30,50,Armed Robbery
+2005,9,Abia, 23.8 ,26,No,Yes,Yes,No,No,No,Yes,No,30,50,Kidnapping
+2005,10,Abia, 43.3 ,1,No,No,No,Yes,Yes,Yes,No,No,30,50,Piracy
+2005,11,Abia, 1.6 ,83,No,Yes,Yes,No,No,No,Yes,No,30,50,Kidnapping
+2005,12,Abia, 32.2 ,7,No,No,Yes,Yes,No,Yes,No,Yes,30,50,Oil Bunkering
+2006,1,Abia, 38.1 ,36,Yes,No,No,Yes,Yes,No,Yes,Yes,30,50,Armed Robbery
+2006,2,Abia, 38.0 ,76,No,Yes,No,No,Yes,Yes,Yes,Yes,30,50,Kidnapping
+2006,3,Abia, 44.3 ,84,Yes,No,No,No,Yes,No,No,No,30,50,Armed Robbery
+2006,4,Abia, 36.5 ,87,No,No,No,Yes,Yes,Yes,Yes,No,30,50,Piracy
+2006,5,Abia, 46.4 ,25,No,No,No,Yes,No,No,No,No,30,50,Piracy
+2006,6,Abia, 16.6 ,94,No,No,Yes,No,Yes,No,Yes,No,30,50,Oil Bunkering
+2006,7,Abia, 25.2 ,59,Yes,No,No,No,Yes,No,No,No,30,50,Armed Robbery
+2006,8,Abia, 0.7 ,61,No,Yes,No,No,Yes,Yes,Yes,No,30,50,Kidnapping
+2006,9,Abia, 0.3 ,29,Yes,No,No,No,Yes,Yes,Yes,No,30,50,Armed Robbery
+2006,10,Abia, 12.0 ,95,No,No,Yes,Yes,Yes,Yes,Yes,Yes,30,50,Oil Bunkering
+2006,11,Abia, 5.0 ,18,Yes,No,No,No,No,Yes,No,Yes,30,50,Armed Robbery
+2006,12,Abia, 13.0 ,41,No,No,Yes,Yes,Yes,Yes,No,No,30,50,Oil Bunkering
+2007,1,Abia, 8.9 ,19,Yes,No,No,Yes,No,No,No,No,30,50,Armed Robbery
+2007,2,Abia, 1.4 ,4,Yes,Yes,No,No,Yes,Yes,No,No,30,50,Armed Robbery
+2007,3,Abia, 45.5 ,65,No,No,Yes,Yes,Yes,No,No,Yes,30,50,Oil Bunkering
+2007,4,Abia, 0.4 ,41,Yes,Yes,No,No,Yes,No,Yes,Yes,30,50,Armed Robbery
+2007,5,Abia, 36.8 ,15,No,Yes,Yes,Yes,Yes,Yes,Yes,No,30,50,Kidnapping
+2007,6,Abia, 7.6 ,54,No,Yes,Yes,No,Yes,No,Yes,Yes,30,50,Kidnapping
+2007,7,Abia, 45.6 ,64,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,30,50,Kidnapping
+2007,8,Abia, 44.6 ,72,No,No,No,Yes,Yes,Yes,Yes,Yes,30,50,Piracy
+2007,9,Abia, 32.7 ,15,No,Yes,No,No,Yes,Yes,No,No,30,50,Kidnapping
+2007,10,Abia, 33.6 ,79,No,Yes,No,No,No,No,Yes,Yes,30,50,Kidnapping
+2007,11,Abia, 0.3 ,50,No,No,Yes,Yes,Yes,Yes,No,Yes,30,50,Oil Bunkering
+2007,12,Abia, 49.2 ,22,No,No,No,Yes,No,Yes,Yes,No,30,50,Piracy
+2008,1,Abia, 43.9 ,18,No,No,Yes,No,Yes,Yes,No,No,30,50,Oil Bunkering
+2008,2,Abia, 44.8 ,80,No,Yes,No,Yes,No,No,No,Yes,30,50,Kidnapping
+2008,3,Abia, 33.0 ,2,No,No,Yes,No,Yes,Yes,No,No,30,50,Oil Bunkering
+2008,4,Abia, 17.2 ,36,Yes,No,Yes,Yes,Yes,No,Yes,Yes,30,50,Armed Robbery
+2008,5,Abia, 44.7 ,20,Yes,Yes,Yes,No,Yes,No,Yes,Yes,30,50,Armed Robbery
+2008,6,Abia, 14.6 ,16,No,No,No,Yes,No,Yes,Yes,No,30,50,Piracy
+2008,7,Abia, 28.1 ,67,No,No,Yes,No,No,No,Yes,No,30,50,Oil Bunkering
+2008,8,Abia, 5.0 ,30,No,No,Yes,No,No,No,No,Yes,30,50,Oil Bunkering
+2008,9,Abia, 46.1 ,55,No,No,Yes,Yes,No,Yes,No,No,30,50,Oil Bunkering
+2008,10,Abia, 7.0 ,66,No,Yes,Yes,No,Yes,Yes,No,No,30,50,Kidnapping
+2008,11,Abia, 11.2 ,99,No,No,Yes,Yes,Yes,Yes,No,Yes,30,50,Oil Bunkering
+2008,12,Abia, 27.9 ,26,No,No,Yes,No,Yes,No,Yes,Yes,30,50,Oil Bunkering
+2009,1,Abia, 38.2 ,57,No,Yes,No,No,No,Yes,No,Yes,30,50,Kidnapping
+2009,2,Abia, 31.0 ,69,Yes,No,No,No,Yes,No,Yes,Yes,30,50,Armed Robbery
+2009,3,Abia, 11.6 ,2,No,Yes,Yes,Yes,No,No,No,Yes,30,50,Kidnapping
+2009,4,Abia, 0.0 ,56,Yes,No,No,No,No,No,No,Yes,30,50,Armed Robbery
+2009,5,Abia, 37.9 ,84,No,Yes,No,Yes,No,No,No,No,30,50,Kidnapping
+2009,6,Abia, 49.3 ,62,No,Yes,Yes,No,No,No,Yes,No,30,50,Kidnapping
+2009,7,Abia, 40.5 ,34,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,30,50,Armed Robbery
+2009,8,Abia, 23.0 ,98,No,Yes,Yes,Yes,Yes,Yes,No,No,30,50,Kidnapping
+2009,9,Abia, 45.2 ,56,Yes,No,No,Yes,No,No,No,No,30,50,Armed Robbery
+2009,10,Abia, 20.5 ,55,No,Yes,Yes,No,No,No,No,Yes,30,50,Kidnapping
+2009,11,Abia, 26.2 ,20,No,No,No,Yes,Yes,Yes,Yes,No,30,50,Piracy
+2009,12,Abia, 23.9 ,50,Yes,Yes,Yes,No,No,Yes,Yes,No,30,50,Armed Robbery
+2010,1,Abia, 22.4 ,25,No,Yes,No,Yes,No,No,Yes,Yes,30,50,Kidnapping
+2010,2,Abia, 38.8 ,84,Yes,Yes,Yes,Yes,Yes,No,No,No,30,50,Armed Robbery
+2010,3,Abia, 26.3 ,25,No,No,Yes,Yes,Yes,Yes,Yes,No,30,50,Oil Bunkering
+2010,4,Abia, 15.8 ,53,Yes,Yes,No,Yes,Yes,Yes,No,Yes,30,50,Armed Robbery
+2010,5,Abia, 12.9 ,14,Yes,No,No,No,No,No,Yes,No,30,50,Armed Robbery
+2010,6,Abia, 1.9 ,60,No,No,No,Yes,Yes,Yes,No,No,30,50,Piracy
+2010,7,Abia, 29.2 ,43,No,No,No,Yes,Yes,Yes,No,No,30,50,Piracy
+2010,8,Abia, 11.5 ,62,Yes,No,No,No,Yes,No,Yes,Yes,30,50,Armed Robbery
+2010,9,Abia, 7.4 ,76,No,No,No,Yes,No,No,No,Yes,30,50,Piracy
+2010,10,Abia, 32.7 ,69,No,No,Yes,Yes,Yes,No,No,No,30,50,Oil Bunkering
+2010,11,Abia, 34.1 ,63,No,No,No,Yes,No,Yes,No,No,30,50,Piracy
+2010,12,Abia, 37.6 ,2,Yes,No,Yes,Yes,No,No,Yes,Yes,30,50,Armed Robbery
+2011,1,Abia, 25.2 ,54,Yes,No,Yes,No,Yes,Yes,No,Yes,30,50,Armed Robbery
+2011,2,Abia, 44.7 ,16,Yes,Yes,No,No,No,No,Yes,No,30,50,Armed Robbery
+2011,3,Abia, 46.8 ,55,Yes,Yes,Yes,Yes,No,No,Yes,Yes,30,50,Armed Robbery
+2011,4,Abia, 40.4 ,94,Yes,Yes,No,No,Yes,Yes,No,No,30,50,Armed Robbery
+2011,5,Abia, 31.8 ,43,Yes,Yes,No,No,No,Yes,Yes,No,30,50,Armed Robbery
+2011,6,Abia, 15.2 ,61,Yes,Yes,Yes,Yes,Yes,No,No,Yes,30,50,Armed Robbery
+2011,7,Abia, 49.1 ,38,Yes,No,Yes,No,No,No,Yes,Yes,30,50,Armed Robbery
+2011,8,Abia, 13.7 ,45,Yes,No,No,Yes,No,Yes,No,No,30,50,Armed Robbery
+2011,9,Abia, 10.1 ,51,No,No,No,No,Yes,No,Yes,No,30,50,Cultism
+2011,10,Abia, 22.1 ,42,Yes,No,Yes,No,Yes,Yes,No,Yes,30,50,Armed Robbery
+2011,11,Abia, 2.8 ,24,No,No,Yes,No,No,Yes,No,No,30,50,Oil Bunkering
+2011,12,Abia, 48.9 ,30,No,No,Yes,Yes,No,No,No,Yes,30,50,Oil Bunkering
+2012,1,Abia, 29.4 ,37,No,No,Yes,No,Yes,Yes,No,Yes,30,50,Oil Bunkering
+2012,2,Abia, 27.8 ,53,Yes,Yes,No,Yes,No,Yes,Yes,Yes,30,50,Armed Robbery
+2012,3,Abia, 32.8 ,63,Yes,Yes,No,Yes,No,Yes,Yes,Yes,30,50,Armed Robbery
+2012,4,Abia, 24.9 ,11,Yes,Yes,No,No,No,No,No,Yes,30,50,Armed Robbery
+2012,5,Abia, 1.6 ,78,Yes,Yes,No,Yes,No,Yes,Yes,No,30,50,Armed Robbery
+2012,6,Abia, 30.6 ,23,No,No,Yes,No,Yes,No,No,Yes,30,50,Oil Bunkering
+2012,7,Abia, 35.8 ,80,Yes,No,Yes,Yes,Yes,No,No,Yes,30,50,Armed Robbery
+2012,8,Abia, 20.8 ,50,Yes,No,No,Yes,Yes,No,Yes,Yes,30,50,Armed Robbery
+2012,9,Abia, 37.9 ,85,Yes,Yes,No,No,Yes,Yes,Yes,Yes,30,50,Armed Robbery
+2012,10,Abia, 11.4 ,55,Yes,No,No,No,Yes,Yes,No,Yes,30,50,Armed Robbery
+2012,11,Abia, 11.1 ,55,Yes,No,No,No,Yes,No,Yes,Yes,30,50,Armed Robbery
+2012,12,Abia, 8.1 ,4,No,No,No,No,No,No,No,Yes,30,50,Vandalism
+2013,1,Abia, 18.6 ,97,Yes,Yes,No,Yes,Yes,Yes,Yes,No,30,50,Armed Robbery
+2013,2,Abia, 42.4 ,54,No,No,No,Yes,No,No,Yes,No,30,50,Piracy
+2013,3,Abia, 41.4 ,61,Yes,Yes,No,Yes,No,No,Yes,No,30,50,Armed Robbery
+2013,4,Abia, 19.1 ,78,No,Yes,No,No,No,Yes,Yes,No,30,50,Kidnapping
+2013,5,Abia, 29.5 ,83,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,30,50,Armed Robbery
+2013,6,Abia, 36.0 ,5,Yes,Yes,No,No,No,Yes,No,No,30,50,Armed Robbery
+2013,7,Abia, 12.1 ,95,No,No,Yes,Yes,Yes,Yes,Yes,Yes,30,50,Oil Bunkering
+2013,8,Abia, 8.4 ,18,No,Yes,Yes,No,No,No,Yes,No,30,50,Kidnapping
+2013,9,Abia, 48.6 ,44,No,Yes,No,Yes,No,Yes,No,No,30,50,Kidnapping
+2013,10,Abia, 30.9 ,31,Yes,No,No,Yes,Yes,Yes,No,Yes,30,50,Armed Robbery
+2013,11,Abia, 49.1 ,94,No,No,Yes,No,No,Yes,No,Yes,30,50,Oil Bunkering
+2013,12,Abia, 16.9 ,21,Yes,Yes,Yes,Yes,No,No,Yes,No,30,50,Armed Robbery
+2014,1,Abia, 35.2 ,47,Yes,No,No,No,No,No,Yes,No,30,50,Armed Robbery
+2014,2,Abia, 11.1 ,30,No,Yes,Yes,Yes,No,No,No,No,30,50,Kidnapping
+2014,3,Abia, 13.1 ,55,No,Yes,No,Yes,Yes,Yes,No,No,30,50,Kidnapping
+2014,4,Abia, 25.6 ,68,Yes,Yes,No,No,No,Yes,No,Yes,30,50,Armed Robbery
+2014,5,Abia, 16.0 ,69,Yes,Yes,No,No,No,No,No,No,30,50,Armed Robbery
+2014,6,Abia, 8.4 ,41,No,No,Yes,Yes,Yes,No,Yes,No,30,50,Oil Bunkering
+2014,7,Abia, 13.1 ,45,No,Yes,Yes,Yes,No,Yes,Yes,No,30,50,Kidnapping
+2014,8,Abia, 1.8 ,74,No,No,No,Yes,No,No,Yes,No,30,50,Piracy
+2014,9,Abia, 35.2 ,91,Yes,No,Yes,Yes,No,No,Yes,No,30,50,Armed Robbery
+2014,10,Abia, 24.6 ,80,Yes,No,Yes,Yes,No,No,Yes,Yes,30,50,Armed Robbery
+2014,11,Abia, 4.7 ,30,Yes,No,Yes,Yes,Yes,No,No,Yes,30,50,Armed Robbery
+2014,12,Abia, 8.6 ,77,Yes,Yes,Yes,No,No,No,Yes,Yes,30,50,Armed Robbery
+2015,1,Abia, 5.1 ,85,Yes,No,Yes,No,Yes,Yes,No,Yes,30,50,Armed Robbery
+2015,2,Abia, 30.6 ,45,Yes,Yes,Yes,No,No,No,No,Yes,30,50,Armed Robbery
+2015,3,Abia, 4.7 ,45,No,No,Yes,Yes,No,No,No,No,30,50,Oil Bunkering
+2015,4,Abia, 37.7 ,79,Yes,No,No,Yes,No,Yes,Yes,Yes,30,50,Armed Robbery
+2015,5,Abia, 1.0 ,84,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,30,50,Armed Robbery
+2015,6,Abia, 12.5 ,84,Yes,Yes,Yes,No,No,Yes,Yes,No,30,50,Armed Robbery
+2015,7,Abia, 44.5 ,45,No,Yes,Yes,No,No,Yes,No,Yes,30,50,Kidnapping
+2015,8,Abia, 35.9 ,55,Yes,No,Yes,Yes,Yes,No,Yes,Yes,30,50,Armed Robbery
+2015,9,Abia, 3.6 ,59,Yes,No,Yes,Yes,Yes,No,No,Yes,30,50,Armed Robbery
+2015,10,Abia, 41.1 ,5,No,Yes,Yes,No,Yes,No,Yes,Yes,30,50,Kidnapping
+2015,11,Abia, 24.7 ,32,Yes,Yes,Yes,No,Yes,No,No,No,30,50,Armed Robbery
+2015,12,Abia, 42.3 ,6,Yes,Yes,Yes,No,No,Yes,No,No,30,50,Armed Robbery
+2016,1,Abia, 30.0 ,94,Yes,Yes,No,Yes,No,Yes,No,Yes,30,50,Armed Robbery
+2016,2,Abia, 34.1 ,26,Yes,No,Yes,Yes,No,No,No,No,30,50,Armed Robbery
+2016,3,Abia, 49.7 ,37,Yes,Yes,Yes,Yes,No,No,Yes,Yes,30,50,Armed Robbery
+2016,4,Abia, 11.6 ,13,No,Yes,Yes,No,Yes,No,Yes,No,30,50,Kidnapping
+2016,5,Abia, 31.2 ,93,No,Yes,Yes,No,No,No,Yes,No,30,50,Kidnapping
+2016,6,Abia, 23.0 ,69,No,Yes,No,Yes,No,Yes,No,No,30,50,Kidnapping
+2016,7,Abia, 2.0 ,25,Yes,No,No,Yes,No,No,No,No,30,50,Armed Robbery
+2016,8,Abia, 0.7 ,13,Yes,Yes,No,No,No,Yes,No,No,30,50,Armed Robbery
+2016,9,Abia, 6.0 ,88,Yes,No,No,Yes,Yes,Yes,No,No,30,50,Armed Robbery
+2016,10,Abia, 32.5 ,95,No,Yes,No,No,No,Yes,No,No,30,50,Kidnapping
+2016,11,Abia, 28.4 ,20,Yes,Yes,No,No,No,Yes,No,No,30,50,Armed Robbery
+2016,12,Abia, 27.7 ,72,Yes,No,No,Yes,No,No,Yes,No,30,50,Armed Robbery
+2017,1,Abia, 1.6 ,60,No,Yes,No,No,Yes,No,Yes,No,30,50,Kidnapping
+2017,2,Abia, 23.5 ,73,Yes,No,No,Yes,Yes,No,Yes,No,30,50,Armed Robbery
+2017,3,Abia, 46.2 ,21,No,No,No,No,No,No,Yes,Yes,30,50,Drug Trafficking
+2017,4,Abia, 19.9 ,61,No,Yes,No,No,No,Yes,Yes,No,30,50,Kidnapping
+2017,5,Abia, 31.2 ,84,No,No,No,Yes,No,Yes,Yes,Yes,30,50,Piracy
+2017,6,Abia, 39.0 ,79,Yes,No,No,No,Yes,Yes,Yes,No,30,50,Armed Robbery
+2017,7,Abia, 39.2 ,26,Yes,No,No,Yes,No,No,Yes,Yes,30,50,Armed Robbery
+2017,8,Abia, 26.0 ,54,Yes,No,No,Yes,No,Yes,No,Yes,30,50,Armed Robbery
+2017,9,Abia, 42.9 ,42,Yes,No,No,No,No,Yes,No,Yes,30,50,Armed Robbery
+2017,10,Abia, 19.6 ,11,Yes,No,Yes,Yes,Yes,Yes,No,No,30,50,Armed Robbery
+2017,11,Abia, 44.4 ,37,Yes,No,No,Yes,No,Yes,No,No,30,50,Armed Robbery
+2017,12,Abia, 12.0 ,11,Yes,No,Yes,Yes,No,No,No,No,30,50,Armed Robbery
+2018,1,Abia, 14.0 ,27,No,Yes,No,Yes,Yes,Yes,No,No,30,50,Kidnapping
+2018,2,Abia, 2.7 ,94,Yes,Yes,No,Yes,Yes,Yes,No,Yes,30,50,Armed Robbery
+2018,3,Abia, 39.8 ,83,No,No,Yes,Yes,No,No,Yes,No,30,50,Oil Bunkering
+2018,4,Abia, 20.9 ,34,Yes,Yes,No,No,Yes,No,Yes,No,30,50,Armed Robbery
+2018,5,Abia, 11.5 ,38,Yes,No,Yes,Yes,No,No,No,No,30,50,Armed Robbery
+2018,6,Abia, 11.6 ,61,Yes,No,Yes,No,Yes,Yes,Yes,No,30,50,Armed Robbery
+2018,7,Abia, 45.1 ,87,No,Yes,Yes,No,Yes,Yes,Yes,No,30,50,Kidnapping
+2018,8,Abia, 41.7 ,53,No,No,No,Yes,No,Yes,Yes,No,30,50,Piracy
+2018,9,Abia, 27.7 ,65,No,No,No,No,No,Yes,Yes,No,30,50,Human Trafficking
+2018,10,Abia, 30.8 ,3,No,No,No,No,No,No,Yes,No,30,50,Drug Trafficking
+2018,11,Abia, 23.7 ,67,Yes,No,Yes,Yes,Yes,Yes,No,Yes,30,50,Armed Robbery
+2018,12,Abia, 19.6 ,28,No,Yes,Yes,Yes,No,Yes,Yes,Yes,30,50,Kidnapping
+2019,1,Abia, 45.8 ,14,Yes,No,No,Yes,No,No,No,No,30,50,Armed Robbery
+2019,2,Abia, 6.3 ,52,Yes,No,No,No,No,No,No,No,30,50,Armed Robbery
+2019,3,Abia, 20.9 ,30,No,No,No,No,No,No,No,No,30,50,Armed Robbery
+2019,4,Abia, 17.2 ,58,No,Yes,No,Yes,No,Yes,Yes,No,30,50,Kidnapping
+2019,5,Abia, 24.9 ,54,No,No,No,Yes,Yes,Yes,No,Yes,30,50,Piracy
+2019,6,Abia, 22.9 ,69,No,Yes,Yes,No,No,Yes,No,Yes,30,50,Kidnapping
+2019,7,Abia, 25.9 ,15,No,Yes,Yes,No,No,Yes,No,No,30,50,Kidnapping
+2019,8,Abia, 7.0 ,38,No,No,Yes,No,Yes,Yes,No,Yes,30,50,Oil Bunkering
+2019,9,Abia, 25.7 ,78,No,No,No,No,No,No,Yes,Yes,30,50,Drug Trafficking
+2019,10,Abia, 12.1 ,14,No,Yes,Yes,Yes,No,No,No,No,30,50,Kidnapping
+2019,11,Abia, 9.2 ,57,Yes,No,Yes,No,No,Yes,No,No,30,50,Armed Robbery
+2019,12,Abia, 3.2 ,59,No,Yes,Yes,No,No,Yes,No,No,30,50,Kidnapping
+2020,1,Abia, 38.1 ,8,No,Yes,Yes,No,No,Yes,No,Yes,30,50,Kidnapping
+2020,2,Abia, 21.4 ,72,Yes,No,Yes,No,Yes,Yes,Yes,Yes,30,50,Armed Robbery
+2020,3,Abia, 31.3 ,19,No,No,No,Yes,Yes,Yes,No,No,30,50,Piracy
+2020,4,Abia, 36.4 ,32,Yes,Yes,Yes,Yes,Yes,No,No,No,30,50,Armed Robbery
+2020,5,Abia, 34.0 ,95,Yes,Yes,No,No,No,No,No,Yes,30,50,Armed Robbery
+2020,6,Abia, 23.5 ,29,No,Yes,No,No,Yes,No,No,Yes,30,50,Kidnapping
+2020,7,Abia, 19.4 ,41,Yes,Yes,No,Yes,No,Yes,No,No,30,50,Armed Robbery
+2020,8,Abia, 18.8 ,75,Yes,No,No,Yes,No,Yes,No,Yes,30,50,Armed Robbery
+2020,9,Abia, 32.0 ,45,Yes,No,No,No,No,No,Yes,No,30,50,Armed Robbery
+2020,10,Abia, 24.7 ,13,Yes,No,Yes,No,Yes,No,No,No,30,50,Armed Robbery
+2020,11,Abia, 42.5 ,27,No,No,Yes,Yes,Yes,Yes,Yes,Yes,30,50,Oil Bunkering
+2020,12,Abia, 43.7 ,19,Yes,No,No,Yes,Yes,No,Yes,Yes,30,50,Armed Robbery
+2021,1,Abia, 8.5 ,26,No,Yes,No,Yes,No,No,No,Yes,30,50,Kidnapping
+2021,2,Abia, 6.8 ,53,Yes,No,No,Yes,Yes,Yes,Yes,No,30,50,Armed Robbery
+2021,3,Abia, 31.5 ,51,Yes,No,Yes,Yes,No,No,No,No,30,50,Armed Robbery
+2021,4,Abia, 15.1 ,37,Yes,No,No,Yes,Yes,No,Yes,No,30,50,Armed Robbery
+2021,5,Abia, 0.9 ,9,Yes,No,Yes,No,Yes,No,No,No,30,50,Armed Robbery
+2021,6,Abia, 44.4 ,92,No,No,No,Yes,No,Yes,Yes,No,30,50,Piracy
+2021,7,Abia, 11.3 ,96,No,Yes,Yes,Yes,No,No,Yes,No,30,50,Kidnapping
+2021,8,Abia, 46.5 ,52,Yes,Yes,No,Yes,Yes,No,No,Yes,30,50,Armed Robbery
+2021,9,Abia, 35.9 ,54,Yes,Yes,Yes,Yes,Yes,No,Yes,No,30,50,Armed Robbery
+2021,10,Abia, 38.1 ,3,No,No,No,No,Yes,Yes,Yes,No,30,50,Cultism
+2021,11,Abia, 10.1 ,96,Yes,Yes,Yes,No,No,Yes,Yes,No,30,50,Armed Robbery
+2021,12,Abia, 11.7 ,69,Yes,Yes,Yes,Yes,No,No,Yes,No,30,50,Armed Robbery
+2022,1,Abia, 26.1 ,8,Yes,No,Yes,No,Yes,Yes,Yes,Yes,30,50,Armed Robbery
+2022,2,Abia, 8.6 ,14,No,No,Yes,No,Yes,No,No,No,30,50,Oil Bunkering
+2022,3,Abia, 15.3 ,3,No,No,Yes,No,No,Yes,Yes,Yes,30,50,Oil Bunkering
+2022,4,Abia, 16.1 ,24,No,Yes,Yes,No,Yes,Yes,Yes,Yes,30,50,Kidnapping
+2022,5,Abia, 8.0 ,13,Yes,Yes,Yes,No,No,No,No,No,30,50,Armed Robbery
+2022,6,Abia, 10.3 ,43,Yes,No,No,No,No,No,No,No,30,50,Armed Robbery
+2022,7,Abia, 39.4 ,29,No,No,No,Yes,No,No,No,Yes,30,50,Piracy
+2022,8,Abia, 8.4 ,72,No,Yes,No,Yes,No,Yes,Yes,Yes,30,50,Kidnapping
+2022,9,Abia, 1.4 ,51,No,Yes,No,Yes,No,No,Yes,No,30,50,Kidnapping
+2022,10,Abia, 31.5 ,42,No,No,No,Yes,No,Yes,Yes,Yes,30,50,Piracy
+2022,11,Abia, 48.8 ,31,Yes,No,Yes,Yes,Yes,Yes,Yes,No,30,50,Armed Robbery
+2022,12,Abia, 16.6 ,63,No,Yes,Yes,No,No,No,No,No,30,50,Kidnapping
+2000,1,Akwa_Ibom, 5.9 ,26,Yes,No,Yes,Yes,No,Yes,No,Yes,36,55,Armed Robbery
+2000,2,Akwa_Ibom, 28.5 ,18,No,Yes,Yes,Yes,Yes,No,Yes,No,36,55,Kidnapping
+2000,3,Akwa_Ibom, 45.3 ,82,Yes,Yes,Yes,No,No,Yes,Yes,No,36,55,Armed Robbery
+2000,4,Akwa_Ibom, 39.2 ,57,No,Yes,No,No,Yes,No,Yes,No,36,55,Kidnapping
+2000,5,Akwa_Ibom, 31.1 ,7,No,Yes,No,Yes,No,Yes,Yes,Yes,36,55,Kidnapping
+2000,6,Akwa_Ibom, 15.8 ,48,No,No,No,No,Yes,Yes,No,Yes,36,55,Cultism
+2000,7,Akwa_Ibom, 27.1 ,80,No,No,No,No,Yes,No,No,Yes,36,55,Cultism
+2000,8,Akwa_Ibom, 4.6 ,60,Yes,Yes,Yes,No,No,Yes,Yes,No,36,55,Armed Robbery
+2000,9,Akwa_Ibom, 33.9 ,33,No,Yes,Yes,No,No,No,No,Yes,36,55,Kidnapping
+2000,10,Akwa_Ibom, 36.3 ,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,36,55,Armed Robbery
+2000,11,Akwa_Ibom, 48.3 ,4,Yes,Yes,No,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2000,12,Akwa_Ibom, 13.0 ,4,Yes,Yes,Yes,Yes,Yes,Yes,No,No,36,55,Armed Robbery
+2001,1,Akwa_Ibom, 0.9 ,42,Yes,No,No,Yes,Yes,No,Yes,No,36,55,Armed Robbery
+2001,2,Akwa_Ibom, 27.3 ,9,No,No,Yes,No,Yes,No,No,Yes,36,55,Oil Bunkering
+2001,3,Akwa_Ibom, 35.3 ,51,Yes,No,Yes,No,No,No,Yes,Yes,36,55,Armed Robbery
+2001,4,Akwa_Ibom, 39.5 ,17,Yes,No,No,No,Yes,No,No,Yes,36,55,Armed Robbery
+2001,5,Akwa_Ibom, 9.7 ,17,Yes,Yes,Yes,Yes,No,No,Yes,No,36,55,Armed Robbery
+2001,6,Akwa_Ibom, 13.1 ,97,No,Yes,Yes,No,No,Yes,No,Yes,36,55,Kidnapping
+2001,7,Akwa_Ibom, 25.6 ,20,No,Yes,No,No,Yes,Yes,Yes,No,36,55,Kidnapping
+2001,8,Akwa_Ibom, 16.5 ,14,No,Yes,Yes,No,No,No,Yes,No,36,55,Kidnapping
+2001,9,Akwa_Ibom, 43.0 ,22,No,Yes,No,No,Yes,Yes,No,No,36,55,Kidnapping
+2001,10,Akwa_Ibom, 23.7 ,52,Yes,No,Yes,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2001,11,Akwa_Ibom, 40.0 ,27,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,36,55,Armed Robbery
+2001,12,Akwa_Ibom, 29.0 ,43,No,No,Yes,No,No,Yes,No,No,36,55,Oil Bunkering
+2002,1,Akwa_Ibom, 38.7 ,3,Yes,No,Yes,No,Yes,No,Yes,No,36,55,Armed Robbery
+2002,2,Akwa_Ibom, 16.6 ,88,Yes,No,Yes,No,Yes,Yes,Yes,No,36,55,Armed Robbery
+2002,3,Akwa_Ibom, 41.6 ,94,Yes,No,Yes,Yes,No,No,Yes,No,36,55,Armed Robbery
+2002,4,Akwa_Ibom, 13.7 ,8,No,Yes,Yes,No,No,No,Yes,Yes,36,55,Kidnapping
+2002,5,Akwa_Ibom, 27.3 ,86,No,No,Yes,Yes,Yes,Yes,No,Yes,36,55,Oil Bunkering
+2002,6,Akwa_Ibom, 10.7 ,89,Yes,No,No,Yes,No,No,Yes,No,36,55,Armed Robbery
+2002,7,Akwa_Ibom, 23.8 ,10,No,No,No,No,No,Yes,Yes,No,36,55,Human Trafficking
+2002,8,Akwa_Ibom, 15.9 ,29,No,Yes,Yes,No,No,Yes,Yes,No,36,55,Kidnapping
+2002,9,Akwa_Ibom, 13.3 ,40,No,Yes,Yes,No,Yes,Yes,No,Yes,36,55,Kidnapping
+2002,10,Akwa_Ibom, 48.3 ,65,No,Yes,No,Yes,Yes,No,Yes,No,36,55,Kidnapping
+2002,11,Akwa_Ibom, 8.0 ,21,No,No,Yes,Yes,No,No,No,Yes,36,55,Oil Bunkering
+2002,12,Akwa_Ibom, 39.4 ,24,Yes,No,Yes,Yes,No,No,Yes,No,36,55,Armed Robbery
+2003,1,Akwa_Ibom, 49.2 ,73,No,Yes,No,Yes,Yes,Yes,No,Yes,36,55,Kidnapping
+2003,2,Akwa_Ibom, 1.0 ,60,Yes,No,Yes,Yes,No,Yes,Yes,Yes,36,55,Armed Robbery
+2003,3,Akwa_Ibom, 35.0 ,26,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,36,55,Armed Robbery
+2003,4,Akwa_Ibom, 12.6 ,9,No,Yes,No,No,No,No,No,Yes,36,55,Kidnapping
+2003,5,Akwa_Ibom, 2.0 ,20,Yes,No,Yes,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2003,6,Akwa_Ibom, 20.1 ,56,Yes,No,Yes,Yes,No,Yes,Yes,Yes,36,55,Armed Robbery
+2003,7,Akwa_Ibom, 46.8 ,99,Yes,No,No,No,Yes,No,Yes,Yes,36,55,Armed Robbery
+2003,8,Akwa_Ibom, 0.6 ,36,No,No,Yes,No,Yes,No,No,No,36,55,Oil Bunkering
+2003,9,Akwa_Ibom, 29.4 ,36,No,Yes,No,Yes,Yes,No,Yes,No,36,55,Kidnapping
+2003,10,Akwa_Ibom, 25.1 ,73,Yes,Yes,Yes,Yes,Yes,Yes,No,No,36,55,Armed Robbery
+2003,11,Akwa_Ibom, 43.7 ,22,No,Yes,Yes,No,No,Yes,No,No,36,55,Kidnapping
+2003,12,Akwa_Ibom, 4.2 ,1,No,Yes,No,Yes,No,Yes,No,No,36,55,Kidnapping
+2004,1,Akwa_Ibom, 34.1 ,69,No,Yes,No,Yes,Yes,No,Yes,Yes,36,55,Kidnapping
+2004,2,Akwa_Ibom, 34.0 ,73,No,No,Yes,No,No,No,No,Yes,36,55,Oil Bunkering
+2004,3,Akwa_Ibom, 33.5 ,37,Yes,Yes,No,Yes,No,No,No,Yes,36,55,Armed Robbery
+2004,4,Akwa_Ibom, 47.1 ,83,Yes,Yes,No,No,Yes,No,Yes,Yes,36,55,Armed Robbery
+2004,5,Akwa_Ibom, 41.2 ,72,No,Yes,Yes,No,No,Yes,No,No,36,55,Kidnapping
+2004,6,Akwa_Ibom, 2.1 ,96,No,No,Yes,No,No,Yes,No,No,36,55,Oil Bunkering
+2004,7,Akwa_Ibom, 23.6 ,13,Yes,No,Yes,No,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2004,8,Akwa_Ibom, 19.9 ,84,Yes,No,No,No,No,Yes,Yes,No,36,55,Armed Robbery
+2004,9,Akwa_Ibom, 15.5 ,43,No,No,No,Yes,No,Yes,No,Yes,36,55,Piracy
+2004,10,Akwa_Ibom, 22.6 ,37,Yes,Yes,No,Yes,No,Yes,Yes,Yes,36,55,Armed Robbery
+2004,11,Akwa_Ibom, 19.2 ,94,No,Yes,No,Yes,Yes,Yes,Yes,No,36,55,Kidnapping
+2004,12,Akwa_Ibom, 21.6 ,74,No,No,Yes,Yes,Yes,Yes,Yes,No,36,55,Oil Bunkering
+2005,1,Akwa_Ibom, 49.0 ,95,Yes,No,No,No,No,No,No,No,36,55,Armed Robbery
+2005,2,Akwa_Ibom, 4.4 ,25,Yes,Yes,Yes,No,No,No,No,No,36,55,Armed Robbery
+2005,3,Akwa_Ibom, 46.1 ,93,No,Yes,No,Yes,No,Yes,Yes,No,36,55,Kidnapping
+2005,4,Akwa_Ibom, 24.0 ,88,No,No,Yes,No,Yes,No,No,No,36,55,Oil Bunkering
+2005,5,Akwa_Ibom, 31.2 ,21,Yes,No,Yes,Yes,Yes,Yes,Yes,No,36,55,Armed Robbery
+2005,6,Akwa_Ibom, 41.5 ,41,No,No,Yes,Yes,Yes,Yes,Yes,Yes,36,55,Oil Bunkering
+2005,7,Akwa_Ibom, 18.0 ,73,Yes,No,No,Yes,No,No,Yes,No,36,55,Armed Robbery
+2005,8,Akwa_Ibom, 21.5 ,42,No,Yes,Yes,No,No,Yes,Yes,Yes,36,55,Kidnapping
+2005,9,Akwa_Ibom, 20.5 ,42,Yes,Yes,Yes,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2005,10,Akwa_Ibom, 18.7 ,2,Yes,Yes,No,No,No,Yes,No,No,36,55,Armed Robbery
+2005,11,Akwa_Ibom, 46.3 ,68,Yes,No,Yes,No,No,Yes,No,Yes,36,55,Armed Robbery
+2005,12,Akwa_Ibom, 41.4 ,8,No,No,No,Yes,Yes,Yes,No,No,36,55,Piracy
+2006,1,Akwa_Ibom, 5.4 ,96,No,Yes,No,No,No,Yes,No,Yes,36,55,Kidnapping
+2006,2,Akwa_Ibom, 5.4 ,61,Yes,Yes,Yes,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2006,3,Akwa_Ibom, 21.4 ,14,No,Yes,Yes,No,No,No,Yes,Yes,36,55,Kidnapping
+2006,4,Akwa_Ibom, 4.9 ,77,Yes,Yes,No,Yes,Yes,No,No,No,36,55,Armed Robbery
+2006,5,Akwa_Ibom, 31.0 ,21,Yes,No,Yes,Yes,No,Yes,No,Yes,36,55,Armed Robbery
+2006,6,Akwa_Ibom, 7.2 ,24,No,Yes,No,No,Yes,No,Yes,Yes,36,55,Kidnapping
+2006,7,Akwa_Ibom, 26.1 ,50,No,Yes,No,No,Yes,Yes,Yes,Yes,36,55,Kidnapping
+2006,8,Akwa_Ibom, 0.4 ,82,Yes,Yes,No,No,Yes,Yes,Yes,No,36,55,Armed Robbery
+2006,9,Akwa_Ibom, 15.8 ,45,No,Yes,Yes,No,Yes,Yes,No,Yes,36,55,Kidnapping
+2006,10,Akwa_Ibom, 33.9 ,64,No,Yes,No,Yes,Yes,Yes,Yes,No,36,55,Kidnapping
+2006,11,Akwa_Ibom, 24.2 ,64,Yes,Yes,Yes,No,No,No,Yes,Yes,36,55,Armed Robbery
+2006,12,Akwa_Ibom, 48.9 ,26,Yes,Yes,Yes,No,No,No,No,Yes,36,55,Armed Robbery
+2007,1,Akwa_Ibom, 43.7 ,32,No,No,Yes,No,Yes,No,No,Yes,36,55,Oil Bunkering
+2007,2,Akwa_Ibom, 18.0 ,57,Yes,No,Yes,Yes,Yes,No,No,No,36,55,Armed Robbery
+2007,3,Akwa_Ibom, 2.3 ,53,Yes,No,No,Yes,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2007,4,Akwa_Ibom, 42.3 ,33,No,No,Yes,No,No,No,Yes,Yes,36,55,Oil Bunkering
+2007,5,Akwa_Ibom, 45.6 ,52,Yes,Yes,No,No,No,Yes,No,Yes,36,55,Armed Robbery
+2007,6,Akwa_Ibom, 41.0 ,95,Yes,No,No,No,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2007,7,Akwa_Ibom, 6.4 ,18,No,No,Yes,No,No,No,Yes,No,36,55,Oil Bunkering
+2007,8,Akwa_Ibom, 49.9 ,35,No,Yes,No,No,No,Yes,Yes,Yes,36,55,Kidnapping
+2007,9,Akwa_Ibom, 12.9 ,12,Yes,Yes,No,Yes,Yes,No,No,Yes,36,55,Armed Robbery
+2007,10,Akwa_Ibom, 36.2 ,51,Yes,No,Yes,Yes,Yes,No,No,Yes,36,55,Armed Robbery
+2007,11,Akwa_Ibom, 45.4 ,89,No,No,No,Yes,No,No,Yes,Yes,36,55,Piracy
+2007,12,Akwa_Ibom, 11.8 ,95,No,Yes,No,No,No,No,Yes,No,36,55,Kidnapping
+2008,1,Akwa_Ibom, 45.4 ,10,No,No,No,Yes,No,No,Yes,Yes,36,55,Piracy
+2008,2,Akwa_Ibom, 15.5 ,52,No,Yes,No,Yes,Yes,Yes,Yes,Yes,36,55,Kidnapping
+2008,3,Akwa_Ibom, 48.8 ,34,Yes,Yes,Yes,Yes,Yes,No,No,No,36,55,Armed Robbery
+2008,4,Akwa_Ibom, 14.1 ,67,No,Yes,No,No,Yes,No,No,Yes,36,55,Kidnapping
+2008,5,Akwa_Ibom, 47.7 ,39,No,Yes,No,No,No,Yes,Yes,Yes,36,55,Kidnapping
+2008,6,Akwa_Ibom, 2.7 ,8,Yes,No,No,Yes,No,No,Yes,Yes,36,55,Armed Robbery
+2008,7,Akwa_Ibom, 35.5 ,96,No,Yes,No,No,Yes,No,No,No,36,55,Kidnapping
+2008,8,Akwa_Ibom, 26.6 ,29,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,36,55,Armed Robbery
+2008,9,Akwa_Ibom, 23.9 ,22,No,No,No,Yes,Yes,Yes,No,No,36,55,Piracy
+2008,10,Akwa_Ibom, 11.2 ,84,No,Yes,Yes,Yes,No,No,Yes,No,36,55,Kidnapping
+2008,11,Akwa_Ibom, 35.3 ,70,No,No,No,Yes,Yes,Yes,No,No,36,55,Piracy
+2008,12,Akwa_Ibom, 9.5 ,61,Yes,No,Yes,No,No,No,Yes,No,36,55,Armed Robbery
+2009,1,Akwa_Ibom, 27.6 ,43,Yes,No,Yes,No,No,Yes,Yes,No,36,55,Armed Robbery
+2009,2,Akwa_Ibom, 12.7 ,49,No,Yes,Yes,No,Yes,No,No,No,36,55,Kidnapping
+2009,3,Akwa_Ibom, 47.8 ,29,Yes,No,Yes,No,Yes,No,No,No,36,55,Armed Robbery
+2009,4,Akwa_Ibom, 1.4 ,81,Yes,No,Yes,Yes,Yes,No,Yes,Yes,36,55,Armed Robbery
+2009,5,Akwa_Ibom, 10.0 ,31,Yes,Yes,No,No,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2009,6,Akwa_Ibom, 12.1 ,53,Yes,No,No,Yes,Yes,No,No,No,36,55,Armed Robbery
+2009,7,Akwa_Ibom, 20.7 ,34,Yes,No,No,No,No,Yes,No,No,36,55,Armed Robbery
+2009,8,Akwa_Ibom, 11.6 ,38,Yes,No,Yes,No,Yes,No,Yes,No,36,55,Armed Robbery
+2009,9,Akwa_Ibom, 24.6 ,57,No,No,No,No,Yes,No,Yes,No,36,55,Cultism
+2009,10,Akwa_Ibom, 43.6 ,4,No,No,Yes,Yes,Yes,No,No,No,36,55,Oil Bunkering
+2009,11,Akwa_Ibom, 35.6 ,2,Yes,Yes,Yes,Yes,Yes,No,No,No,36,55,Armed Robbery
+2009,12,Akwa_Ibom, 29.0 ,12,No,No,No,Yes,Yes,No,No,Yes,36,55,Piracy
+2010,1,Akwa_Ibom, 4.5 ,35,No,No,No,Yes,No,Yes,No,Yes,36,55,Piracy
+2010,2,Akwa_Ibom, 34.7 ,70,No,Yes,Yes,No,Yes,Yes,No,No,36,55,Kidnapping
+2010,3,Akwa_Ibom, 8.3 ,72,No,Yes,Yes,Yes,Yes,Yes,Yes,No,36,55,Kidnapping
+2010,4,Akwa_Ibom, 39.3 ,21,Yes,Yes,No,Yes,Yes,No,Yes,No,36,55,Armed Robbery
+2010,5,Akwa_Ibom, 12.5 ,61,No,No,No,No,No,No,No,Yes,36,55,Vandalism
+2010,6,Akwa_Ibom, 20.9 ,35,No,Yes,No,No,No,Yes,Yes,No,36,55,Kidnapping
+2010,7,Akwa_Ibom, 17.5 ,48,Yes,No,No,Yes,Yes,No,Yes,Yes,36,55,Armed Robbery
+2010,8,Akwa_Ibom, 42.9 ,15,Yes,No,Yes,No,Yes,No,No,Yes,36,55,Armed Robbery
+2010,9,Akwa_Ibom, 6.3 ,71,No,Yes,No,Yes,No,No,Yes,Yes,36,55,Kidnapping
+2010,10,Akwa_Ibom, 28.3 ,15,No,Yes,No,No,No,Yes,Yes,No,36,55,Kidnapping
+2010,11,Akwa_Ibom, 7.1 ,6,No,No,No,Yes,No,Yes,Yes,No,36,55,Piracy
+2010,12,Akwa_Ibom, 35.2 ,81,No,Yes,Yes,Yes,Yes,Yes,No,Yes,36,55,Kidnapping
+2011,1,Akwa_Ibom, 45.3 ,68,No,No,Yes,Yes,Yes,Yes,No,Yes,36,55,Oil Bunkering
+2011,2,Akwa_Ibom, 21.7 ,22,No,Yes,Yes,Yes,No,Yes,Yes,Yes,36,55,Kidnapping
+2011,3,Akwa_Ibom, 24.4 ,32,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,36,55,Armed Robbery
+2011,4,Akwa_Ibom, 46.4 ,22,No,Yes,No,No,No,No,Yes,No,36,55,Kidnapping
+2011,5,Akwa_Ibom, 26.0 ,27,No,No,Yes,Yes,No,No,Yes,Yes,36,55,Oil Bunkering
+2011,6,Akwa_Ibom, 24.4 ,15,Yes,Yes,No,Yes,No,No,Yes,No,36,55,Armed Robbery
+2011,7,Akwa_Ibom, 28.9 ,44,Yes,No,No,Yes,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2011,8,Akwa_Ibom, 34.5 ,86,Yes,No,No,Yes,No,Yes,No,No,36,55,Armed Robbery
+2011,9,Akwa_Ibom, 5.3 ,92,Yes,No,No,Yes,No,No,Yes,Yes,36,55,Armed Robbery
+2011,10,Akwa_Ibom, 41.1 ,9,No,No,Yes,No,Yes,Yes,Yes,No,36,55,Oil Bunkering
+2011,11,Akwa_Ibom, 21.8 ,34,No,Yes,Yes,No,No,No,No,No,36,55,Kidnapping
+2011,12,Akwa_Ibom, 3.6 ,73,No,No,Yes,Yes,Yes,No,Yes,No,36,55,Oil Bunkering
+2012,1,Akwa_Ibom, 39.3 ,15,No,No,No,No,No,No,Yes,Yes,36,55,Drug Trafficking
+2012,2,Akwa_Ibom, 18.8 ,62,No,Yes,No,Yes,Yes,No,Yes,No,36,55,Kidnapping
+2012,3,Akwa_Ibom, 5.0 ,45,No,No,No,No,No,Yes,Yes,Yes,36,55,Human Trafficking
+2012,4,Akwa_Ibom, 31.7 ,84,Yes,Yes,No,No,No,No,No,No,36,55,Armed Robbery
+2012,5,Akwa_Ibom, 44.0 ,72,No,No,No,Yes,No,Yes,Yes,No,36,55,Piracy
+2012,6,Akwa_Ibom, 44.4 ,58,Yes,Yes,Yes,No,No,No,No,Yes,36,55,Armed Robbery
+2012,7,Akwa_Ibom, 47.9 ,92,Yes,No,No,No,No,No,Yes,No,36,55,Armed Robbery
+2012,8,Akwa_Ibom, 43.4 ,19,No,Yes,Yes,Yes,Yes,No,Yes,No,36,55,Kidnapping
+2012,9,Akwa_Ibom, 0.1 ,16,Yes,No,No,Yes,Yes,No,No,Yes,36,55,Armed Robbery
+2012,10,Akwa_Ibom, 19.0 ,75,No,No,No,No,No,Yes,Yes,No,36,55,Human Trafficking
+2012,11,Akwa_Ibom, 40.9 ,8,Yes,Yes,Yes,No,No,No,No,No,36,55,Armed Robbery
+2012,12,Akwa_Ibom, 18.3 ,33,No,Yes,Yes,No,No,Yes,No,No,36,55,Kidnapping
+2013,1,Akwa_Ibom, 30.1 ,74,Yes,Yes,No,Yes,Yes,No,No,No,36,55,Armed Robbery
+2013,2,Akwa_Ibom, 30.3 ,18,No,Yes,No,No,Yes,No,Yes,Yes,36,55,Kidnapping
+2013,3,Akwa_Ibom, 18.3 ,35,No,No,No,No,No,No,Yes,No,36,55,Drug Trafficking
+2013,4,Akwa_Ibom, 45.2 ,43,No,No,No,No,Yes,Yes,Yes,No,36,55,Cultism
+2013,5,Akwa_Ibom, 25.2 ,50,No,Yes,Yes,Yes,No,No,Yes,No,36,55,Kidnapping
+2013,6,Akwa_Ibom, 23.2 ,3,No,No,No,Yes,No,No,No,No,36,55,Piracy
+2013,7,Akwa_Ibom, 49.9 ,91,Yes,Yes,Yes,Yes,No,No,Yes,No,36,55,Armed Robbery
+2013,8,Akwa_Ibom, 24.7 ,59,Yes,Yes,No,Yes,Yes,No,Yes,No,36,55,Armed Robbery
+2013,9,Akwa_Ibom, 8.9 ,28,Yes,No,Yes,No,No,No,No,No,36,55,Armed Robbery
+2013,10,Akwa_Ibom, 25.7 ,46,No,No,Yes,Yes,No,Yes,No,No,36,55,Oil Bunkering
+2013,11,Akwa_Ibom, 40.7 ,64,Yes,No,No,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2013,12,Akwa_Ibom, 38.8 ,70,No,No,Yes,No,Yes,No,No,Yes,36,55,Oil Bunkering
+2014,1,Akwa_Ibom, 39.4 ,47,No,No,No,No,Yes,No,No,Yes,36,55,Cultism
+2014,2,Akwa_Ibom, 35.4 ,14,Yes,No,Yes,No,Yes,Yes,No,Yes,36,55,Armed Robbery
+2014,3,Akwa_Ibom, 12.7 ,7,Yes,No,No,Yes,No,No,No,No,36,55,Armed Robbery
+2014,4,Akwa_Ibom, 43.1 ,74,No,Yes,Yes,Yes,Yes,Yes,No,No,36,55,Kidnapping
+2014,5,Akwa_Ibom, 44.7 ,79,Yes,Yes,No,Yes,No,No,Yes,Yes,36,55,Armed Robbery
+2014,6,Akwa_Ibom, 9.7 ,31,No,Yes,No,Yes,Yes,No,Yes,Yes,36,55,Kidnapping
+2014,7,Akwa_Ibom, 6.5 ,93,No,Yes,Yes,Yes,No,Yes,Yes,Yes,36,55,Kidnapping
+2014,8,Akwa_Ibom, 48.8 ,81,No,Yes,Yes,No,Yes,No,Yes,No,36,55,Kidnapping
+2014,9,Akwa_Ibom, 43.4 ,51,No,No,Yes,Yes,No,Yes,Yes,No,36,55,Oil Bunkering
+2014,10,Akwa_Ibom, 44.7 ,29,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,36,55,Kidnapping
+2014,11,Akwa_Ibom, 44.3 ,15,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2014,12,Akwa_Ibom, 27.1 ,90,Yes,Yes,Yes,Yes,Yes,No,No,Yes,36,55,Armed Robbery
+2015,1,Akwa_Ibom, 32.3 ,76,No,Yes,No,No,No,Yes,Yes,Yes,36,55,Kidnapping
+2015,2,Akwa_Ibom, 27.3 ,25,No,Yes,Yes,No,Yes,Yes,Yes,Yes,36,55,Kidnapping
+2015,3,Akwa_Ibom, 2.6 ,61,Yes,Yes,No,No,Yes,No,Yes,No,36,55,Armed Robbery
+2015,4,Akwa_Ibom, 37.3 ,41,Yes,Yes,No,No,Yes,No,No,Yes,36,55,Armed Robbery
+2015,5,Akwa_Ibom, 25.3 ,69,No,No,No,No,Yes,No,Yes,No,36,55,Cultism
+2015,6,Akwa_Ibom, 32.4 ,4,Yes,No,No,Yes,No,No,Yes,Yes,36,55,Armed Robbery
+2015,7,Akwa_Ibom, 25.1 ,57,No,Yes,Yes,No,Yes,No,No,Yes,36,55,Kidnapping
+2015,8,Akwa_Ibom, 24.6 ,31,Yes,No,Yes,No,No,No,Yes,No,36,55,Armed Robbery
+2015,9,Akwa_Ibom, 8.6 ,3,No,No,No,No,No,Yes,Yes,Yes,36,55,Human Trafficking
+2015,10,Akwa_Ibom, 13.9 ,67,Yes,No,Yes,Yes,No,No,No,No,36,55,Armed Robbery
+2015,11,Akwa_Ibom, 7.9 ,90,No,No,Yes,Yes,No,Yes,Yes,No,36,55,Oil Bunkering
+2015,12,Akwa_Ibom, 9.8 ,50,Yes,Yes,No,No,Yes,No,No,Yes,36,55,Armed Robbery
+2016,1,Akwa_Ibom, 48.6 ,17,Yes,No,Yes,Yes,No,Yes,Yes,Yes,36,55,Armed Robbery
+2016,2,Akwa_Ibom, 7.7 ,60,No,No,Yes,Yes,No,Yes,Yes,No,36,55,Oil Bunkering
+2016,3,Akwa_Ibom, 13.5 ,74,Yes,No,Yes,No,No,No,Yes,No,36,55,Armed Robbery
+2016,4,Akwa_Ibom, 29.5 ,66,No,Yes,No,Yes,No,No,No,Yes,36,55,Kidnapping
+2016,5,Akwa_Ibom, 30.5 ,88,Yes,Yes,Yes,Yes,Yes,Yes,No,No,36,55,Armed Robbery
+2016,6,Akwa_Ibom, 7.7 ,75,No,Yes,No,Yes,Yes,No,No,Yes,36,55,Kidnapping
+2016,7,Akwa_Ibom, 39.7 ,24,Yes,Yes,Yes,No,No,No,Yes,No,36,55,Armed Robbery
+2016,8,Akwa_Ibom, 39.3 ,99,No,Yes,Yes,No,No,Yes,Yes,Yes,36,55,Kidnapping
+2016,9,Akwa_Ibom, 11.9 ,87,Yes,Yes,Yes,No,No,Yes,No,No,36,55,Armed Robbery
+2016,10,Akwa_Ibom, 14.4 ,32,No,Yes,No,Yes,Yes,Yes,No,No,36,55,Kidnapping
+2016,11,Akwa_Ibom, 46.9 ,87,Yes,No,No,No,Yes,No,Yes,Yes,36,55,Armed Robbery
+2016,12,Akwa_Ibom, 41.3 ,98,No,No,Yes,Yes,Yes,No,Yes,No,36,55,Oil Bunkering
+2017,1,Akwa_Ibom, 34.9 ,19,No,No,No,Yes,Yes,No,Yes,No,36,55,Piracy
+2017,2,Akwa_Ibom, 4.1 ,66,No,Yes,Yes,Yes,Yes,No,Yes,No,36,55,Kidnapping
+2017,3,Akwa_Ibom, 20.9 ,60,Yes,Yes,No,No,No,Yes,No,No,36,55,Armed Robbery
+2017,4,Akwa_Ibom, 28.0 ,66,No,Yes,No,No,Yes,No,Yes,No,36,55,Kidnapping
+2017,5,Akwa_Ibom, 9.4 ,15,Yes,Yes,Yes,No,Yes,Yes,Yes,No,36,55,Armed Robbery
+2017,6,Akwa_Ibom, 22.4 ,85,No,Yes,Yes,No,No,No,Yes,No,36,55,Kidnapping
+2017,7,Akwa_Ibom, 30.1 ,35,Yes,No,Yes,Yes,Yes,No,Yes,Yes,36,55,Armed Robbery
+2017,8,Akwa_Ibom, 16.4 ,69,No,No,Yes,No,Yes,Yes,Yes,No,36,55,Oil Bunkering
+2017,9,Akwa_Ibom, 39.0 ,27,Yes,Yes,No,Yes,Yes,No,Yes,No,36,55,Armed Robbery
+2017,10,Akwa_Ibom, 42.0 ,88,Yes,Yes,No,No,No,No,Yes,Yes,36,55,Armed Robbery
+2017,11,Akwa_Ibom, 16.2 ,7,No,Yes,No,No,Yes,Yes,No,No,36,55,Kidnapping
+2017,12,Akwa_Ibom, 41.9 ,6,Yes,Yes,Yes,No,No,No,No,No,36,55,Armed Robbery
+2018,1,Akwa_Ibom, 5.2 ,33,Yes,No,Yes,Yes,No,Yes,No,Yes,36,55,Armed Robbery
+2018,2,Akwa_Ibom, 41.9 ,58,No,Yes,No,Yes,Yes,Yes,Yes,No,36,55,Kidnapping
+2018,3,Akwa_Ibom, 7.6 ,49,Yes,Yes,Yes,Yes,Yes,Yes,No,No,36,55,Armed Robbery
+2018,4,Akwa_Ibom, 4.1 ,17,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2018,5,Akwa_Ibom, 32.1 ,42,Yes,Yes,No,Yes,Yes,No,Yes,Yes,36,55,Armed Robbery
+2018,6,Akwa_Ibom, 23.6 ,94,No,No,No,No,No,No,Yes,No,36,55,Drug Trafficking
+2018,7,Akwa_Ibom, 45.4 ,72,Yes,Yes,No,Yes,Yes,No,Yes,No,36,55,Armed Robbery
+2018,8,Akwa_Ibom, 18.2 ,40,No,Yes,No,Yes,No,Yes,No,Yes,36,55,Kidnapping
+2018,9,Akwa_Ibom, 14.4 ,46,Yes,No,Yes,Yes,No,No,Yes,No,36,55,Armed Robbery
+2018,10,Akwa_Ibom, 25.0 ,71,Yes,No,Yes,Yes,No,No,Yes,Yes,36,55,Armed Robbery
+2018,11,Akwa_Ibom, 22.8 ,70,Yes,No,Yes,No,No,No,No,Yes,36,55,Armed Robbery
+2018,12,Akwa_Ibom, 17.2 ,68,No,Yes,No,Yes,No,No,No,Yes,36,55,Kidnapping
+2019,1,Akwa_Ibom, 34.7 ,1,Yes,Yes,No,No,Yes,Yes,No,No,36,55,Armed Robbery
+2019,2,Akwa_Ibom, 38.0 ,79,Yes,No,No,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2019,3,Akwa_Ibom, 42.6 ,95,No,No,No,No,No,No,No,Yes,36,55,Vandalism
+2019,4,Akwa_Ibom, 48.6 ,89,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2019,5,Akwa_Ibom, 13.3 ,97,No,No,Yes,No,Yes,No,Yes,No,36,55,Oil Bunkering
+2019,6,Akwa_Ibom, 35.8 ,52,No,No,No,Yes,No,No,No,No,36,55,Piracy
+2019,7,Akwa_Ibom, 19.7 ,35,Yes,No,No,Yes,No,No,No,No,36,55,Armed Robbery
+2019,8,Akwa_Ibom, 33.9 ,69,No,Yes,No,Yes,Yes,Yes,No,Yes,36,55,Kidnapping
+2019,9,Akwa_Ibom, 23.8 ,5,Yes,Yes,Yes,Yes,No,No,Yes,No,36,55,Armed Robbery
+2019,10,Akwa_Ibom, 49.7 ,17,No,Yes,Yes,Yes,Yes,Yes,Yes,No,36,55,Kidnapping
+2019,11,Akwa_Ibom, 36.4 ,53,No,No,Yes,No,Yes,Yes,Yes,Yes,36,55,Oil Bunkering
+2019,12,Akwa_Ibom, 47.6 ,52,Yes,No,No,No,No,No,Yes,Yes,36,55,Armed Robbery
+2020,1,Akwa_Ibom, 41.7 ,14,No,No,No,Yes,Yes,Yes,Yes,No,36,55,Piracy
+2020,2,Akwa_Ibom, 45.1 ,29,No,No,Yes,No,No,Yes,Yes,No,36,55,Oil Bunkering
+2020,3,Akwa_Ibom, 40.7 ,8,No,No,No,Yes,No,No,No,Yes,36,55,Piracy
+2020,4,Akwa_Ibom, 23.0 ,98,No,No,Yes,No,No,Yes,Yes,No,36,55,Oil Bunkering
+2020,5,Akwa_Ibom, 12.6 ,1,No,Yes,No,No,Yes,Yes,No,Yes,36,55,Kidnapping
+2020,6,Akwa_Ibom, 18.5 ,29,Yes,Yes,Yes,No,No,No,No,Yes,36,55,Armed Robbery
+2020,7,Akwa_Ibom, 1.0 ,36,No,No,No,No,Yes,No,No,No,36,55,Cultism
+2020,8,Akwa_Ibom, 26.2 ,51,Yes,Yes,Yes,No,No,Yes,No,No,36,55,Armed Robbery
+2020,9,Akwa_Ibom, 25.3 ,37,No,No,Yes,Yes,No,No,No,No,36,55,Oil Bunkering
+2020,10,Akwa_Ibom, 26.3 ,93,Yes,Yes,Yes,Yes,Yes,No,Yes,No,36,55,Armed Robbery
+2020,11,Akwa_Ibom, 48.7 ,69,Yes,No,Yes,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2020,12,Akwa_Ibom, 45.6 ,53,No,No,Yes,Yes,No,Yes,Yes,No,36,55,Oil Bunkering
+2021,1,Akwa_Ibom, 8.1 ,96,No,Yes,Yes,No,Yes,No,Yes,No,36,55,Kidnapping
+2021,2,Akwa_Ibom, 18.4 ,52,No,Yes,No,Yes,Yes,Yes,No,No,36,55,Kidnapping
+2021,3,Akwa_Ibom, 21.2 ,88,Yes,No,No,No,Yes,No,No,Yes,36,55,Armed Robbery
+2021,4,Akwa_Ibom, 18.0 ,83,No,No,No,No,No,No,No,No,36,55,Human Trafficking
+2021,5,Akwa_Ibom, 39.9 ,12,Yes,Yes,Yes,No,Yes,Yes,Yes,No,36,55,Armed Robbery
+2021,6,Akwa_Ibom, 26.2 ,52,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,36,55,Armed Robbery
+2021,7,Akwa_Ibom, 28.6 ,1,Yes,No,No,Yes,No,No,Yes,Yes,36,55,Armed Robbery
+2021,8,Akwa_Ibom, 42.7 ,7,No,Yes,Yes,No,Yes,No,Yes,Yes,36,55,Kidnapping
+2021,9,Akwa_Ibom, 40.3 ,17,No,No,Yes,No,No,No,No,Yes,36,55,Oil Bunkering
+2021,10,Akwa_Ibom, 6.6 ,98,Yes,No,Yes,Yes,No,No,No,Yes,36,55,Armed Robbery
+2021,11,Akwa_Ibom, 35.7 ,43,Yes,No,Yes,Yes,Yes,Yes,Yes,No,36,55,Armed Robbery
+2021,12,Akwa_Ibom, 21.8 ,71,No,No,Yes,Yes,No,No,Yes,Yes,36,55,Oil Bunkering
+2022,1,Akwa_Ibom, 14.7 ,17,Yes,Yes,No,Yes,Yes,Yes,No,Yes,36,55,Armed Robbery
+2022,2,Akwa_Ibom, 2.5 ,59,No,Yes,No,Yes,Yes,Yes,No,Yes,36,55,Kidnapping
+2022,3,Akwa_Ibom, 24.4 ,3,Yes,Yes,No,No,Yes,No,No,Yes,36,55,Armed Robbery
+2022,4,Akwa_Ibom, 17.8 ,29,No,Yes,No,Yes,Yes,Yes,No,Yes,36,55,Kidnapping
+2022,5,Akwa_Ibom, 12.6 ,22,Yes,Yes,No,No,No,Yes,Yes,Yes,36,55,Armed Robbery
+2022,6,Akwa_Ibom, 34.7 ,38,No,Yes,Yes,No,No,No,No,Yes,36,55,Kidnapping
+2022,7,Akwa_Ibom, 38.5 ,54,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,36,55,Armed Robbery
+2022,8,Akwa_Ibom, 12.2 ,93,No,No,Yes,Yes,Yes,Yes,No,No,36,55,Oil Bunkering
+2022,9,Akwa_Ibom, 2.5 ,50,No,Yes,Yes,No,No,No,No,No,36,55,Kidnapping
+2022,10,Akwa_Ibom, 42.4 ,69,Yes,Yes,No,Yes,Yes,No,Yes,No,36,55,Armed Robbery
+2022,11,Akwa_Ibom, 0.5 ,30,Yes,No,No,No,No,No,Yes,Yes,36,55,Armed Robbery
+2022,12,Akwa_Ibom, 46.9 ,23,No,Yes,No,Yes,Yes,No,Yes,Yes,36,55,Kidnapping
+2000,1,Bayelsa, 31.4 ,85,Yes,Yes,Yes,Yes,No,No,Yes,Yes,40,62,Armed Robbery
+2000,2,Bayelsa, 16.1 ,90,No,No,No,Yes,No,No,Yes,No,40,62,Piracy
+2000,3,Bayelsa, 12.3 ,47,Yes,Yes,Yes,No,No,No,Yes,Yes,40,62,Armed Robbery
+2000,4,Bayelsa, 0.5 ,21,No,Yes,No,Yes,Yes,Yes,No,Yes,40,62,Kidnapping
+2000,5,Bayelsa, 11.8 ,20,No,Yes,No,No,Yes,Yes,No,Yes,40,62,Kidnapping
+2000,6,Bayelsa, 6.9 ,23,No,No,Yes,Yes,Yes,No,No,No,40,62,Oil Bunkering
+2000,7,Bayelsa, 30.6 ,68,No,Yes,Yes,No,Yes,Yes,No,No,40,62,Kidnapping
+2000,8,Bayelsa, 8.3 ,21,No,Yes,No,Yes,Yes,Yes,Yes,Yes,40,62,Kidnapping
+2000,9,Bayelsa, 26.4 ,21,No,No,No,No,No,No,No,No,40,62,Oil Bunkering
+2000,10,Bayelsa, 29.5 ,1,Yes,Yes,Yes,No,No,Yes,Yes,Yes,40,62,Armed Robbery
+2000,11,Bayelsa, 14.9 ,15,Yes,No,No,No,No,No,No,Yes,40,62,Armed Robbery
+2000,12,Bayelsa, 1.8 ,17,Yes,No,No,No,No,Yes,No,No,40,62,Armed Robbery
+2001,1,Bayelsa, 1.9 ,51,No,Yes,Yes,No,No,No,No,No,40,62,Kidnapping
+2001,2,Bayelsa, 1.3 ,63,No,No,No,No,No,Yes,Yes,No,40,62,Human Trafficking
+2001,3,Bayelsa, 37.0 ,14,No,No,Yes,Yes,No,Yes,No,No,40,62,Oil Bunkering
+2001,4,Bayelsa, 15.9 ,59,No,Yes,No,No,Yes,Yes,Yes,Yes,40,62,Kidnapping
+2001,5,Bayelsa, 39.8 ,83,Yes,No,Yes,No,No,No,Yes,Yes,40,62,Armed Robbery
+2001,6,Bayelsa, 21.6 ,50,Yes,No,No,No,Yes,Yes,No,No,40,62,Armed Robbery
+2001,7,Bayelsa, 22.6 ,34,No,Yes,Yes,Yes,No,Yes,Yes,No,40,62,Kidnapping
+2001,8,Bayelsa, 25.6 ,6,Yes,Yes,No,Yes,No,No,Yes,Yes,40,62,Armed Robbery
+2001,9,Bayelsa, 35.7 ,49,Yes,Yes,Yes,Yes,Yes,No,No,Yes,40,62,Armed Robbery
+2001,10,Bayelsa, 13.7 ,6,No,No,No,No,No,Yes,No,Yes,40,62,Human Trafficking
+2001,11,Bayelsa, 6.1 ,69,Yes,Yes,No,Yes,Yes,Yes,No,Yes,40,62,Armed Robbery
+2001,12,Bayelsa, 27.8 ,7,No,No,No,Yes,No,Yes,No,No,40,62,Piracy
+2002,1,Bayelsa, 16.3 ,97,Yes,No,No,No,Yes,Yes,No,No,40,62,Armed Robbery
+2002,2,Bayelsa, 22.1 ,77,No,No,No,No,No,No,No,No,40,62,Piracy
+2002,3,Bayelsa, 32.3 ,51,No,No,No,Yes,Yes,Yes,Yes,Yes,40,62,Piracy
+2002,4,Bayelsa, 24.7 ,1,No,No,No,No,Yes,Yes,No,Yes,40,62,Cultism
+2002,5,Bayelsa, 31.0 ,13,No,No,No,No,No,No,No,No,40,62,Armed Robbery
+2002,6,Bayelsa, 27.2 ,43,Yes,No,No,No,No,Yes,Yes,No,40,62,Armed Robbery
+2002,7,Bayelsa, 37.0 ,27,No,Yes,Yes,No,Yes,Yes,No,No,40,62,Kidnapping
+2002,8,Bayelsa, 35.3 ,71,No,Yes,Yes,Yes,No,Yes,Yes,Yes,40,62,Kidnapping
+2002,9,Bayelsa, 26.7 ,3,No,No,No,No,Yes,No,No,No,40,62,Cultism
+2002,10,Bayelsa, 33.9 ,58,Yes,No,Yes,Yes,No,No,No,Yes,40,62,Armed Robbery
+2002,11,Bayelsa, 43.7 ,89,No,Yes,No,Yes,Yes,Yes,Yes,No,40,62,Kidnapping
+2002,12,Bayelsa, 21.6 ,97,Yes,No,No,Yes,No,Yes,No,No,40,62,Armed Robbery
+2003,1,Bayelsa, 20.6 ,17,No,Yes,Yes,Yes,Yes,No,Yes,No,40,62,Kidnapping
+2003,2,Bayelsa, 38.2 ,45,Yes,Yes,No,No,No,Yes,No,Yes,40,62,Armed Robbery
+2003,3,Bayelsa, 29.1 ,78,Yes,Yes,No,No,Yes,Yes,No,Yes,40,62,Armed Robbery
+2003,4,Bayelsa, 3.6 ,58,No,No,Yes,No,Yes,No,Yes,Yes,40,62,Oil Bunkering
+2003,5,Bayelsa, 44.6 ,56,Yes,No,Yes,Yes,No,No,No,Yes,40,62,Armed Robbery
+2003,6,Bayelsa, 1.5 ,54,No,Yes,No,Yes,No,No,No,Yes,40,62,Kidnapping
+2003,7,Bayelsa, 37.4 ,87,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,40,62,Kidnapping
+2003,8,Bayelsa, 37.9 ,88,No,Yes,Yes,No,Yes,Yes,No,No,40,62,Kidnapping
+2003,9,Bayelsa, 47.7 ,29,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2003,10,Bayelsa, 2.7 ,54,Yes,Yes,Yes,No,Yes,Yes,No,No,40,62,Armed Robbery
+2003,11,Bayelsa, 29.8 ,27,No,No,Yes,No,No,No,Yes,Yes,40,62,Oil Bunkering
+2003,12,Bayelsa, 21.4 ,45,No,Yes,No,No,Yes,Yes,No,No,40,62,Kidnapping
+2004,1,Bayelsa, 16.5 ,87,Yes,No,Yes,No,Yes,Yes,Yes,No,40,62,Armed Robbery
+2004,2,Bayelsa, 4.5 ,31,No,Yes,Yes,Yes,Yes,No,Yes,Yes,40,62,Kidnapping
+2004,3,Bayelsa, 28.1 ,36,No,No,No,No,No,No,No,No,40,62,Kidnapping
+2004,4,Bayelsa, 24.0 ,81,No,No,No,Yes,Yes,Yes,No,Yes,40,62,Piracy
+2004,5,Bayelsa, 5.2 ,61,Yes,No,No,No,No,No,Yes,Yes,40,62,Armed Robbery
+2004,6,Bayelsa, 30.6 ,37,Yes,No,Yes,Yes,No,No,No,Yes,40,62,Armed Robbery
+2004,7,Bayelsa, 36.9 ,67,Yes,No,No,Yes,No,Yes,Yes,Yes,40,62,Armed Robbery
+2004,8,Bayelsa, 38.4 ,36,No,No,No,No,No,Yes,No,No,40,62,Human Trafficking
+2004,9,Bayelsa, 45.3 ,5,No,Yes,Yes,No,No,Yes,No,Yes,40,62,Kidnapping
+2004,10,Bayelsa, 20.5 ,46,No,No,No,No,No,Yes,Yes,No,40,62,Human Trafficking
+2004,11,Bayelsa, 47.7 ,79,Yes,Yes,No,Yes,No,No,Yes,No,40,62,Armed Robbery
+2004,12,Bayelsa, 43.3 ,52,No,No,No,No,Yes,No,No,No,40,62,Cultism
+2005,1,Bayelsa, 14.8 ,49,No,No,No,No,Yes,Yes,No,Yes,40,62,Cultism
+2005,2,Bayelsa, 8.0 ,6,No,Yes,Yes,Yes,No,Yes,No,No,40,62,Kidnapping
+2005,3,Bayelsa, 21.8 ,10,No,No,No,No,Yes,No,No,Yes,40,62,Cultism
+2005,4,Bayelsa, 20.1 ,96,Yes,Yes,No,Yes,Yes,Yes,No,No,40,62,Armed Robbery
+2005,5,Bayelsa, 28.8 ,23,Yes,Yes,Yes,No,No,Yes,Yes,Yes,40,62,Armed Robbery
+2005,6,Bayelsa, 29.2 ,17,No,Yes,No,Yes,Yes,Yes,No,Yes,40,62,Kidnapping
+2005,7,Bayelsa, 37.5 ,84,Yes,Yes,Yes,Yes,No,Yes,No,Yes,40,62,Armed Robbery
+2005,8,Bayelsa, 25.5 ,44,Yes,No,Yes,No,Yes,No,Yes,Yes,40,62,Armed Robbery
+2005,9,Bayelsa, 5.2 ,41,No,No,Yes,Yes,No,Yes,Yes,No,40,62,Oil Bunkering
+2005,10,Bayelsa, 42.9 ,15,No,Yes,No,No,No,No,Yes,No,40,62,Kidnapping
+2005,11,Bayelsa, 15.5 ,44,Yes,No,Yes,No,Yes,Yes,No,Yes,40,62,Armed Robbery
+2005,12,Bayelsa, 48.6 ,58,No,No,Yes,Yes,Yes,Yes,Yes,No,40,62,Oil Bunkering
+2006,1,Bayelsa, 5.9 ,86,Yes,Yes,Yes,No,No,No,Yes,Yes,40,62,Armed Robbery
+2006,2,Bayelsa, 47.9 ,50,No,No,No,Yes,No,Yes,Yes,Yes,40,62,Piracy
+2006,3,Bayelsa, 4.6 ,52,Yes,Yes,No,Yes,No,No,Yes,No,40,62,Armed Robbery
+2006,4,Bayelsa, 11.6 ,70,No,Yes,No,Yes,Yes,Yes,No,Yes,40,62,Kidnapping
+2006,5,Bayelsa, 2.3 ,68,Yes,No,No,Yes,Yes,Yes,No,Yes,40,62,Armed Robbery
+2006,6,Bayelsa, 35.3 ,63,Yes,No,No,Yes,Yes,Yes,No,Yes,40,62,Armed Robbery
+2006,7,Bayelsa, 42.5 ,58,Yes,No,No,Yes,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2006,8,Bayelsa, 21.7 ,23,No,Yes,No,Yes,No,Yes,Yes,Yes,40,62,Kidnapping
+2006,9,Bayelsa, 46.4 ,44,Yes,Yes,Yes,Yes,No,No,Yes,No,40,62,Armed Robbery
+2006,10,Bayelsa, 29.5 ,83,Yes,No,Yes,No,No,No,Yes,No,40,62,Armed Robbery
+2006,11,Bayelsa, 31.5 ,95,No,No,Yes,No,No,Yes,Yes,No,40,62,Oil Bunkering
+2006,12,Bayelsa, 42.3 ,44,No,No,Yes,Yes,Yes,Yes,Yes,Yes,40,62,Oil Bunkering
+2007,1,Bayelsa, 14.8 ,52,Yes,No,No,No,No,No,No,Yes,40,62,Armed Robbery
+2007,2,Bayelsa, 17.7 ,67,Yes,Yes,Yes,No,No,No,No,Yes,40,62,Armed Robbery
+2007,3,Bayelsa, 45.3 ,28,No,No,Yes,No,Yes,Yes,Yes,Yes,40,62,Oil Bunkering
+2007,4,Bayelsa, 45.0 ,67,No,Yes,Yes,No,Yes,Yes,No,Yes,40,62,Kidnapping
+2007,5,Bayelsa, 48.8 ,78,No,Yes,Yes,No,No,No,Yes,Yes,40,62,Kidnapping
+2007,6,Bayelsa, 45.1 ,18,No,No,No,No,Yes,Yes,Yes,No,40,62,Cultism
+2007,7,Bayelsa, 6.4 ,27,No,No,No,Yes,No,No,No,Yes,40,62,Piracy
+2007,8,Bayelsa, 41.2 ,51,Yes,No,No,No,Yes,Yes,Yes,No,40,62,Armed Robbery
+2007,9,Bayelsa, 20.5 ,60,No,Yes,Yes,No,Yes,No,No,Yes,40,62,Kidnapping
+2007,10,Bayelsa, 49.5 ,74,Yes,No,No,No,No,No,Yes,No,40,62,Armed Robbery
+2007,11,Bayelsa, 23.6 ,49,Yes,No,Yes,No,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2007,12,Bayelsa, 27.7 ,15,Yes,Yes,No,Yes,No,No,No,No,40,62,Armed Robbery
+2008,1,Bayelsa, 26.5 ,83,No,No,No,Yes,Yes,Yes,Yes,No,40,62,Piracy
+2008,2,Bayelsa, 16.1 ,73,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2008,3,Bayelsa, 3.8 ,68,Yes,No,No,Yes,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2008,4,Bayelsa, 44.8 ,15,No,Yes,No,No,Yes,Yes,No,No,40,62,Kidnapping
+2008,5,Bayelsa, 40.1 ,51,Yes,No,Yes,Yes,Yes,No,Yes,Yes,40,62,Armed Robbery
+2008,6,Bayelsa, 7.0 ,48,Yes,No,No,Yes,No,Yes,Yes,Yes,40,62,Armed Robbery
+2008,7,Bayelsa, 38.8 ,72,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,40,62,Kidnapping
+2008,8,Bayelsa, 31.3 ,1,Yes,Yes,Yes,Yes,No,Yes,No,No,40,62,Armed Robbery
+2008,9,Bayelsa, 20.5 ,7,Yes,No,Yes,No,Yes,Yes,No,Yes,40,62,Armed Robbery
+2008,10,Bayelsa, 12.7 ,53,Yes,Yes,Yes,Yes,No,No,No,No,40,62,Armed Robbery
+2008,11,Bayelsa, 43.0 ,31,No,Yes,Yes,No,Yes,Yes,No,No,40,62,Kidnapping
+2008,12,Bayelsa, 35.0 ,18,No,Yes,No,Yes,No,No,No,Yes,40,62,Kidnapping
+2009,1,Bayelsa, 27.4 ,12,No,Yes,No,No,No,No,Yes,No,40,62,Kidnapping
+2009,2,Bayelsa, 30.5 ,48,Yes,No,No,No,Yes,No,No,Yes,40,62,Armed Robbery
+2009,3,Bayelsa, 4.6 ,30,Yes,No,No,Yes,Yes,Yes,No,Yes,40,62,Armed Robbery
+2009,4,Bayelsa, 23.7 ,97,No,Yes,Yes,Yes,Yes,Yes,Yes,No,40,62,Kidnapping
+2009,5,Bayelsa, 9.7 ,7,Yes,Yes,No,Yes,No,Yes,No,No,40,62,Armed Robbery
+2009,6,Bayelsa, 10.4 ,92,Yes,Yes,No,Yes,No,Yes,Yes,No,40,62,Armed Robbery
+2009,7,Bayelsa, 33.1 ,3,No,Yes,Yes,No,Yes,No,No,No,40,62,Kidnapping
+2009,8,Bayelsa, 45.6 ,63,No,No,Yes,No,Yes,No,Yes,No,40,62,Oil Bunkering
+2009,9,Bayelsa, 20.2 ,6,Yes,No,No,Yes,No,Yes,Yes,Yes,40,62,Armed Robbery
+2009,10,Bayelsa, 10.4 ,95,Yes,Yes,No,Yes,No,Yes,No,No,40,62,Armed Robbery
+2009,11,Bayelsa, 32.4 ,15,Yes,Yes,Yes,No,Yes,Yes,No,Yes,40,62,Armed Robbery
+2009,12,Bayelsa, 43.6 ,71,No,Yes,No,Yes,No,Yes,Yes,Yes,40,62,Kidnapping
+2010,1,Bayelsa, 37.4 ,43,No,No,No,No,Yes,Yes,Yes,No,40,62,Cultism
+2010,2,Bayelsa, 43.4 ,94,No,Yes,No,Yes,Yes,Yes,Yes,No,40,62,Kidnapping
+2010,3,Bayelsa, 26.8 ,91,No,No,No,No,Yes,Yes,Yes,No,40,62,Cultism
+2010,4,Bayelsa, 37.6 ,81,Yes,Yes,Yes,No,No,No,Yes,No,40,62,Armed Robbery
+2010,5,Bayelsa, 7.0 ,18,No,No,Yes,No,No,No,Yes,No,40,62,Oil Bunkering
+2010,6,Bayelsa, 17.4 ,22,No,Yes,Yes,No,No,No,Yes,Yes,40,62,Kidnapping
+2010,7,Bayelsa, 19.5 ,61,No,No,No,No,No,No,No,Yes,40,62,Vandalism
+2010,8,Bayelsa, 25.6 ,61,No,Yes,No,Yes,Yes,Yes,Yes,Yes,40,62,Kidnapping
+2010,9,Bayelsa, 46.5 ,53,No,Yes,No,No,No,Yes,No,No,40,62,Kidnapping
+2010,10,Bayelsa, 43.7 ,26,Yes,Yes,No,Yes,Yes,Yes,No,No,40,62,Armed Robbery
+2010,11,Bayelsa, 6.7 ,91,Yes,No,No,No,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2010,12,Bayelsa, 8.6 ,40,No,Yes,Yes,No,Yes,Yes,Yes,No,40,62,Kidnapping
+2011,1,Bayelsa, 17.9 ,88,Yes,No,No,Yes,No,No,No,No,40,62,Armed Robbery
+2011,2,Bayelsa, 14.5 ,8,No,No,No,Yes,Yes,Yes,Yes,No,40,62,Piracy
+2011,3,Bayelsa, 30.7 ,21,No,Yes,Yes,Yes,Yes,No,Yes,Yes,40,62,Kidnapping
+2011,4,Bayelsa, 45.1 ,93,Yes,Yes,No,Yes,No,Yes,No,No,40,62,Armed Robbery
+2011,5,Bayelsa, 48.1 ,43,Yes,Yes,Yes,No,Yes,No,No,Yes,40,62,Armed Robbery
+2011,6,Bayelsa, 32.7 ,21,No,No,Yes,Yes,No,Yes,No,No,40,62,Oil Bunkering
+2011,7,Bayelsa, 41.9 ,3,No,Yes,Yes,No,No,No,Yes,No,40,62,Kidnapping
+2011,8,Bayelsa, 26.3 ,31,No,No,Yes,Yes,No,Yes,Yes,Yes,40,62,Oil Bunkering
+2011,9,Bayelsa, 10.4 ,27,Yes,No,Yes,Yes,Yes,Yes,No,No,40,62,Armed Robbery
+2011,10,Bayelsa, 26.2 ,27,No,Yes,No,No,No,Yes,Yes,No,40,62,Kidnapping
+2011,11,Bayelsa, 27.8 ,73,No,Yes,Yes,No,No,Yes,No,No,40,62,Kidnapping
+2011,12,Bayelsa, 37.1 ,57,No,Yes,Yes,Yes,No,No,Yes,Yes,40,62,Kidnapping
+2012,1,Bayelsa, 11.0 ,97,Yes,Yes,No,No,No,Yes,No,No,40,62,Armed Robbery
+2012,2,Bayelsa, 18.4 ,33,No,Yes,No,No,Yes,No,Yes,No,40,62,Kidnapping
+2012,3,Bayelsa, 18.2 ,90,No,Yes,Yes,No,No,Yes,No,No,40,62,Kidnapping
+2012,4,Bayelsa, 48.0 ,92,Yes,No,No,No,Yes,No,Yes,No,40,62,Armed Robbery
+2012,5,Bayelsa, 22.2 ,44,No,No,No,No,No,Yes,Yes,No,40,62,Human Trafficking
+2012,6,Bayelsa, 37.8 ,43,No,No,Yes,No,Yes,Yes,No,Yes,40,62,Oil Bunkering
+2012,7,Bayelsa, 37.5 ,31,Yes,Yes,Yes,No,No,No,Yes,Yes,40,62,Armed Robbery
+2012,8,Bayelsa, 13.3 ,65,No,No,No,No,Yes,Yes,Yes,No,40,62,Cultism
+2012,9,Bayelsa, 28.6 ,84,Yes,No,Yes,Yes,No,Yes,No,No,40,62,Armed Robbery
+2012,10,Bayelsa, 44.7 ,76,Yes,No,Yes,No,Yes,No,Yes,Yes,40,62,Armed Robbery
+2012,11,Bayelsa, 23.8 ,17,No,No,No,Yes,Yes,Yes,Yes,No,40,62,Piracy
+2012,12,Bayelsa, 47.3 ,15,No,No,Yes,No,Yes,No,Yes,No,40,62,Oil Bunkering
+2013,1,Bayelsa, 10.7 ,34,No,Yes,Yes,No,No,Yes,No,No,40,62,Kidnapping
+2013,2,Bayelsa, 3.7 ,80,No,Yes,Yes,No,Yes,No,No,No,40,62,Kidnapping
+2013,3,Bayelsa, 44.6 ,4,Yes,No,Yes,No,Yes,No,No,No,40,62,Armed Robbery
+2013,4,Bayelsa, 42.4 ,72,No,No,Yes,Yes,Yes,No,No,No,40,62,Oil Bunkering
+2013,5,Bayelsa, 49.6 ,98,Yes,No,No,Yes,Yes,No,No,No,40,62,Armed Robbery
+2013,6,Bayelsa, 34.0 ,89,No,Yes,No,No,No,Yes,Yes,No,40,62,Kidnapping
+2013,7,Bayelsa, 46.8 ,79,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,40,62,Kidnapping
+2013,8,Bayelsa, 41.3 ,28,No,No,No,No,Yes,No,No,Yes,40,62,Cultism
+2013,9,Bayelsa, 42.2 ,73,Yes,Yes,Yes,No,Yes,Yes,Yes,No,40,62,Armed Robbery
+2013,10,Bayelsa, 28.5 ,2,No,Yes,Yes,Yes,No,Yes,Yes,No,40,62,Kidnapping
+2013,11,Bayelsa, 19.1 ,17,No,No,Yes,Yes,Yes,Yes,Yes,No,40,62,Oil Bunkering
+2013,12,Bayelsa, 46.7 ,58,No,Yes,Yes,No,Yes,No,Yes,No,40,62,Kidnapping
+2014,1,Bayelsa, 21.6 ,74,No,Yes,Yes,No,Yes,Yes,No,Yes,40,62,Kidnapping
+2014,2,Bayelsa, 26.9 ,9,Yes,No,No,Yes,Yes,Yes,No,Yes,40,62,Armed Robbery
+2014,3,Bayelsa, 22.3 ,31,No,Yes,No,No,No,No,Yes,Yes,40,62,Kidnapping
+2014,4,Bayelsa, 28.2 ,66,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2014,5,Bayelsa, 23.5 ,88,Yes,No,No,No,Yes,No,No,No,40,62,Armed Robbery
+2014,6,Bayelsa, 2.4 ,62,Yes,Yes,Yes,No,No,No,Yes,No,40,62,Armed Robbery
+2014,7,Bayelsa, 44.1 ,19,Yes,Yes,No,Yes,No,No,Yes,No,40,62,Armed Robbery
+2014,8,Bayelsa, 22.2 ,81,Yes,No,Yes,Yes,No,Yes,Yes,Yes,40,62,Armed Robbery
+2014,9,Bayelsa, 29.4 ,74,Yes,No,No,Yes,Yes,Yes,No,No,40,62,Armed Robbery
+2014,10,Bayelsa, 7.0 ,55,No,No,Yes,No,No,No,No,No,40,62,Oil Bunkering
+2014,11,Bayelsa, 0.2 ,28,Yes,Yes,Yes,No,Yes,No,Yes,Yes,40,62,Armed Robbery
+2014,12,Bayelsa, 12.3 ,92,Yes,No,No,No,No,No,Yes,Yes,40,62,Armed Robbery
+2015,1,Bayelsa, 35.2 ,50,Yes,Yes,No,No,Yes,No,Yes,Yes,40,62,Armed Robbery
+2015,2,Bayelsa, 5.0 ,65,No,No,Yes,Yes,No,No,Yes,Yes,40,62,Oil Bunkering
+2015,3,Bayelsa, 45.4 ,3,No,Yes,No,No,Yes,No,Yes,Yes,40,62,Kidnapping
+2015,4,Bayelsa, 10.8 ,79,Yes,No,Yes,No,No,Yes,Yes,No,40,62,Armed Robbery
+2015,5,Bayelsa, 10.2 ,52,No,No,No,No,Yes,No,No,No,40,62,Cultism
+2015,6,Bayelsa, 9.1 ,10,Yes,No,No,Yes,Yes,No,No,Yes,40,62,Armed Robbery
+2015,7,Bayelsa, 0.7 ,21,Yes,No,Yes,No,Yes,No,Yes,No,40,62,Armed Robbery
+2015,8,Bayelsa, 38.6 ,37,No,Yes,No,No,Yes,Yes,No,No,40,62,Kidnapping
+2015,9,Bayelsa, 43.8 ,15,Yes,No,No,Yes,Yes,Yes,Yes,No,40,62,Armed Robbery
+2015,10,Bayelsa, 30.7 ,87,No,No,Yes,No,Yes,Yes,Yes,No,40,62,Oil Bunkering
+2015,11,Bayelsa, 9.4 ,78,No,Yes,No,No,Yes,Yes,No,Yes,40,62,Kidnapping
+2015,12,Bayelsa, 14.3 ,79,Yes,No,Yes,Yes,Yes,No,No,No,40,62,Armed Robbery
+2016,1,Bayelsa, 23.8 ,74,Yes,Yes,Yes,No,No,Yes,Yes,No,40,62,Armed Robbery
+2016,2,Bayelsa, 47.7 ,9,No,No,Yes,No,Yes,No,Yes,No,40,62,Oil Bunkering
+2016,3,Bayelsa, 12.4 ,44,Yes,No,Yes,No,Yes,No,No,Yes,40,62,Armed Robbery
+2016,4,Bayelsa, 36.6 ,39,Yes,No,Yes,Yes,No,No,No,No,40,62,Armed Robbery
+2016,5,Bayelsa, 22.0 ,5,Yes,Yes,No,No,Yes,No,Yes,Yes,40,62,Armed Robbery
+2016,6,Bayelsa, 14.9 ,25,No,No,Yes,No,No,No,Yes,Yes,40,62,Oil Bunkering
+2016,7,Bayelsa, 22.8 ,56,No,No,Yes,Yes,Yes,No,Yes,Yes,40,62,Oil Bunkering
+2016,8,Bayelsa, 3.6 ,90,Yes,No,No,Yes,No,Yes,No,Yes,40,62,Armed Robbery
+2016,9,Bayelsa, 39.9 ,64,No,Yes,No,No,No,Yes,Yes,No,40,62,Kidnapping
+2016,10,Bayelsa, 12.2 ,72,No,Yes,No,No,Yes,Yes,No,Yes,40,62,Kidnapping
+2016,11,Bayelsa, 36.3 ,86,No,No,Yes,No,No,Yes,Yes,Yes,40,62,Oil Bunkering
+2016,12,Bayelsa, 3.4 ,52,No,Yes,Yes,No,Yes,Yes,No,Yes,40,62,Kidnapping
+2017,1,Bayelsa, 47.8 ,89,No,No,Yes,Yes,Yes,No,No,Yes,40,62,Oil Bunkering
+2017,2,Bayelsa, 9.7 ,76,Yes,No,No,No,Yes,Yes,No,Yes,40,62,Armed Robbery
+2017,3,Bayelsa, 44.1 ,9,Yes,No,Yes,Yes,Yes,Yes,No,No,40,62,Armed Robbery
+2017,4,Bayelsa, 40.5 ,10,Yes,No,No,Yes,No,Yes,Yes,Yes,40,62,Armed Robbery
+2017,5,Bayelsa, 48.4 ,10,No,No,Yes,No,Yes,No,No,No,40,62,Oil Bunkering
+2017,6,Bayelsa, 23.9 ,73,No,No,No,No,No,No,No,No,40,62,Oil Bunkering
+2017,7,Bayelsa, 36.4 ,62,Yes,No,Yes,Yes,No,No,No,Yes,40,62,Armed Robbery
+2017,8,Bayelsa, 18.5 ,90,No,Yes,Yes,Yes,Yes,Yes,Yes,No,40,62,Kidnapping
+2017,9,Bayelsa, 9.2 ,99,Yes,Yes,Yes,No,Yes,Yes,Yes,No,40,62,Armed Robbery
+2017,10,Bayelsa, 22.2 ,91,Yes,Yes,No,Yes,Yes,Yes,Yes,No,40,62,Armed Robbery
+2017,11,Bayelsa, 8.3 ,60,Yes,Yes,No,No,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2017,12,Bayelsa, 49.1 ,95,No,Yes,Yes,No,No,Yes,Yes,Yes,40,62,Kidnapping
+2018,1,Bayelsa, 4.8 ,19,No,Yes,Yes,Yes,Yes,No,Yes,Yes,40,62,Kidnapping
+2018,2,Bayelsa, 29.5 ,38,Yes,Yes,Yes,Yes,No,Yes,No,Yes,40,62,Armed Robbery
+2018,3,Bayelsa, 31.3 ,6,Yes,No,No,No,Yes,No,No,Yes,40,62,Armed Robbery
+2018,4,Bayelsa, 26.9 ,15,Yes,No,Yes,Yes,Yes,Yes,No,Yes,40,62,Armed Robbery
+2018,5,Bayelsa, 33.1 ,93,Yes,No,Yes,No,Yes,No,Yes,Yes,40,62,Armed Robbery
+2018,6,Bayelsa, 5.8 ,47,No,No,Yes,No,Yes,No,No,No,40,62,Oil Bunkering
+2018,7,Bayelsa, 27.8 ,45,No,Yes,Yes,No,No,No,No,No,40,62,Kidnapping
+2018,8,Bayelsa, 14.4 ,5,Yes,Yes,No,Yes,No,No,Yes,Yes,40,62,Armed Robbery
+2018,9,Bayelsa, 47.0 ,78,Yes,No,No,No,Yes,Yes,No,No,40,62,Armed Robbery
+2018,10,Bayelsa, 38.1 ,53,No,No,Yes,No,No,Yes,Yes,Yes,40,62,Oil Bunkering
+2018,11,Bayelsa, 48.6 ,66,No,Yes,Yes,No,No,Yes,No,Yes,40,62,Kidnapping
+2018,12,Bayelsa, 1.9 ,62,Yes,No,No,No,Yes,No,Yes,Yes,40,62,Armed Robbery
+2019,1,Bayelsa, 14.3 ,23,Yes,No,No,No,Yes,Yes,Yes,No,40,62,Armed Robbery
+2019,2,Bayelsa, 9.8 ,44,Yes,No,Yes,No,No,Yes,Yes,Yes,40,62,Armed Robbery
+2019,3,Bayelsa, 0.6 ,52,No,No,No,No,No,Yes,No,Yes,40,62,Human Trafficking
+2019,4,Bayelsa, 12.1 ,46,No,Yes,No,No,No,Yes,No,Yes,40,62,Kidnapping
+2019,5,Bayelsa, 33.9 ,19,No,No,Yes,No,No,No,Yes,Yes,40,62,Oil Bunkering
+2019,6,Bayelsa, 11.6 ,88,Yes,No,No,No,Yes,No,Yes,No,40,62,Armed Robbery
+2019,7,Bayelsa, 25.5 ,84,Yes,Yes,No,No,Yes,Yes,No,Yes,40,62,Armed Robbery
+2019,8,Bayelsa, 44.4 ,47,No,Yes,Yes,Yes,No,Yes,No,No,40,62,Kidnapping
+2019,9,Bayelsa, 34.7 ,91,No,No,Yes,No,Yes,Yes,Yes,No,40,62,Oil Bunkering
+2019,10,Bayelsa, 19.7 ,52,Yes,Yes,No,No,No,No,No,Yes,40,62,Armed Robbery
+2019,11,Bayelsa, 18.6 ,24,No,No,Yes,No,No,No,No,Yes,40,62,Oil Bunkering
+2019,12,Bayelsa, 22.8 ,17,No,No,No,Yes,Yes,No,No,No,40,62,Piracy
+2020,1,Bayelsa, 8.9 ,89,Yes,Yes,Yes,No,No,Yes,Yes,No,40,62,Armed Robbery
+2020,2,Bayelsa, 31.7 ,46,No,No,No,Yes,No,No,Yes,No,40,62,Piracy
+2020,3,Bayelsa, 18.2 ,64,Yes,No,Yes,No,Yes,No,No,No,40,62,Armed Robbery
+2020,4,Bayelsa, 42.6 ,95,Yes,No,No,No,Yes,No,Yes,Yes,40,62,Armed Robbery
+2020,5,Bayelsa, 37.8 ,28,Yes,No,No,Yes,No,No,No,No,40,62,Armed Robbery
+2020,6,Bayelsa, 30.5 ,50,Yes,Yes,No,No,No,No,No,No,40,62,Armed Robbery
+2020,7,Bayelsa, 18.2 ,64,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,40,62,Armed Robbery
+2020,8,Bayelsa, 10.5 ,28,Yes,No,Yes,Yes,No,Yes,Yes,No,40,62,Armed Robbery
+2020,9,Bayelsa, 38.8 ,86,Yes,Yes,No,No,No,Yes,Yes,Yes,40,62,Armed Robbery
+2020,10,Bayelsa, 24.3 ,56,No,No,No,No,Yes,Yes,No,Yes,40,62,Cultism
+2020,11,Bayelsa, 11.2 ,59,Yes,No,Yes,No,Yes,No,No,Yes,40,62,Armed Robbery
+2020,12,Bayelsa, 9.8 ,5,Yes,No,Yes,No,Yes,Yes,Yes,No,40,62,Armed Robbery
+2021,1,Bayelsa, 8.3 ,54,No,No,Yes,Yes,Yes,Yes,Yes,No,40,62,Oil Bunkering
+2021,2,Bayelsa, 38.9 ,44,No,No,Yes,Yes,Yes,Yes,Yes,Yes,40,62,Oil Bunkering
+2021,3,Bayelsa, 11.4 ,42,No,Yes,Yes,No,Yes,No,No,Yes,40,62,Kidnapping
+2021,4,Bayelsa, 26.3 ,72,Yes,No,Yes,Yes,No,Yes,No,No,40,62,Armed Robbery
+2021,5,Bayelsa, 22.6 ,92,No,Yes,No,Yes,No,No,No,Yes,40,62,Kidnapping
+2021,6,Bayelsa, 29.0 ,57,Yes,Yes,Yes,No,Yes,No,Yes,No,40,62,Armed Robbery
+2021,7,Bayelsa, 43.9 ,47,Yes,No,No,Yes,Yes,No,Yes,No,40,62,Armed Robbery
+2021,8,Bayelsa, 43.4 ,76,Yes,No,Yes,Yes,No,Yes,No,No,40,62,Armed Robbery
+2021,9,Bayelsa, 22.6 ,25,Yes,No,Yes,No,No,No,Yes,No,40,62,Armed Robbery
+2021,10,Bayelsa, 0.8 ,44,No,No,No,Yes,No,Yes,Yes,No,40,62,Piracy
+2021,11,Bayelsa, 21.3 ,15,No,No,No,No,Yes,Yes,Yes,No,40,62,Cultism
+2021,12,Bayelsa, 30.3 ,51,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,40,62,Armed Robbery
+2022,1,Bayelsa, 27.9 ,53,Yes,No,No,No,No,No,No,Yes,40,62,Armed Robbery
+2022,2,Bayelsa, 32.6 ,34,Yes,No,No,Yes,Yes,No,Yes,Yes,40,62,Armed Robbery
+2022,3,Bayelsa, 7.7 ,77,No,Yes,No,Yes,Yes,Yes,No,No,40,62,Kidnapping
+2022,4,Bayelsa, 32.3 ,8,Yes,Yes,No,No,Yes,No,No,Yes,40,62,Armed Robbery
+2022,5,Bayelsa, 9.1 ,77,Yes,No,Yes,No,No,No,Yes,No,40,62,Armed Robbery
+2022,6,Bayelsa, 37.5 ,70,No,Yes,No,No,No,No,No,No,40,62,Kidnapping
+2022,7,Bayelsa, 17.0 ,96,No,No,Yes,No,Yes,Yes,No,No,40,62,Oil Bunkering
+2022,8,Bayelsa, 35.5 ,21,Yes,Yes,Yes,Yes,Yes,No,Yes,No,40,62,Armed Robbery
+2022,9,Bayelsa, 2.4 ,7,No,Yes,Yes,Yes,Yes,No,No,Yes,40,62,Kidnapping
+2022,10,Bayelsa, 20.4 ,90,No,No,Yes,Yes,Yes,Yes,No,Yes,40,62,Oil Bunkering
+2022,11,Bayelsa, 35.3 ,79,Yes,Yes,No,No,Yes,No,No,Yes,40,62,Armed Robbery
+2022,12,Bayelsa, 11.3 ,56,No,Yes,No,Yes,No,Yes,No,No,40,62,Kidnapping
+2000,1,Cross_River, 39.8 ,49,Yes,Yes,Yes,Yes,Yes,No,No,Yes,32,53,Armed Robbery
+2000,2,Cross_River, 31.5 ,42,No,Yes,Yes,No,Yes,No,No,Yes,32,53,Kidnapping
+2000,3,Cross_River, 29.4 ,23,Yes,Yes,Yes,No,Yes,No,No,Yes,32,53,Armed Robbery
+2000,4,Cross_River, 17.7 ,52,Yes,Yes,Yes,Yes,No,No,No,No,32,53,Armed Robbery
+2000,5,Cross_River, 24.1 ,79,Yes,No,No,No,No,No,Yes,Yes,32,53,Armed Robbery
+2000,6,Cross_River, 29.9 ,53,No,No,Yes,Yes,Yes,No,Yes,No,32,53,Oil Bunkering
+2000,7,Cross_River, 23.6 ,16,Yes,Yes,No,Yes,No,Yes,Yes,Yes,32,53,Armed Robbery
+2000,8,Cross_River, 34.9 ,96,No,No,Yes,No,No,No,No,No,32,53,Oil Bunkering
+2000,9,Cross_River, 21.7 ,37,Yes,No,Yes,Yes,No,No,No,Yes,32,53,Armed Robbery
+2000,10,Cross_River, 10.1 ,18,Yes,No,Yes,No,No,No,No,Yes,32,53,Armed Robbery
+2000,11,Cross_River, 10.7 ,20,No,Yes,Yes,No,No,Yes,Yes,Yes,32,53,Kidnapping
+2000,12,Cross_River, 0.3 ,46,Yes,No,No,Yes,No,Yes,Yes,No,32,53,Armed Robbery
+2001,1,Cross_River, 15.0 ,2,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2001,2,Cross_River, 37.4 ,87,No,No,No,Yes,No,No,No,Yes,32,53,Piracy
+2001,3,Cross_River, 39.7 ,94,Yes,Yes,Yes,No,No,No,Yes,No,32,53,Armed Robbery
+2001,4,Cross_River, 10.1 ,63,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2001,5,Cross_River, 48.0 ,3,Yes,No,No,No,Yes,Yes,No,No,32,53,Armed Robbery
+2001,6,Cross_River, 25.1 ,46,Yes,No,No,No,Yes,Yes,Yes,No,32,53,Armed Robbery
+2001,7,Cross_River, 45.8 ,49,No,Yes,Yes,Yes,Yes,No,No,Yes,32,53,Kidnapping
+2001,8,Cross_River, 35.3 ,1,No,No,Yes,No,No,Yes,Yes,Yes,32,53,Oil Bunkering
+2001,9,Cross_River, 36.1 ,22,Yes,No,No,Yes,No,No,No,No,32,53,Armed Robbery
+2001,10,Cross_River, 4.3 ,93,No,No,Yes,Yes,No,No,No,Yes,32,53,Oil Bunkering
+2001,11,Cross_River, 11.0 ,14,Yes,Yes,Yes,Yes,No,No,No,No,32,53,Armed Robbery
+2001,12,Cross_River, 0.4 ,92,No,Yes,No,Yes,Yes,Yes,No,Yes,32,53,Kidnapping
+2002,1,Cross_River, 35.8 ,85,Yes,No,Yes,Yes,No,No,No,No,32,53,Armed Robbery
+2002,2,Cross_River, 17.2 ,45,Yes,No,No,Yes,No,Yes,Yes,Yes,32,53,Armed Robbery
+2002,3,Cross_River, 39.3 ,96,Yes,No,Yes,Yes,Yes,Yes,No,No,32,53,Armed Robbery
+2002,4,Cross_River, 16.9 ,6,Yes,Yes,No,No,No,Yes,No,No,32,53,Armed Robbery
+2002,5,Cross_River, 41.0 ,65,Yes,Yes,Yes,Yes,No,Yes,No,Yes,32,53,Armed Robbery
+2002,6,Cross_River, 6.5 ,21,Yes,No,No,No,No,No,No,Yes,32,53,Armed Robbery
+2002,7,Cross_River, 8.7 ,4,No,No,No,No,No,No,Yes,Yes,32,53,Drug Trafficking
+2002,8,Cross_River, 17.0 ,3,Yes,No,No,No,Yes,No,No,No,32,53,Armed Robbery
+2002,9,Cross_River, 20.4 ,30,No,No,No,Yes,Yes,No,Yes,Yes,32,53,Piracy
+2002,10,Cross_River, 17.4 ,31,Yes,No,Yes,No,Yes,Yes,No,No,32,53,Armed Robbery
+2002,11,Cross_River, 38.2 ,34,No,No,Yes,No,Yes,Yes,No,Yes,32,53,Oil Bunkering
+2002,12,Cross_River, 4.8 ,83,No,Yes,No,Yes,Yes,Yes,Yes,Yes,32,53,Kidnapping
+2003,1,Cross_River, 17.6 ,20,No,No,Yes,Yes,No,Yes,Yes,No,32,53,Oil Bunkering
+2003,2,Cross_River, 41.9 ,87,Yes,Yes,Yes,No,No,No,Yes,No,32,53,Armed Robbery
+2003,3,Cross_River, 3.3 ,54,Yes,No,Yes,Yes,Yes,Yes,No,Yes,32,53,Armed Robbery
+2003,4,Cross_River, 47.1 ,25,No,No,Yes,Yes,Yes,No,Yes,No,32,53,Oil Bunkering
+2003,5,Cross_River, 49.3 ,15,Yes,Yes,Yes,Yes,Yes,Yes,No,No,32,53,Armed Robbery
+2003,6,Cross_River, 4.4 ,38,No,Yes,No,Yes,No,Yes,Yes,Yes,32,53,Kidnapping
+2003,7,Cross_River, 14.6 ,23,Yes,Yes,No,No,Yes,Yes,Yes,No,32,53,Armed Robbery
+2003,8,Cross_River, 18.6 ,52,No,Yes,No,Yes,No,Yes,No,Yes,32,53,Kidnapping
+2003,9,Cross_River, 38.8 ,66,No,No,No,Yes,No,No,Yes,Yes,32,53,Piracy
+2003,10,Cross_River, 29.8 ,57,Yes,Yes,Yes,Yes,No,No,Yes,No,32,53,Armed Robbery
+2003,11,Cross_River, 32.2 ,57,No,No,Yes,No,No,No,No,Yes,32,53,Oil Bunkering
+2003,12,Cross_River, 37.9 ,79,Yes,Yes,No,No,Yes,No,No,No,32,53,Armed Robbery
+2004,1,Cross_River, 5.9 ,52,No,No,Yes,Yes,No,Yes,No,Yes,32,53,Oil Bunkering
+2004,2,Cross_River, 41.7 ,35,No,No,Yes,Yes,No,Yes,Yes,No,32,53,Oil Bunkering
+2004,3,Cross_River, 35.3 ,74,Yes,No,No,No,Yes,No,Yes,No,32,53,Armed Robbery
+2004,4,Cross_River, 28.9 ,14,Yes,No,Yes,Yes,No,No,Yes,No,32,53,Armed Robbery
+2004,5,Cross_River, 44.5 ,91,Yes,No,No,Yes,No,Yes,Yes,No,32,53,Armed Robbery
+2004,6,Cross_River, 35.0 ,14,No,No,No,No,No,Yes,Yes,No,32,53,Human Trafficking
+2004,7,Cross_River, 10.1 ,99,Yes,Yes,Yes,Yes,Yes,No,No,Yes,32,53,Armed Robbery
+2004,8,Cross_River, 21.5 ,33,No,No,Yes,Yes,No,No,Yes,Yes,32,53,Oil Bunkering
+2004,9,Cross_River, 24.7 ,52,No,Yes,No,No,No,No,No,No,32,53,Kidnapping
+2004,10,Cross_River, 2.8 ,1,Yes,Yes,No,No,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2004,11,Cross_River, 47.7 ,34,Yes,No,Yes,Yes,Yes,No,No,No,32,53,Armed Robbery
+2004,12,Cross_River, 6.4 ,19,No,Yes,No,No,No,No,Yes,No,32,53,Kidnapping
+2005,1,Cross_River, 34.9 ,24,No,No,No,Yes,No,No,Yes,Yes,32,53,Piracy
+2005,2,Cross_River, 25.3 ,4,Yes,Yes,No,Yes,Yes,No,No,Yes,32,53,Armed Robbery
+2005,3,Cross_River, 1.3 ,36,Yes,No,Yes,Yes,No,No,Yes,No,32,53,Armed Robbery
+2005,4,Cross_River, 46.2 ,77,Yes,Yes,No,No,Yes,Yes,No,No,32,53,Armed Robbery
+2005,5,Cross_River, 42.6 ,58,Yes,No,Yes,No,No,No,Yes,No,32,53,Armed Robbery
+2005,6,Cross_River, 26.2 ,32,Yes,No,No,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2005,7,Cross_River, 11.4 ,9,No,No,Yes,Yes,No,No,No,No,32,53,Oil Bunkering
+2005,8,Cross_River, 6.1 ,80,No,No,No,No,Yes,No,Yes,No,32,53,Cultism
+2005,9,Cross_River, 18.2 ,67,No,Yes,Yes,No,Yes,No,No,Yes,32,53,Kidnapping
+2005,10,Cross_River, 12.8 ,20,No,No,Yes,No,Yes,Yes,Yes,No,32,53,Oil Bunkering
+2005,11,Cross_River, 25.3 ,74,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2005,12,Cross_River, 48.3 ,62,Yes,Yes,No,No,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2006,1,Cross_River, 28.7 ,58,Yes,Yes,No,No,No,No,Yes,No,32,53,Armed Robbery
+2006,2,Cross_River, 44.5 ,22,No,No,No,Yes,No,No,Yes,No,32,53,Piracy
+2006,3,Cross_River, 32.5 ,67,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,32,53,Kidnapping
+2006,4,Cross_River, 23.8 ,75,Yes,Yes,No,Yes,No,Yes,Yes,No,32,53,Armed Robbery
+2006,5,Cross_River, 42.7 ,89,Yes,Yes,Yes,No,No,No,No,Yes,32,53,Armed Robbery
+2006,6,Cross_River, 23.6 ,48,No,No,No,Yes,No,Yes,Yes,No,32,53,Piracy
+2006,7,Cross_River, 43.4 ,8,No,No,Yes,Yes,No,No,Yes,Yes,32,53,Oil Bunkering
+2006,8,Cross_River, 14.6 ,73,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,32,53,Armed Robbery
+2006,9,Cross_River, 6.4 ,15,Yes,No,Yes,Yes,No,Yes,No,Yes,32,53,Armed Robbery
+2006,10,Cross_River, 42.8 ,32,No,No,No,No,Yes,Yes,No,No,32,53,Cultism
+2006,11,Cross_River, 29.4 ,53,Yes,Yes,No,Yes,No,No,Yes,No,32,53,Armed Robbery
+2006,12,Cross_River, 44.5 ,67,Yes,Yes,No,No,No,No,Yes,Yes,32,53,Armed Robbery
+2007,1,Cross_River, 46.9 ,4,Yes,No,Yes,No,No,Yes,Yes,Yes,32,53,Armed Robbery
+2007,2,Cross_River, 2.7 ,30,No,Yes,Yes,No,Yes,No,No,No,32,53,Kidnapping
+2007,3,Cross_River, 25.0 ,13,No,No,No,Yes,No,No,Yes,No,32,53,Piracy
+2007,4,Cross_River, 18.7 ,21,No,No,No,No,No,No,No,No,32,53,Cultism
+2007,5,Cross_River, 31.3 ,41,No,No,No,Yes,No,No,Yes,No,32,53,Piracy
+2007,6,Cross_River, 39.7 ,19,No,No,Yes,Yes,Yes,Yes,No,No,32,53,Oil Bunkering
+2007,7,Cross_River, 14.0 ,48,No,No,Yes,Yes,No,No,No,Yes,32,53,Oil Bunkering
+2007,8,Cross_River, 27.8 ,86,No,No,Yes,No,Yes,No,Yes,No,32,53,Oil Bunkering
+2007,9,Cross_River, 35.4 ,63,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,32,53,Armed Robbery
+2007,10,Cross_River, 6.7 ,20,Yes,Yes,Yes,Yes,Yes,No,Yes,No,32,53,Armed Robbery
+2007,11,Cross_River, 40.7 ,64,Yes,No,No,Yes,Yes,No,Yes,Yes,32,53,Armed Robbery
+2007,12,Cross_River, 30.3 ,37,Yes,No,Yes,No,Yes,No,Yes,Yes,32,53,Armed Robbery
+2008,1,Cross_River, 47.5 ,31,Yes,No,Yes,No,No,Yes,Yes,No,32,53,Armed Robbery
+2008,2,Cross_River, 17.0 ,74,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2008,3,Cross_River, 5.4 ,18,Yes,No,Yes,Yes,Yes,No,No,Yes,32,53,Armed Robbery
+2008,4,Cross_River, 25.3 ,20,No,Yes,Yes,No,Yes,No,Yes,Yes,32,53,Kidnapping
+2008,5,Cross_River, 4.3 ,82,No,No,No,Yes,Yes,Yes,Yes,Yes,32,53,Piracy
+2008,6,Cross_River, 48.5 ,11,Yes,No,Yes,Yes,No,Yes,No,No,32,53,Armed Robbery
+2008,7,Cross_River, 1.9 ,86,Yes,Yes,Yes,No,No,Yes,Yes,Yes,32,53,Armed Robbery
+2008,8,Cross_River, 37.7 ,44,No,Yes,Yes,Yes,No,No,Yes,No,32,53,Kidnapping
+2008,9,Cross_River, 26.3 ,82,Yes,No,No,No,No,No,Yes,Yes,32,53,Armed Robbery
+2008,10,Cross_River, 18.4 ,64,Yes,No,No,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2008,11,Cross_River, 3.3 ,34,No,No,No,No,No,No,No,No,32,53,Armed Robbery
+2008,12,Cross_River, 31.1 ,87,Yes,Yes,Yes,Yes,Yes,No,No,No,32,53,Armed Robbery
+2009,1,Cross_River, 29.3 ,65,No,Yes,No,Yes,No,No,Yes,Yes,32,53,Kidnapping
+2009,2,Cross_River, 14.0 ,55,Yes,Yes,Yes,Yes,No,No,Yes,No,32,53,Armed Robbery
+2009,3,Cross_River, 45.5 ,74,No,Yes,Yes,Yes,No,No,No,No,32,53,Kidnapping
+2009,4,Cross_River, 15.2 ,1,No,Yes,No,Yes,Yes,No,Yes,Yes,32,53,Kidnapping
+2009,5,Cross_River, 22.5 ,38,No,Yes,Yes,No,No,No,No,No,32,53,Kidnapping
+2009,6,Cross_River, 27.2 ,9,Yes,No,Yes,Yes,No,Yes,No,Yes,32,53,Armed Robbery
+2009,7,Cross_River, 5.0 ,95,No,No,Yes,No,No,Yes,No,Yes,32,53,Oil Bunkering
+2009,8,Cross_River, 46.6 ,71,Yes,Yes,No,No,Yes,Yes,Yes,No,32,53,Armed Robbery
+2009,9,Cross_River, 18.7 ,17,Yes,No,Yes,No,No,Yes,Yes,Yes,32,53,Armed Robbery
+2009,10,Cross_River, 4.0 ,99,Yes,No,Yes,Yes,No,Yes,Yes,Yes,32,53,Armed Robbery
+2009,11,Cross_River, 19.4 ,52,Yes,Yes,No,Yes,Yes,Yes,No,Yes,32,53,Armed Robbery
+2009,12,Cross_River, 30.0 ,18,No,No,Yes,Yes,Yes,Yes,Yes,No,32,53,Oil Bunkering
+2010,1,Cross_River, 25.7 ,63,No,Yes,Yes,No,No,Yes,Yes,Yes,32,53,Kidnapping
+2010,2,Cross_River, 34.7 ,33,Yes,Yes,No,Yes,No,Yes,No,Yes,32,53,Armed Robbery
+2010,3,Cross_River, 2.8 ,4,Yes,No,Yes,Yes,No,No,Yes,Yes,32,53,Armed Robbery
+2010,4,Cross_River, 14.2 ,87,No,Yes,Yes,No,Yes,No,Yes,No,32,53,Kidnapping
+2010,5,Cross_River, 41.0 ,75,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2010,6,Cross_River, 4.0 ,52,No,Yes,Yes,No,Yes,No,No,No,32,53,Kidnapping
+2010,7,Cross_River, 42.8 ,9,Yes,Yes,Yes,No,No,No,Yes,Yes,32,53,Armed Robbery
+2010,8,Cross_River, 4.6 ,64,Yes,Yes,No,No,Yes,Yes,No,No,32,53,Armed Robbery
+2010,9,Cross_River, 41.7 ,30,No,Yes,No,No,No,Yes,No,No,32,53,Kidnapping
+2010,10,Cross_River, 18.0 ,8,Yes,Yes,No,Yes,Yes,Yes,No,No,32,53,Armed Robbery
+2010,11,Cross_River, 30.6 ,5,No,Yes,No,No,Yes,No,Yes,Yes,32,53,Kidnapping
+2010,12,Cross_River, 7.6 ,76,Yes,No,Yes,Yes,Yes,No,Yes,Yes,32,53,Armed Robbery
+2011,1,Cross_River, 3.3 ,63,Yes,No,Yes,Yes,No,Yes,Yes,Yes,32,53,Armed Robbery
+2011,2,Cross_River, 10.8 ,1,Yes,No,Yes,Yes,No,No,No,No,32,53,Armed Robbery
+2011,3,Cross_River, 6.4 ,15,No,Yes,Yes,No,No,No,No,Yes,32,53,Kidnapping
+2011,4,Cross_River, 15.6 ,89,Yes,Yes,Yes,Yes,No,No,Yes,Yes,32,53,Armed Robbery
+2011,5,Cross_River, 25.7 ,82,Yes,No,No,No,Yes,Yes,No,No,32,53,Armed Robbery
+2011,6,Cross_River, 29.4 ,38,Yes,No,No,No,No,No,Yes,Yes,32,53,Armed Robbery
+2011,7,Cross_River, 39.5 ,42,Yes,No,Yes,Yes,Yes,No,Yes,Yes,32,53,Armed Robbery
+2011,8,Cross_River, 32.8 ,46,No,Yes,Yes,No,No,No,Yes,No,32,53,Kidnapping
+2011,9,Cross_River, 30.4 ,53,No,No,Yes,Yes,No,No,Yes,No,32,53,Oil Bunkering
+2011,10,Cross_River, 20.6 ,26,Yes,No,No,Yes,Yes,No,Yes,Yes,32,53,Armed Robbery
+2011,11,Cross_River, 23.7 ,61,No,Yes,Yes,No,Yes,No,Yes,No,32,53,Kidnapping
+2011,12,Cross_River, 20.7 ,67,Yes,No,Yes,Yes,No,No,Yes,Yes,32,53,Armed Robbery
+2012,1,Cross_River, 42.1 ,54,Yes,Yes,Yes,Yes,No,Yes,No,Yes,32,53,Armed Robbery
+2012,2,Cross_River, 11.5 ,22,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2012,3,Cross_River, 0.3 ,26,No,Yes,Yes,No,Yes,No,No,Yes,32,53,Kidnapping
+2012,4,Cross_River, 32.6 ,83,No,No,No,Yes,Yes,Yes,No,Yes,32,53,Piracy
+2012,5,Cross_River, 10.1 ,60,No,No,No,No,Yes,No,Yes,No,32,53,Cultism
+2012,6,Cross_River, 44.5 ,39,No,Yes,No,No,Yes,No,No,No,32,53,Kidnapping
+2012,7,Cross_River, 43.0 ,36,No,No,No,Yes,No,No,No,Yes,32,53,Piracy
+2012,8,Cross_River, 3.8 ,21,No,No,No,Yes,No,Yes,No,No,32,53,Piracy
+2012,9,Cross_River, 5.3 ,41,No,No,No,No,No,No,Yes,No,32,53,Drug Trafficking
+2012,10,Cross_River, 24.8 ,48,No,No,Yes,No,No,No,Yes,Yes,32,53,Oil Bunkering
+2012,11,Cross_River, 30.5 ,26,No,Yes,Yes,Yes,Yes,Yes,Yes,No,32,53,Kidnapping
+2012,12,Cross_River, 13.7 ,63,Yes,No,Yes,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2013,1,Cross_River, 35.8 ,77,No,Yes,No,No,Yes,No,Yes,Yes,32,53,Kidnapping
+2013,2,Cross_River, 29.7 ,36,No,Yes,Yes,No,No,Yes,No,Yes,32,53,Kidnapping
+2013,3,Cross_River, 16.2 ,24,No,No,No,No,Yes,Yes,No,Yes,32,53,Cultism
+2013,4,Cross_River, 1.3 ,90,No,Yes,No,No,Yes,No,Yes,Yes,32,53,Kidnapping
+2013,5,Cross_River, 37.5 ,21,No,No,No,No,No,No,No,Yes,32,53,Vandalism
+2013,6,Cross_River, 10.7 ,18,No,No,Yes,Yes,No,No,No,Yes,32,53,Oil Bunkering
+2013,7,Cross_River, 41.7 ,15,No,Yes,No,No,No,Yes,No,Yes,32,53,Kidnapping
+2013,8,Cross_River, 21.0 ,79,No,Yes,No,No,Yes,Yes,No,No,32,53,Kidnapping
+2013,9,Cross_River, 28.9 ,6,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,32,53,Kidnapping
+2013,10,Cross_River, 43.6 ,43,No,Yes,Yes,Yes,No,No,Yes,No,32,53,Kidnapping
+2013,11,Cross_River, 43.2 ,31,No,No,No,No,No,Yes,Yes,No,32,53,Human Trafficking
+2013,12,Cross_River, 18.6 ,28,Yes,No,No,No,Yes,Yes,No,Yes,32,53,Armed Robbery
+2014,1,Cross_River, 10.4 ,8,Yes,No,Yes,Yes,No,No,No,No,32,53,Armed Robbery
+2014,2,Cross_River, 38.8 ,29,No,Yes,Yes,No,Yes,No,Yes,No,32,53,Kidnapping
+2014,3,Cross_River, 21.7 ,21,No,Yes,Yes,No,No,No,Yes,No,32,53,Kidnapping
+2014,4,Cross_River, 9.6 ,81,Yes,Yes,No,Yes,No,Yes,No,Yes,32,53,Armed Robbery
+2014,5,Cross_River, 45.2 ,88,No,No,Yes,No,No,No,Yes,No,32,53,Oil Bunkering
+2014,6,Cross_River, 9.9 ,58,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2014,7,Cross_River, 1.3 ,60,Yes,No,Yes,Yes,Yes,Yes,No,Yes,32,53,Armed Robbery
+2014,8,Cross_River, 1.0 ,50,Yes,Yes,No,Yes,No,No,No,No,32,53,Armed Robbery
+2014,9,Cross_River, 31.1 ,31,Yes,No,Yes,Yes,Yes,No,Yes,No,32,53,Armed Robbery
+2014,10,Cross_River, 33.1 ,47,Yes,No,Yes,No,No,No,No,No,32,53,Armed Robbery
+2014,11,Cross_River, 15.6 ,34,No,Yes,Yes,Yes,No,No,Yes,No,32,53,Kidnapping
+2014,12,Cross_River, 16.0 ,2,Yes,Yes,Yes,No,Yes,No,No,No,32,53,Armed Robbery
+2015,1,Cross_River, 17.0 ,67,No,No,Yes,No,Yes,Yes,No,Yes,32,53,Oil Bunkering
+2015,2,Cross_River, 34.0 ,94,No,No,No,No,Yes,Yes,Yes,No,32,53,Cultism
+2015,3,Cross_River, 2.9 ,72,Yes,Yes,No,No,Yes,Yes,No,Yes,32,53,Armed Robbery
+2015,4,Cross_River, 46.5 ,52,Yes,Yes,No,No,No,No,Yes,No,32,53,Armed Robbery
+2015,5,Cross_River, 11.1 ,7,No,No,Yes,Yes,Yes,Yes,No,Yes,32,53,Oil Bunkering
+2015,6,Cross_River, 50.0 ,76,Yes,Yes,No,Yes,Yes,No,Yes,Yes,32,53,Armed Robbery
+2015,7,Cross_River, 8.6 ,19,Yes,No,No,Yes,No,No,No,Yes,32,53,Armed Robbery
+2015,8,Cross_River, 38.6 ,90,No,No,No,Yes,No,Yes,No,No,32,53,Piracy
+2015,9,Cross_River, 11.2 ,92,No,Yes,Yes,No,No,Yes,Yes,No,32,53,Kidnapping
+2015,10,Cross_River, 4.0 ,15,Yes,Yes,Yes,Yes,No,No,No,No,32,53,Armed Robbery
+2015,11,Cross_River, 43.7 ,78,No,Yes,No,No,Yes,Yes,Yes,No,32,53,Kidnapping
+2015,12,Cross_River, 42.9 ,48,Yes,Yes,No,No,Yes,No,No,No,32,53,Armed Robbery
+2016,1,Cross_River, 20.2 ,14,Yes,Yes,Yes,Yes,No,Yes,No,Yes,32,53,Armed Robbery
+2016,2,Cross_River, 35.1 ,3,Yes,No,Yes,Yes,No,Yes,Yes,Yes,32,53,Armed Robbery
+2016,3,Cross_River, 27.9 ,50,No,No,No,Yes,Yes,Yes,No,Yes,32,53,Piracy
+2016,4,Cross_River, 42.6 ,93,No,Yes,Yes,Yes,Yes,Yes,No,No,32,53,Kidnapping
+2016,5,Cross_River, 15.8 ,54,No,Yes,No,No,Yes,Yes,Yes,No,32,53,Kidnapping
+2016,6,Cross_River, 26.2 ,6,No,Yes,Yes,No,Yes,No,No,Yes,32,53,Kidnapping
+2016,7,Cross_River, 24.3 ,49,No,No,No,Yes,Yes,Yes,Yes,No,32,53,Piracy
+2016,8,Cross_River, 17.7 ,23,Yes,Yes,No,No,No,Yes,Yes,No,32,53,Armed Robbery
+2016,9,Cross_River, 44.6 ,92,Yes,Yes,Yes,No,No,Yes,Yes,Yes,32,53,Armed Robbery
+2016,10,Cross_River, 8.3 ,78,Yes,No,No,No,No,No,No,Yes,32,53,Armed Robbery
+2016,11,Cross_River, 7.5 ,78,Yes,No,No,Yes,No,No,No,No,32,53,Armed Robbery
+2016,12,Cross_River, 28.8 ,20,No,Yes,No,No,Yes,No,Yes,No,32,53,Kidnapping
+2017,1,Cross_River, 32.9 ,77,Yes,Yes,Yes,Yes,No,No,No,Yes,32,53,Armed Robbery
+2017,2,Cross_River, 9.7 ,91,No,Yes,Yes,Yes,Yes,No,Yes,No,32,53,Kidnapping
+2017,3,Cross_River, 19.5 ,60,Yes,No,Yes,No,Yes,Yes,No,Yes,32,53,Armed Robbery
+2017,4,Cross_River, 47.3 ,99,No,Yes,No,No,Yes,Yes,Yes,Yes,32,53,Kidnapping
+2017,5,Cross_River, 12.3 ,45,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,32,53,Kidnapping
+2017,6,Cross_River, 33.4 ,61,Yes,Yes,No,No,Yes,No,No,No,32,53,Armed Robbery
+2017,7,Cross_River, 37.0 ,56,Yes,No,No,No,Yes,No,Yes,Yes,32,53,Armed Robbery
+2017,8,Cross_River, 22.4 ,2,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2017,9,Cross_River, 46.9 ,45,Yes,Yes,Yes,Yes,No,No,No,No,32,53,Armed Robbery
+2017,10,Cross_River, 36.8 ,40,No,Yes,No,Yes,Yes,No,Yes,Yes,32,53,Kidnapping
+2017,11,Cross_River, 22.9 ,24,Yes,No,No,Yes,No,No,Yes,No,32,53,Armed Robbery
+2017,12,Cross_River, 28.5 ,29,Yes,No,Yes,No,No,Yes,No,No,32,53,Armed Robbery
+2018,1,Cross_River, 34.6 ,67,No,No,Yes,No,Yes,Yes,Yes,No,32,53,Oil Bunkering
+2018,2,Cross_River, 29.6 ,68,Yes,No,Yes,Yes,Yes,No,Yes,Yes,32,53,Armed Robbery
+2018,3,Cross_River, 43.9 ,66,Yes,No,No,Yes,No,No,Yes,Yes,32,53,Armed Robbery
+2018,4,Cross_River, 17.8 ,84,Yes,No,No,Yes,No,No,Yes,No,32,53,Armed Robbery
+2018,5,Cross_River, 15.0 ,54,Yes,No,No,No,No,No,Yes,No,32,53,Armed Robbery
+2018,6,Cross_River, 10.7 ,53,Yes,No,No,Yes,No,Yes,Yes,No,32,53,Armed Robbery
+2018,7,Cross_River, 1.9 ,79,No,No,No,No,Yes,No,Yes,Yes,32,53,Cultism
+2018,8,Cross_River, 2.2 ,49,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2018,9,Cross_River, 43.5 ,32,Yes,Yes,Yes,Yes,Yes,Yes,No,No,32,53,Armed Robbery
+2018,10,Cross_River, 33.9 ,61,Yes,Yes,No,Yes,No,Yes,Yes,No,32,53,Armed Robbery
+2018,11,Cross_River, 33.0 ,42,Yes,No,No,No,Yes,No,Yes,Yes,32,53,Armed Robbery
+2018,12,Cross_River, 30.7 ,1,Yes,Yes,Yes,No,No,Yes,No,No,32,53,Armed Robbery
+2019,1,Cross_River, 42.5 ,63,No,No,Yes,No,Yes,Yes,Yes,Yes,32,53,Oil Bunkering
+2019,2,Cross_River, 24.0 ,35,Yes,No,Yes,Yes,No,No,Yes,Yes,32,53,Armed Robbery
+2019,3,Cross_River, 43.5 ,51,No,Yes,Yes,No,Yes,No,Yes,No,32,53,Kidnapping
+2019,4,Cross_River, 18.0 ,71,No,No,No,No,Yes,No,Yes,No,32,53,Cultism
+2019,5,Cross_River, 46.3 ,45,Yes,Yes,Yes,Yes,No,Yes,Yes,No,32,53,Armed Robbery
+2019,6,Cross_River, 34.9 ,77,Yes,Yes,No,Yes,No,No,Yes,Yes,32,53,Armed Robbery
+2019,7,Cross_River, 12.9 ,65,Yes,Yes,Yes,No,No,Yes,No,Yes,32,53,Armed Robbery
+2019,8,Cross_River, 28.2 ,14,Yes,No,Yes,No,No,Yes,No,Yes,32,53,Armed Robbery
+2019,9,Cross_River, 26.7 ,93,No,Yes,Yes,No,No,No,No,No,32,53,Kidnapping
+2019,10,Cross_River, 6.9 ,3,Yes,No,No,No,Yes,Yes,No,Yes,32,53,Armed Robbery
+2019,11,Cross_River, 29.6 ,24,Yes,Yes,No,Yes,No,Yes,No,No,32,53,Armed Robbery
+2019,12,Cross_River, 15.7 ,65,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2020,1,Cross_River, 2.6 ,48,Yes,Yes,No,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2020,2,Cross_River, 47.4 ,10,Yes,No,No,No,Yes,No,Yes,Yes,32,53,Armed Robbery
+2020,3,Cross_River, 32.1 ,13,Yes,No,Yes,No,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2020,4,Cross_River, 43.8 ,73,No,No,Yes,Yes,Yes,No,Yes,Yes,32,53,Oil Bunkering
+2020,5,Cross_River, 33.8 ,14,No,Yes,No,Yes,No,Yes,No,No,32,53,Kidnapping
+2020,6,Cross_River, 17.8 ,10,Yes,Yes,No,No,No,Yes,No,Yes,32,53,Armed Robbery
+2020,7,Cross_River, 25.6 ,40,Yes,No,No,No,Yes,No,Yes,Yes,32,53,Armed Robbery
+2020,8,Cross_River, 33.8 ,23,Yes,No,Yes,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2020,9,Cross_River, 48.0 ,99,No,No,Yes,Yes,No,Yes,Yes,No,32,53,Oil Bunkering
+2020,10,Cross_River, 12.7 ,55,Yes,No,No,Yes,No,Yes,No,Yes,32,53,Armed Robbery
+2020,11,Cross_River, 43.7 ,63,No,No,Yes,No,Yes,Yes,No,No,32,53,Oil Bunkering
+2020,12,Cross_River, 46.2 ,71,Yes,No,Yes,No,No,Yes,Yes,Yes,32,53,Armed Robbery
+2021,1,Cross_River, 33.5 ,42,Yes,Yes,No,No,No,Yes,No,No,32,53,Armed Robbery
+2021,2,Cross_River, 46.6 ,99,Yes,No,No,No,No,No,Yes,No,32,53,Armed Robbery
+2021,3,Cross_River, 19.9 ,66,Yes,Yes,Yes,No,Yes,No,No,Yes,32,53,Armed Robbery
+2021,4,Cross_River, 47.7 ,79,No,Yes,Yes,No,No,No,No,No,32,53,Kidnapping
+2021,5,Cross_River, 35.1 ,73,No,No,No,Yes,Yes,Yes,Yes,No,32,53,Piracy
+2021,6,Cross_River, 2.1 ,47,Yes,No,Yes,Yes,Yes,Yes,No,No,32,53,Armed Robbery
+2021,7,Cross_River, 45.3 ,81,Yes,Yes,Yes,No,Yes,Yes,No,Yes,32,53,Armed Robbery
+2021,8,Cross_River, 24.2 ,52,No,No,No,Yes,Yes,No,Yes,No,32,53,Piracy
+2021,9,Cross_River, 23.0 ,18,No,No,No,No,Yes,Yes,No,No,32,53,Cultism
+2021,10,Cross_River, 28.3 ,79,No,Yes,Yes,Yes,No,No,Yes,Yes,32,53,Kidnapping
+2021,11,Cross_River, 7.5 ,18,No,Yes,Yes,No,Yes,Yes,No,Yes,32,53,Kidnapping
+2021,12,Cross_River, 23.5 ,24,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,32,53,Armed Robbery
+2022,1,Cross_River, 41.6 ,23,No,No,No,Yes,Yes,Yes,Yes,No,32,53,Piracy
+2022,2,Cross_River, 0.8 ,12,Yes,Yes,Yes,No,No,No,No,No,32,53,Armed Robbery
+2022,3,Cross_River, 13.6 ,23,No,No,Yes,No,No,Yes,No,Yes,32,53,Oil Bunkering
+2022,4,Cross_River, 0.1 ,21,No,Yes,No,Yes,No,No,Yes,No,32,53,Kidnapping
+2022,5,Cross_River, 20.8 ,64,No,Yes,No,Yes,No,Yes,No,Yes,32,53,Kidnapping
+2022,6,Cross_River, 36.4 ,90,No,Yes,Yes,No,No,Yes,No,Yes,32,53,Kidnapping
+2022,7,Cross_River, 39.9 ,72,No,No,No,Yes,No,No,No,No,32,53,Piracy
+2022,8,Cross_River, 47.3 ,94,Yes,No,No,No,No,Yes,Yes,No,32,53,Armed Robbery
+2022,9,Cross_River, 30.4 ,34,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,32,53,Armed Robbery
+2022,10,Cross_River, 12.7 ,2,No,Yes,No,Yes,Yes,Yes,Yes,No,32,53,Kidnapping
+2022,11,Cross_River, 46.2 ,69,No,Yes,No,No,No,Yes,No,No,32,53,Kidnapping
+2022,12,Cross_River, 38.8 ,31,Yes,No,Yes,Yes,Yes,No,No,Yes,32,53,Armed Robbery
+2000,1,Delta, 28.7 ,97,No,Yes,No,Yes,Yes,No,Yes,No,42,52,Kidnapping
+2000,2,Delta, 34.8 ,68,No,No,Yes,No,No,Yes,Yes,Yes,42,52,Oil Bunkering
+2000,3,Delta, 46.2 ,70,Yes,Yes,Yes,Yes,Yes,Yes,No,No,42,52,Armed Robbery
+2000,4,Delta, 35.6 ,87,No,Yes,No,No,Yes,No,No,Yes,42,52,Kidnapping
+2000,5,Delta, 18.4 ,19,No,Yes,No,No,No,Yes,No,Yes,42,52,Kidnapping
+2000,6,Delta, 35.7 ,72,Yes,Yes,No,No,Yes,No,No,No,42,52,Armed Robbery
+2000,7,Delta, 2.0 ,13,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,42,52,Armed Robbery
+2000,8,Delta, 19.3 ,65,Yes,Yes,No,No,No,No,No,Yes,42,52,Armed Robbery
+2000,9,Delta, 20.3 ,6,No,No,Yes,Yes,Yes,No,No,No,42,52,Oil Bunkering
+2000,10,Delta, 8.3 ,71,Yes,Yes,No,No,Yes,No,Yes,No,42,52,Armed Robbery
+2000,11,Delta, 1.2 ,27,Yes,No,No,No,Yes,No,Yes,No,42,52,Armed Robbery
+2000,12,Delta, 6.7 ,79,Yes,Yes,No,No,No,Yes,No,Yes,42,52,Armed Robbery
+2001,1,Delta, 32.7 ,52,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,42,52,Armed Robbery
+2001,2,Delta, 40.1 ,98,Yes,No,No,Yes,No,No,No,Yes,42,52,Armed Robbery
+2001,3,Delta, 49.4 ,87,Yes,Yes,No,No,Yes,No,No,No,42,52,Armed Robbery
+2001,4,Delta, 17.3 ,48,No,No,Yes,No,Yes,No,Yes,Yes,42,52,Oil Bunkering
+2001,5,Delta, 30.0 ,88,No,No,Yes,Yes,No,No,Yes,Yes,42,52,Oil Bunkering
+2001,6,Delta, 46.9 ,79,Yes,Yes,No,Yes,Yes,Yes,No,No,42,52,Armed Robbery
+2001,7,Delta, 8.4 ,99,Yes,No,No,Yes,Yes,No,Yes,Yes,42,52,Armed Robbery
+2001,8,Delta, 35.9 ,68,Yes,No,No,No,No,No,No,No,42,52,Armed Robbery
+2001,9,Delta, 37.7 ,44,No,Yes,Yes,Yes,No,No,No,No,42,52,Kidnapping
+2001,10,Delta, 4.4 ,17,No,No,Yes,No,Yes,No,No,No,42,52,Oil Bunkering
+2001,11,Delta, 43.1 ,95,No,Yes,Yes,Yes,No,No,Yes,Yes,42,52,Kidnapping
+2001,12,Delta, 40.7 ,38,No,Yes,Yes,No,Yes,No,No,Yes,42,52,Kidnapping
+2002,1,Delta, 1.7 ,10,No,Yes,No,No,No,No,No,Yes,42,52,Kidnapping
+2002,2,Delta, 4.6 ,54,No,Yes,Yes,No,No,Yes,No,No,42,52,Kidnapping
+2002,3,Delta, 2.5 ,91,No,No,Yes,Yes,No,No,Yes,No,42,52,Oil Bunkering
+2002,4,Delta, 16.7 ,6,No,Yes,Yes,Yes,Yes,No,No,No,42,52,Kidnapping
+2002,5,Delta, 25.5 ,6,No,Yes,No,Yes,Yes,No,No,Yes,42,52,Kidnapping
+2002,6,Delta, 26.6 ,52,Yes,No,No,No,No,Yes,No,Yes,42,52,Armed Robbery
+2002,7,Delta, 13.4 ,15,Yes,Yes,Yes,No,No,Yes,Yes,Yes,42,52,Armed Robbery
+2002,8,Delta, 45.6 ,68,Yes,Yes,Yes,Yes,No,Yes,No,Yes,42,52,Armed Robbery
+2002,9,Delta, 18.4 ,57,Yes,No,No,No,Yes,No,No,Yes,42,52,Armed Robbery
+2002,10,Delta, 2.3 ,56,No,No,No,No,No,No,Yes,No,42,52,Drug Trafficking
+2002,11,Delta, 15.0 ,7,No,No,No,No,No,No,Yes,Yes,42,52,Drug Trafficking
+2002,12,Delta, 26.6 ,51,Yes,No,No,Yes,No,Yes,No,No,42,52,Armed Robbery
+2003,1,Delta, 20.4 ,58,No,No,No,No,No,No,No,No,42,52,Oil Bunkering
+2003,2,Delta, 13.7 ,64,Yes,No,No,Yes,Yes,Yes,No,Yes,42,52,Armed Robbery
+2003,3,Delta, 6.6 ,26,No,No,No,Yes,Yes,Yes,Yes,No,42,52,Piracy
+2003,4,Delta, 41.0 ,58,Yes,Yes,No,Yes,No,Yes,Yes,Yes,42,52,Armed Robbery
+2003,5,Delta, 49.8 ,31,No,No,Yes,Yes,Yes,Yes,No,Yes,42,52,Oil Bunkering
+2003,6,Delta, 16.5 ,66,No,No,Yes,Yes,Yes,Yes,Yes,No,42,52,Oil Bunkering
+2003,7,Delta, 19.1 ,92,Yes,No,Yes,No,Yes,No,No,Yes,42,52,Armed Robbery
+2003,8,Delta, 30.9 ,13,No,Yes,Yes,Yes,No,No,No,Yes,42,52,Kidnapping
+2003,9,Delta, 35.9 ,18,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,42,52,Armed Robbery
+2003,10,Delta, 19.6 ,94,Yes,No,Yes,Yes,Yes,No,No,No,42,52,Armed Robbery
+2003,11,Delta, 45.2 ,75,Yes,No,No,No,Yes,No,Yes,No,42,52,Armed Robbery
+2003,12,Delta, 28.0 ,13,Yes,No,No,No,No,Yes,Yes,No,42,52,Armed Robbery
+2004,1,Delta, 22.5 ,24,No,Yes,Yes,No,No,Yes,No,No,42,52,Kidnapping
+2004,2,Delta, 32.3 ,57,No,Yes,Yes,No,Yes,No,Yes,No,42,52,Kidnapping
+2004,3,Delta, 47.6 ,29,No,No,No,Yes,Yes,No,No,Yes,42,52,Piracy
+2004,4,Delta, 39.7 ,56,Yes,Yes,No,Yes,No,No,Yes,Yes,42,52,Armed Robbery
+2004,5,Delta, 2.0 ,54,No,No,No,No,No,No,No,Yes,42,52,Vandalism
+2004,6,Delta, 16.6 ,5,Yes,Yes,Yes,No,Yes,Yes,No,No,42,52,Armed Robbery
+2004,7,Delta, 23.5 ,35,No,Yes,No,No,Yes,No,No,Yes,42,52,Kidnapping
+2004,8,Delta, 15.7 ,19,No,No,Yes,No,No,Yes,Yes,No,42,52,Oil Bunkering
+2004,9,Delta, 35.0 ,55,No,No,Yes,Yes,No,Yes,No,Yes,42,52,Oil Bunkering
+2004,10,Delta, 41.3 ,77,Yes,No,No,No,Yes,No,Yes,No,42,52,Armed Robbery
+2004,11,Delta, 36.6 ,69,No,No,No,No,No,No,Yes,Yes,42,52,Drug Trafficking
+2004,12,Delta, 49.5 ,44,No,Yes,Yes,No,Yes,No,Yes,No,42,52,Kidnapping
+2005,1,Delta, 13.6 ,78,Yes,Yes,No,No,Yes,Yes,Yes,No,42,52,Armed Robbery
+2005,2,Delta, 43.7 ,38,No,Yes,No,No,Yes,Yes,Yes,No,42,52,Kidnapping
+2005,3,Delta, 38.3 ,62,Yes,No,Yes,No,No,Yes,No,No,42,52,Armed Robbery
+2005,4,Delta, 18.1 ,22,No,Yes,No,No,Yes,Yes,Yes,Yes,42,52,Kidnapping
+2005,5,Delta, 36.7 ,73,Yes,No,Yes,Yes,Yes,No,No,Yes,42,52,Armed Robbery
+2005,6,Delta, 5.2 ,40,Yes,Yes,Yes,Yes,No,Yes,No,No,42,52,Armed Robbery
+2005,7,Delta, 39.5 ,26,No,No,No,Yes,No,Yes,Yes,No,42,52,Piracy
+2005,8,Delta, 26.6 ,5,Yes,No,Yes,Yes,Yes,No,No,No,42,52,Armed Robbery
+2005,9,Delta, 14.6 ,93,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,42,52,Armed Robbery
+2005,10,Delta, 32.8 ,54,Yes,No,No,Yes,No,Yes,Yes,No,42,52,Armed Robbery
+2005,11,Delta, 32.1 ,86,Yes,No,No,No,No,No,No,No,42,52,Armed Robbery
+2005,12,Delta, 10.5 ,49,Yes,Yes,No,No,No,Yes,Yes,Yes,42,52,Armed Robbery
+2006,1,Delta, 1.5 ,3,Yes,No,Yes,Yes,Yes,Yes,Yes,No,42,52,Armed Robbery
+2006,2,Delta, 21.7 ,92,No,No,Yes,No,Yes,Yes,Yes,No,42,52,Oil Bunkering
+2006,3,Delta, 28.5 ,38,Yes,No,No,Yes,Yes,Yes,No,Yes,42,52,Armed Robbery
+2006,4,Delta, 43.8 ,14,Yes,Yes,Yes,No,No,No,No,No,42,52,Armed Robbery
+2006,5,Delta, 46.4 ,47,No,Yes,No,No,Yes,Yes,No,No,42,52,Kidnapping
+2006,6,Delta, 26.4 ,14,No,No,No,No,No,No,No,Yes,42,52,Vandalism
+2006,7,Delta, 37.7 ,75,No,Yes,Yes,No,Yes,Yes,Yes,No,42,52,Kidnapping
+2006,8,Delta, 22.0 ,73,No,No,No,No,No,No,Yes,Yes,42,52,Drug Trafficking
+2006,9,Delta, 37.3 ,38,No,No,Yes,No,Yes,No,No,No,42,52,Oil Bunkering
+2006,10,Delta, 10.2 ,64,No,No,Yes,Yes,Yes,No,Yes,No,42,52,Oil Bunkering
+2006,11,Delta, 18.6 ,44,No,No,No,Yes,No,Yes,No,No,42,52,Piracy
+2006,12,Delta, 31.7 ,70,Yes,No,Yes,No,No,Yes,Yes,No,42,52,Armed Robbery
+2007,1,Delta, 0.9 ,65,Yes,Yes,No,Yes,Yes,Yes,Yes,No,42,52,Armed Robbery
+2007,2,Delta, 36.1 ,25,No,No,Yes,No,No,No,Yes,Yes,42,52,Oil Bunkering
+2007,3,Delta, 41.8 ,16,Yes,Yes,Yes,Yes,No,Yes,Yes,No,42,52,Armed Robbery
+2007,4,Delta, 20.0 ,15,Yes,Yes,Yes,No,Yes,Yes,Yes,No,42,52,Armed Robbery
+2007,5,Delta, 22.4 ,98,Yes,No,No,Yes,No,Yes,No,Yes,42,52,Armed Robbery
+2007,6,Delta, 42.6 ,81,No,No,Yes,No,Yes,Yes,No,Yes,42,52,Oil Bunkering
+2007,7,Delta, 38.8 ,3,No,Yes,No,Yes,Yes,No,Yes,No,42,52,Kidnapping
+2007,8,Delta, 14.4 ,67,Yes,Yes,Yes,No,No,No,No,Yes,42,52,Armed Robbery
+2007,9,Delta, 16.2 ,37,No,Yes,Yes,Yes,No,Yes,Yes,No,42,52,Kidnapping
+2007,10,Delta, 33.9 ,81,Yes,No,No,No,Yes,Yes,Yes,Yes,42,52,Armed Robbery
+2007,11,Delta, 28.2 ,55,Yes,Yes,No,No,Yes,Yes,Yes,Yes,42,52,Armed Robbery
+2007,12,Delta, 8.1 ,38,Yes,No,No,No,Yes,No,Yes,No,42,52,Armed Robbery
+2008,1,Delta, 15.5 ,63,Yes,No,No,Yes,Yes,Yes,No,Yes,42,52,Armed Robbery
+2008,2,Delta, 45.0 ,1,No,No,No,Yes,Yes,No,Yes,No,42,52,Piracy
+2008,3,Delta, 34.4 ,71,No,Yes,Yes,Yes,Yes,No,No,Yes,42,52,Kidnapping
+2008,4,Delta, 49.3 ,90,No,No,Yes,No,No,Yes,Yes,Yes,42,52,Oil Bunkering
+2008,5,Delta, 38.4 ,19,Yes,No,No,Yes,No,Yes,Yes,Yes,42,52,Armed Robbery
+2008,6,Delta, 47.1 ,52,No,No,Yes,No,No,Yes,No,No,42,52,Oil Bunkering
+2008,7,Delta, 10.8 ,30,Yes,No,Yes,Yes,Yes,No,Yes,No,42,52,Armed Robbery
+2008,8,Delta, 38.6 ,55,No,No,Yes,Yes,No,No,Yes,Yes,42,52,Oil Bunkering
+2008,9,Delta, 1.0 ,14,Yes,Yes,No,Yes,Yes,Yes,No,No,42,52,Armed Robbery
+2008,10,Delta, 33.5 ,13,Yes,No,Yes,Yes,Yes,No,No,No,42,52,Armed Robbery
+2008,11,Delta, 23.5 ,84,Yes,No,Yes,No,No,Yes,No,No,42,52,Armed Robbery
+2008,12,Delta, 17.3 ,90,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,42,52,Kidnapping
+2009,1,Delta, 43.1 ,27,No,No,No,Yes,Yes,No,Yes,No,42,52,Piracy
+2009,2,Delta, 42.7 ,89,No,Yes,Yes,No,Yes,No,No,Yes,42,52,Kidnapping
+2009,3,Delta, 1.1 ,9,No,No,Yes,No,Yes,No,No,Yes,42,52,Oil Bunkering
+2009,4,Delta, 30.5 ,41,Yes,Yes,No,Yes,Yes,No,Yes,Yes,42,52,Armed Robbery
+2009,5,Delta, 18.4 ,48,No,Yes,No,Yes,Yes,Yes,Yes,Yes,42,52,Kidnapping
+2009,6,Delta, 20.8 ,12,No,No,Yes,No,No,Yes,No,Yes,42,52,Oil Bunkering
+2009,7,Delta, 41.6 ,10,Yes,No,Yes,No,Yes,Yes,No,No,42,52,Armed Robbery
+2009,8,Delta, 15.5 ,6,Yes,No,No,No,Yes,No,No,No,42,52,Armed Robbery
+2009,9,Delta, 47.2 ,34,Yes,Yes,No,Yes,Yes,Yes,No,Yes,42,52,Armed Robbery
+2009,10,Delta, 9.0 ,52,No,Yes,No,Yes,Yes,No,Yes,No,42,52,Kidnapping
+2009,11,Delta, 33.1 ,41,Yes,Yes,No,Yes,No,No,Yes,No,42,52,Armed Robbery
+2009,12,Delta, 33.6 ,83,Yes,No,No,No,No,No,Yes,No,42,52,Armed Robbery
+2010,1,Delta, 12.6 ,6,Yes,Yes,No,No,Yes,Yes,Yes,No,42,52,Armed Robbery
+2010,2,Delta, 16.2 ,2,No,Yes,No,No,Yes,No,No,No,42,52,Kidnapping
+2010,3,Delta, 41.7 ,15,Yes,No,Yes,Yes,Yes,No,Yes,No,42,52,Armed Robbery
+2010,4,Delta, 38.1 ,17,No,Yes,No,No,No,No,No,No,42,52,Kidnapping
+2010,5,Delta, 16.5 ,16,No,Yes,No,Yes,No,No,Yes,Yes,42,52,Kidnapping
+2010,6,Delta, 26.7 ,28,Yes,No,Yes,No,No,No,Yes,Yes,42,52,Armed Robbery
+2010,7,Delta, 3.1 ,85,Yes,Yes,No,Yes,No,No,Yes,Yes,42,52,Armed Robbery
+2010,8,Delta, 10.4 ,72,No,No,No,Yes,Yes,No,No,No,42,52,Piracy
+2010,9,Delta, 24.3 ,10,Yes,No,Yes,No,No,No,Yes,No,42,52,Armed Robbery
+2010,10,Delta, 4.3 ,10,Yes,No,No,Yes,No,No,No,Yes,42,52,Armed Robbery
+2010,11,Delta, 42.2 ,10,No,No,Yes,No,Yes,No,No,No,42,52,Oil Bunkering
+2010,12,Delta, 35.9 ,73,No,No,Yes,Yes,Yes,No,Yes,No,42,52,Oil Bunkering
+2011,1,Delta, 47.2 ,28,Yes,Yes,Yes,No,No,No,No,Yes,42,52,Armed Robbery
+2011,2,Delta, 34.7 ,24,No,Yes,Yes,No,No,Yes,Yes,Yes,42,52,Kidnapping
+2011,3,Delta, 47.0 ,19,Yes,No,No,Yes,No,Yes,No,Yes,42,52,Armed Robbery
+2011,4,Delta, 27.7 ,97,Yes,No,Yes,No,No,No,Yes,No,42,52,Armed Robbery
+2011,5,Delta, 30.0 ,68,Yes,Yes,Yes,Yes,Yes,No,No,No,42,52,Armed Robbery
+2011,6,Delta, 48.8 ,56,No,No,No,No,Yes,No,No,No,42,52,Cultism
+2011,7,Delta, 32.1 ,67,Yes,No,Yes,No,No,Yes,Yes,Yes,42,52,Armed Robbery
+2011,8,Delta, 1.5 ,42,Yes,No,Yes,No,No,Yes,Yes,Yes,42,52,Armed Robbery
+2011,9,Delta, 36.2 ,12,Yes,Yes,Yes,No,No,Yes,Yes,No,42,52,Armed Robbery
+2011,10,Delta, 45.3 ,18,No,Yes,Yes,Yes,No,No,Yes,Yes,42,52,Kidnapping
+2011,11,Delta, 39.8 ,23,No,No,No,No,No,No,No,Yes,42,52,Vandalism
+2011,12,Delta, 29.2 ,84,No,No,Yes,No,Yes,No,No,No,42,52,Oil Bunkering
+2012,1,Delta, 33.6 ,6,No,Yes,No,Yes,Yes,No,No,Yes,42,52,Kidnapping
+2012,2,Delta, 49.5 ,53,No,Yes,No,Yes,Yes,Yes,No,Yes,42,52,Kidnapping
+2012,3,Delta, 4.5 ,98,Yes,No,Yes,Yes,No,No,Yes,Yes,42,52,Armed Robbery
+2012,4,Delta, 33.4 ,42,No,No,Yes,Yes,No,Yes,No,No,42,52,Oil Bunkering
+2012,5,Delta, 14.2 ,66,No,Yes,Yes,Yes,Yes,Yes,Yes,No,42,52,Kidnapping
+2012,6,Delta, 32.0 ,30,No,Yes,Yes,Yes,Yes,No,No,Yes,42,52,Kidnapping
+2012,7,Delta, 30.4 ,9,Yes,Yes,No,No,No,Yes,Yes,No,42,52,Armed Robbery
+2012,8,Delta, 7.7 ,91,No,No,No,Yes,Yes,Yes,Yes,No,42,52,Piracy
+2012,9,Delta, 10.3 ,42,No,Yes,No,No,No,Yes,Yes,No,42,52,Kidnapping
+2012,10,Delta, 31.1 ,34,Yes,No,Yes,Yes,No,Yes,Yes,Yes,42,52,Armed Robbery
+2012,11,Delta, 6.4 ,40,No,Yes,No,No,Yes,No,Yes,No,42,52,Kidnapping
+2012,12,Delta, 13.3 ,88,Yes,Yes,Yes,No,Yes,No,No,Yes,42,52,Armed Robbery
+2013,1,Delta, 41.8 ,17,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,42,52,Armed Robbery
+2013,2,Delta, 16.4 ,29,Yes,Yes,Yes,Yes,No,No,No,No,42,52,Armed Robbery
+2013,3,Delta, 24.4 ,50,Yes,No,Yes,Yes,No,Yes,No,Yes,42,52,Armed Robbery
+2013,4,Delta, 47.1 ,76,Yes,No,Yes,Yes,Yes,No,Yes,No,42,52,Armed Robbery
+2013,5,Delta, 11.4 ,95,No,Yes,No,Yes,No,No,No,No,42,52,Kidnapping
+2013,6,Delta, 19.5 ,49,Yes,No,No,No,No,No,No,Yes,42,52,Armed Robbery
+2013,7,Delta, 30.3 ,73,Yes,Yes,Yes,Yes,No,No,No,Yes,42,52,Armed Robbery
+2013,8,Delta, 37.8 ,61,No,Yes,No,No,Yes,No,Yes,No,42,52,Kidnapping
+2013,9,Delta, 45.1 ,83,Yes,Yes,Yes,No,No,Yes,Yes,No,42,52,Armed Robbery
+2013,10,Delta, 45.8 ,46,No,Yes,Yes,Yes,Yes,No,Yes,No,42,52,Kidnapping
+2013,11,Delta, 38.8 ,46,No,No,Yes,Yes,Yes,Yes,Yes,No,42,52,Oil Bunkering
+2013,12,Delta, 11.4 ,17,No,Yes,No,Yes,No,Yes,No,Yes,42,52,Kidnapping
+2014,1,Delta, 1.2 ,66,Yes,Yes,Yes,No,Yes,No,No,Yes,42,52,Armed Robbery
+2014,2,Delta, 19.2 ,5,Yes,No,Yes,Yes,No,Yes,No,Yes,42,52,Armed Robbery
+2014,3,Delta, 7.1 ,54,Yes,Yes,No,No,Yes,No,No,No,42,52,Armed Robbery
+2014,4,Delta, 35.5 ,16,No,Yes,No,Yes,Yes,Yes,No,Yes,42,52,Kidnapping
+2014,5,Delta, 33.1 ,81,Yes,Yes,No,No,No,Yes,No,Yes,42,52,Armed Robbery
+2014,6,Delta, 2.2 ,91,Yes,No,Yes,Yes,Yes,No,Yes,Yes,42,52,Armed Robbery
+2014,7,Delta, 41.8 ,7,Yes,Yes,Yes,Yes,Yes,No,No,Yes,42,52,Armed Robbery
+2014,8,Delta, 12.4 ,8,No,No,No,No,Yes,No,No,No,42,52,Cultism
+2014,9,Delta, 21.6 ,72,No,Yes,Yes,Yes,No,No,No,Yes,42,52,Kidnapping
+2014,10,Delta, 33.4 ,87,Yes,Yes,No,Yes,No,Yes,Yes,Yes,42,52,Armed Robbery
+2014,11,Delta, 21.5 ,96,Yes,No,No,Yes,Yes,No,No,Yes,42,52,Armed Robbery
+2014,12,Delta, 22.1 ,82,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,42,52,Armed Robbery
+2015,1,Delta, 3.3 ,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,42,52,Armed Robbery
+2015,2,Delta, 20.1 ,54,No,No,No,Yes,No,Yes,No,No,42,52,Piracy
+2015,3,Delta, 38.2 ,76,No,No,No,Yes,No,Yes,Yes,Yes,42,52,Piracy
+2015,4,Delta, 45.8 ,15,No,No,No,No,Yes,Yes,Yes,No,42,52,Cultism
+2015,5,Delta, 20.7 ,92,No,No,No,No,No,Yes,No,No,42,52,Human Trafficking
+2015,6,Delta, 21.2 ,50,Yes,No,Yes,Yes,No,No,No,No,42,52,Armed Robbery
+2015,7,Delta, 35.1 ,56,Yes,Yes,No,Yes,No,Yes,Yes,No,42,52,Armed Robbery
+2015,8,Delta, 47.1 ,95,Yes,No,No,Yes,No,Yes,No,Yes,42,52,Armed Robbery
+2015,9,Delta, 13.4 ,9,No,Yes,No,No,Yes,Yes,No,No,42,52,Kidnapping
+2015,10,Delta, 22.0 ,8,Yes,Yes,Yes,No,No,No,Yes,No,42,52,Armed Robbery
+2015,11,Delta, 39.8 ,19,No,Yes,Yes,Yes,No,No,Yes,Yes,42,52,Kidnapping
+2015,12,Delta, 30.5 ,51,No,No,No,No,Yes,Yes,No,Yes,42,52,Cultism
+2016,1,Delta, 5.5 ,72,Yes,No,Yes,Yes,Yes,No,Yes,Yes,42,52,Armed Robbery
+2016,2,Delta, 31.4 ,98,Yes,Yes,Yes,Yes,No,Yes,No,Yes,42,52,Armed Robbery
+2016,3,Delta, 9.3 ,57,Yes,No,Yes,Yes,No,No,No,No,42,52,Armed Robbery
+2016,4,Delta, 25.5 ,68,No,No,No,Yes,Yes,Yes,No,Yes,42,52,Piracy
+2016,5,Delta, 26.5 ,31,Yes,No,No,No,Yes,No,No,No,42,52,Armed Robbery
+2016,6,Delta, 43.8 ,3,No,No,Yes,No,Yes,No,Yes,No,42,52,Oil Bunkering
+2016,7,Delta, 23.1 ,99,Yes,Yes,No,Yes,No,No,No,Yes,42,52,Armed Robbery
+2016,8,Delta, 14.0 ,83,No,Yes,No,No,No,Yes,Yes,Yes,42,52,Kidnapping
+2016,9,Delta, 11.5 ,43,No,No,Yes,No,Yes,Yes,No,No,42,52,Oil Bunkering
+2016,10,Delta, 43.7 ,29,Yes,Yes,Yes,Yes,No,Yes,No,No,42,52,Armed Robbery
+2016,11,Delta, 8.6 ,10,No,No,No,No,Yes,No,Yes,Yes,42,52,Cultism
+2016,12,Delta, 21.3 ,12,No,No,Yes,Yes,No,No,No,Yes,42,52,Oil Bunkering
+2017,1,Delta, 9.4 ,46,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,42,52,Armed Robbery
+2017,2,Delta, 38.7 ,30,No,Yes,No,Yes,Yes,No,Yes,No,42,52,Kidnapping
+2017,3,Delta, 23.7 ,94,Yes,Yes,Yes,Yes,No,Yes,No,No,42,52,Armed Robbery
+2017,4,Delta, 17.6 ,82,No,No,No,No,No,Yes,No,Yes,42,52,Human Trafficking
+2017,5,Delta, 18.1 ,88,Yes,Yes,No,Yes,No,Yes,No,No,42,52,Armed Robbery
+2017,6,Delta, 42.6 ,32,Yes,No,Yes,No,No,Yes,No,Yes,42,52,Armed Robbery
+2017,7,Delta, 27.7 ,73,No,Yes,Yes,Yes,No,No,Yes,No,42,52,Kidnapping
+2017,8,Delta, 35.9 ,47,No,Yes,Yes,Yes,No,No,No,No,42,52,Kidnapping
+2017,9,Delta, 44.9 ,88,No,No,No,No,Yes,No,No,Yes,42,52,Cultism
+2017,10,Delta, 45.1 ,63,No,No,Yes,Yes,No,Yes,No,Yes,42,52,Oil Bunkering
+2017,11,Delta, 16.4 ,26,No,No,Yes,No,Yes,No,No,Yes,42,52,Oil Bunkering
+2017,12,Delta, 47.6 ,3,Yes,No,Yes,No,Yes,Yes,No,No,42,52,Armed Robbery
+2018,1,Delta, 1.2 ,23,No,No,Yes,Yes,No,Yes,Yes,No,42,52,Oil Bunkering
+2018,2,Delta, 18.8 ,75,Yes,No,No,Yes,Yes,Yes,No,Yes,42,52,Armed Robbery
+2018,3,Delta, 44.8 ,74,Yes,No,No,Yes,Yes,Yes,Yes,No,42,52,Armed Robbery
+2018,4,Delta, 13.7 ,50,No,No,Yes,Yes,No,Yes,No,Yes,42,52,Oil Bunkering
+2018,5,Delta, 13.7 ,36,Yes,Yes,No,Yes,No,Yes,No,No,42,52,Armed Robbery
+2018,6,Delta, 15.1 ,13,Yes,No,Yes,Yes,No,No,No,Yes,42,52,Armed Robbery
+2018,7,Delta, 30.6 ,29,Yes,No,Yes,No,Yes,No,Yes,No,42,52,Armed Robbery
+2018,8,Delta, 21.9 ,38,Yes,Yes,No,No,No,No,No,No,42,52,Armed Robbery
+2018,9,Delta, 36.3 ,77,No,No,No,Yes,No,No,Yes,No,42,52,Piracy
+2018,10,Delta, 44.7 ,90,Yes,Yes,Yes,No,No,Yes,Yes,No,42,52,Armed Robbery
+2018,11,Delta, 33.7 ,84,No,Yes,Yes,No,No,Yes,No,Yes,42,52,Kidnapping
+2018,12,Delta, 10.2 ,5,No,No,No,Yes,Yes,No,Yes,No,42,52,Piracy
+2019,1,Delta, 46.6 ,20,Yes,Yes,Yes,Yes,No,No,No,Yes,42,52,Armed Robbery
+2019,2,Delta, 13.2 ,78,No,No,No,No,Yes,No,No,Yes,42,52,Cultism
+2019,3,Delta, 7.5 ,14,No,Yes,Yes,Yes,No,No,Yes,Yes,42,52,Kidnapping
+2019,4,Delta, 4.5 ,8,No,Yes,Yes,No,Yes,No,No,Yes,42,52,Kidnapping
+2019,5,Delta, 28.2 ,48,Yes,Yes,No,Yes,Yes,No,No,No,42,52,Armed Robbery
+2019,6,Delta, 5.7 ,13,No,No,No,No,Yes,No,Yes,Yes,42,52,Cultism
+2019,7,Delta, 6.9 ,24,No,No,No,No,No,No,Yes,No,42,52,Drug Trafficking
+2019,8,Delta, 15.0 ,79,No,Yes,No,No,Yes,Yes,Yes,No,42,52,Kidnapping
+2019,9,Delta, 14.1 ,65,Yes,Yes,No,No,No,Yes,Yes,No,42,52,Armed Robbery
+2019,10,Delta, 30.2 ,86,No,No,No,Yes,No,Yes,Yes,No,42,52,Piracy
+2019,11,Delta, 40.8 ,34,Yes,No,No,Yes,No,Yes,Yes,Yes,42,52,Armed Robbery
+2019,12,Delta, 38.1 ,51,Yes,Yes,Yes,No,No,No,No,No,42,52,Armed Robbery
+2020,1,Delta, 13.1 ,3,Yes,Yes,Yes,No,No,Yes,Yes,Yes,42,52,Armed Robbery
+2020,2,Delta, 12.3 ,90,Yes,No,Yes,Yes,Yes,No,Yes,No,42,52,Armed Robbery
+2020,3,Delta, 48.3 ,78,Yes,No,No,Yes,No,Yes,No,No,42,52,Armed Robbery
+2020,4,Delta, 0.4 ,58,Yes,No,No,No,Yes,No,No,Yes,42,52,Armed Robbery
+2020,5,Delta, 44.0 ,72,No,No,No,No,Yes,No,Yes,No,42,52,Cultism
+2020,6,Delta, 10.0 ,55,Yes,No,Yes,No,Yes,Yes,Yes,No,42,52,Armed Robbery
+2020,7,Delta, 47.4 ,80,No,Yes,No,No,Yes,Yes,No,No,42,52,Kidnapping
+2020,8,Delta, 17.1 ,42,No,No,No,No,Yes,No,Yes,No,42,52,Cultism
+2020,9,Delta, 22.0 ,21,Yes,Yes,Yes,Yes,Yes,No,Yes,No,42,52,Armed Robbery
+2020,10,Delta, 35.4 ,10,No,No,No,No,Yes,No,No,Yes,42,52,Cultism
+2020,11,Delta, 29.4 ,57,No,Yes,Yes,Yes,No,Yes,Yes,No,42,52,Kidnapping
+2020,12,Delta, 15.9 ,25,No,No,Yes,Yes,Yes,Yes,No,No,42,52,Oil Bunkering
+2021,1,Delta, 27.7 ,56,No,No,No,Yes,No,No,Yes,Yes,42,52,Piracy
+2021,2,Delta, 36.5 ,38,Yes,Yes,No,No,Yes,Yes,No,No,42,52,Armed Robbery
+2021,3,Delta, 2.1 ,86,No,Yes,No,Yes,Yes,No,No,Yes,42,52,Kidnapping
+2021,4,Delta, 0.6 ,61,Yes,No,Yes,Yes,Yes,Yes,No,No,42,52,Armed Robbery
+2021,5,Delta, 22.9 ,47,No,No,Yes,Yes,Yes,Yes,Yes,No,42,52,Oil Bunkering
+2021,6,Delta, 6.6 ,54,No,No,Yes,Yes,No,Yes,No,Yes,42,52,Oil Bunkering
+2021,7,Delta, 33.2 ,46,Yes,No,No,No,No,Yes,Yes,No,42,52,Armed Robbery
+2021,8,Delta, 10.7 ,68,No,No,No,No,No,Yes,No,No,42,52,Human Trafficking
+2021,9,Delta, 21.6 ,4,No,Yes,No,Yes,Yes,No,No,Yes,42,52,Kidnapping
+2021,10,Delta, 9.9 ,94,No,Yes,No,Yes,Yes,No,No,Yes,42,52,Kidnapping
+2021,11,Delta, 27.4 ,66,Yes,No,Yes,No,Yes,Yes,Yes,No,42,52,Armed Robbery
+2021,12,Delta, 5.8 ,93,No,Yes,Yes,No,No,No,Yes,Yes,42,52,Kidnapping
+2022,1,Delta, 1.2 ,43,Yes,Yes,Yes,No,Yes,No,No,No,42,52,Armed Robbery
+2022,2,Delta, 2.6 ,62,No,Yes,Yes,Yes,No,Yes,Yes,Yes,42,52,Kidnapping
+2022,3,Delta, 47.7 ,85,Yes,No,No,No,No,No,Yes,No,42,52,Armed Robbery
+2022,4,Delta, 7.1 ,85,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,42,52,Armed Robbery
+2022,5,Delta, 35.4 ,85,No,No,No,Yes,Yes,No,No,Yes,42,52,Piracy
+2022,6,Delta, 3.4 ,4,No,Yes,Yes,No,No,No,Yes,Yes,42,52,Kidnapping
+2022,7,Delta, 5.4 ,65,Yes,No,Yes,Yes,No,No,No,Yes,42,52,Armed Robbery
+2022,8,Delta, 25.4 ,62,Yes,Yes,No,No,No,No,No,Yes,42,52,Armed Robbery
+2022,9,Delta, 23.2 ,90,No,No,No,Yes,Yes,No,No,Yes,42,52,Piracy
+2022,10,Delta, 47.6 ,2,Yes,No,Yes,No,Yes,No,Yes,Yes,42,52,Armed Robbery
+2022,11,Delta, 47.2 ,9,No,Yes,No,Yes,Yes,No,No,Yes,42,52,Kidnapping
+2022,12,Delta, 39.0 ,57,No,No,Yes,Yes,Yes,Yes,Yes,Yes,42,52,Oil Bunkering
+2000,1,Edo, 30.1 ,45,No,No,Yes,No,Yes,Yes,Yes,No,33,50,Oil Bunkering
+2000,2,Edo, 22.7 ,18,No,No,Yes,No,Yes,Yes,No,Yes,33,50,Oil Bunkering
+2000,3,Edo, 17.8 ,48,Yes,No,No,No,No,Yes,No,No,33,50,Armed Robbery
+2000,4,Edo, 47.4 ,42,No,No,No,No,No,No,No,Yes,33,50,Vandalism
+2000,5,Edo, 30.1 ,41,Yes,No,Yes,Yes,No,No,Yes,No,33,50,Armed Robbery
+2000,6,Edo, 29.0 ,75,No,No,No,No,Yes,No,Yes,No,33,50,Cultism
+2000,7,Edo, 11.6 ,89,Yes,No,Yes,No,No,Yes,No,Yes,33,50,Armed Robbery
+2000,8,Edo, 2.3 ,90,No,Yes,Yes,Yes,Yes,Yes,No,Yes,33,50,Kidnapping
+2000,9,Edo, 47.3 ,58,Yes,Yes,Yes,No,Yes,Yes,Yes,No,33,50,Armed Robbery
+2000,10,Edo, 15.7 ,42,Yes,No,Yes,No,No,No,Yes,No,33,50,Armed Robbery
+2000,11,Edo, 22.1 ,35,No,No,No,Yes,Yes,Yes,No,Yes,33,50,Piracy
+2000,12,Edo, 5.7 ,38,No,Yes,Yes,No,No,No,Yes,Yes,33,50,Kidnapping
+2001,1,Edo, 41.8 ,67,No,Yes,Yes,No,No,Yes,Yes,Yes,33,50,Kidnapping
+2001,2,Edo, 1.4 ,41,No,Yes,No,No,Yes,No,Yes,No,33,50,Kidnapping
+2001,3,Edo, 41.7 ,99,Yes,No,Yes,No,No,Yes,Yes,Yes,33,50,Armed Robbery
+2001,4,Edo, 7.0 ,50,No,Yes,Yes,No,No,No,Yes,Yes,33,50,Kidnapping
+2001,5,Edo, 44.3 ,86,Yes,No,No,No,No,Yes,Yes,Yes,33,50,Armed Robbery
+2001,6,Edo, 36.5 ,72,Yes,No,No,Yes,No,Yes,No,Yes,33,50,Armed Robbery
+2001,7,Edo, 8.2 ,79,No,Yes,No,No,Yes,No,Yes,Yes,33,50,Kidnapping
+2001,8,Edo, 28.3 ,45,Yes,No,Yes,Yes,No,No,No,No,33,50,Armed Robbery
+2001,9,Edo, 15.6 ,71,Yes,No,No,Yes,No,Yes,No,No,33,50,Armed Robbery
+2001,10,Edo, 8.9 ,19,Yes,No,No,Yes,No,No,Yes,Yes,33,50,Armed Robbery
+2001,11,Edo, 43.0 ,17,Yes,No,Yes,Yes,Yes,Yes,No,Yes,33,50,Armed Robbery
+2001,12,Edo, 20.2 ,65,No,Yes,Yes,No,No,No,No,No,33,50,Kidnapping
+2002,1,Edo, 19.9 ,93,No,Yes,Yes,No,Yes,Yes,No,Yes,33,50,Kidnapping
+2002,2,Edo, 8.5 ,77,No,No,Yes,No,No,No,Yes,No,33,50,Oil Bunkering
+2002,3,Edo, 19.2 ,56,No,No,Yes,Yes,No,Yes,No,Yes,33,50,Oil Bunkering
+2002,4,Edo, 43.6 ,93,Yes,Yes,No,No,No,Yes,Yes,No,33,50,Armed Robbery
+2002,5,Edo, 18.2 ,41,Yes,No,No,No,Yes,Yes,No,No,33,50,Armed Robbery
+2002,6,Edo, 47.6 ,42,No,Yes,No,No,Yes,No,No,Yes,33,50,Kidnapping
+2002,7,Edo, 47.3 ,6,No,No,Yes,Yes,Yes,Yes,No,No,33,50,Oil Bunkering
+2002,8,Edo, 7.2 ,69,No,No,Yes,Yes,Yes,No,No,Yes,33,50,Oil Bunkering
+2002,9,Edo, 8.9 ,98,Yes,Yes,Yes,No,Yes,No,Yes,No,33,50,Armed Robbery
+2002,10,Edo, 43.1 ,75,No,Yes,No,Yes,Yes,No,No,Yes,33,50,Kidnapping
+2002,11,Edo, 19.6 ,73,No,Yes,No,Yes,No,Yes,No,Yes,33,50,Kidnapping
+2002,12,Edo, 0.2 ,40,No,Yes,Yes,No,Yes,No,Yes,Yes,33,50,Kidnapping
+2003,1,Edo, 13.7 ,41,Yes,No,No,Yes,No,No,Yes,No,33,50,Armed Robbery
+2003,2,Edo, 29.9 ,9,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,33,50,Armed Robbery
+2003,3,Edo, 40.0 ,8,Yes,No,No,No,Yes,Yes,No,Yes,33,50,Armed Robbery
+2003,4,Edo, 6.7 ,44,Yes,Yes,No,Yes,Yes,No,Yes,Yes,33,50,Armed Robbery
+2003,5,Edo, 5.5 ,58,Yes,Yes,No,Yes,No,No,Yes,No,33,50,Armed Robbery
+2003,6,Edo, 46.1 ,67,Yes,No,Yes,Yes,Yes,No,Yes,Yes,33,50,Armed Robbery
+2003,7,Edo, 37.6 ,13,Yes,Yes,No,Yes,Yes,No,Yes,No,33,50,Armed Robbery
+2003,8,Edo, 29.5 ,19,Yes,Yes,No,Yes,No,Yes,Yes,No,33,50,Armed Robbery
+2003,9,Edo, 38.5 ,98,No,Yes,Yes,Yes,No,Yes,Yes,No,33,50,Kidnapping
+2003,10,Edo, 21.4 ,96,No,Yes,No,Yes,No,No,No,Yes,33,50,Kidnapping
+2003,11,Edo, 37.9 ,49,Yes,No,Yes,Yes,No,No,Yes,Yes,33,50,Armed Robbery
+2003,12,Edo, 18.6 ,80,Yes,No,Yes,No,Yes,No,No,No,33,50,Armed Robbery
+2004,1,Edo, 12.2 ,82,No,Yes,Yes,No,No,No,Yes,Yes,33,50,Kidnapping
+2004,2,Edo, 36.5 ,78,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2004,3,Edo, 21.0 ,30,Yes,Yes,Yes,No,Yes,Yes,Yes,No,33,50,Armed Robbery
+2004,4,Edo, 49.1 ,66,Yes,No,No,Yes,No,Yes,No,No,33,50,Armed Robbery
+2004,5,Edo, 17.5 ,77,No,No,Yes,No,Yes,Yes,Yes,Yes,33,50,Oil Bunkering
+2004,6,Edo, 46.1 ,91,No,No,Yes,No,No,No,Yes,No,33,50,Oil Bunkering
+2004,7,Edo, 46.6 ,59,No,No,Yes,Yes,Yes,No,Yes,Yes,33,50,Oil Bunkering
+2004,8,Edo, 12.1 ,53,No,Yes,Yes,Yes,No,Yes,Yes,No,33,50,Kidnapping
+2004,9,Edo, 39.9 ,52,No,Yes,No,Yes,No,Yes,No,Yes,33,50,Kidnapping
+2004,10,Edo, 21.7 ,81,Yes,Yes,Yes,Yes,No,No,No,Yes,33,50,Armed Robbery
+2004,11,Edo, 45.9 ,31,No,No,No,Yes,No,No,No,No,33,50,Piracy
+2004,12,Edo, 22.5 ,15,Yes,Yes,Yes,No,No,No,No,Yes,33,50,Armed Robbery
+2005,1,Edo, 37.2 ,20,Yes,No,No,Yes,No,No,No,Yes,33,50,Armed Robbery
+2005,2,Edo, 23.3 ,5,No,No,Yes,No,Yes,No,Yes,No,33,50,Oil Bunkering
+2005,3,Edo, 11.4 ,7,No,Yes,Yes,No,Yes,Yes,Yes,Yes,33,50,Kidnapping
+2005,4,Edo, 10.0 ,18,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2005,5,Edo, 21.3 ,56,Yes,Yes,Yes,No,No,No,No,Yes,33,50,Armed Robbery
+2005,6,Edo, 37.8 ,75,Yes,No,No,No,Yes,No,Yes,No,33,50,Armed Robbery
+2005,7,Edo, 30.3 ,96,No,No,Yes,Yes,No,Yes,No,No,33,50,Oil Bunkering
+2005,8,Edo, 34.4 ,91,No,Yes,No,No,Yes,No,Yes,No,33,50,Kidnapping
+2005,9,Edo, 14.1 ,90,No,Yes,Yes,No,Yes,Yes,No,No,33,50,Kidnapping
+2005,10,Edo, 24.1 ,45,No,No,Yes,No,No,Yes,Yes,No,33,50,Oil Bunkering
+2005,11,Edo, 2.2 ,28,No,Yes,No,Yes,Yes,Yes,Yes,Yes,33,50,Kidnapping
+2005,12,Edo, 40.9 ,50,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2006,1,Edo, 49.5 ,2,No,No,Yes,Yes,Yes,No,Yes,Yes,33,50,Oil Bunkering
+2006,2,Edo, 20.3 ,84,Yes,Yes,Yes,No,No,No,No,No,33,50,Armed Robbery
+2006,3,Edo, 0.5 ,68,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2006,4,Edo, 8.5 ,77,Yes,Yes,Yes,No,No,No,Yes,No,33,50,Armed Robbery
+2006,5,Edo, 32.6 ,24,No,Yes,Yes,Yes,Yes,No,Yes,Yes,33,50,Kidnapping
+2006,6,Edo, 30.6 ,48,No,No,No,No,Yes,No,No,No,33,50,Cultism
+2006,7,Edo, 39.4 ,45,No,No,No,Yes,Yes,No,Yes,Yes,33,50,Piracy
+2006,8,Edo, 12.7 ,93,Yes,No,No,Yes,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2006,9,Edo, 38.2 ,58,Yes,Yes,Yes,No,No,No,Yes,No,33,50,Armed Robbery
+2006,10,Edo, 34.4 ,36,Yes,No,No,Yes,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2006,11,Edo, 16.1 ,2,Yes,Yes,Yes,No,No,Yes,Yes,Yes,33,50,Armed Robbery
+2006,12,Edo, 27.3 ,18,Yes,Yes,Yes,Yes,No,No,No,No,33,50,Armed Robbery
+2007,1,Edo, 7.4 ,49,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,33,50,Armed Robbery
+2007,2,Edo, 22.6 ,8,No,Yes,Yes,No,Yes,No,No,Yes,33,50,Kidnapping
+2007,3,Edo, 44.1 ,58,No,Yes,No,No,No,No,Yes,No,33,50,Kidnapping
+2007,4,Edo, 21.1 ,15,No,Yes,Yes,No,No,Yes,No,No,33,50,Kidnapping
+2007,5,Edo, 42.0 ,17,No,No,No,Yes,Yes,No,Yes,No,33,50,Piracy
+2007,6,Edo, 29.5 ,23,Yes,Yes,Yes,No,Yes,Yes,Yes,No,33,50,Armed Robbery
+2007,7,Edo, 9.6 ,66,Yes,No,No,Yes,Yes,Yes,Yes,No,33,50,Armed Robbery
+2007,8,Edo, 29.1 ,70,No,No,No,No,Yes,No,Yes,Yes,33,50,Cultism
+2007,9,Edo, 25.3 ,93,Yes,Yes,No,No,Yes,No,No,No,33,50,Armed Robbery
+2007,10,Edo, 19.9 ,27,No,Yes,No,No,No,No,No,No,33,50,Kidnapping
+2007,11,Edo, 6.0 ,37,No,Yes,No,No,Yes,Yes,No,Yes,33,50,Kidnapping
+2007,12,Edo, 20.8 ,49,No,No,No,No,Yes,No,Yes,Yes,33,50,Cultism
+2008,1,Edo, 3.6 ,64,Yes,Yes,Yes,No,No,Yes,No,Yes,33,50,Armed Robbery
+2008,2,Edo, 4.9 ,34,No,No,No,Yes,Yes,Yes,No,Yes,33,50,Piracy
+2008,3,Edo, 20.8 ,18,No,Yes,Yes,No,Yes,No,Yes,Yes,33,50,Kidnapping
+2008,4,Edo, 15.3 ,64,No,Yes,No,Yes,No,No,No,No,33,50,Kidnapping
+2008,5,Edo, 46.3 ,74,Yes,No,Yes,No,Yes,No,Yes,Yes,33,50,Armed Robbery
+2008,6,Edo, 18.8 ,44,Yes,No,No,No,No,Yes,No,No,33,50,Armed Robbery
+2008,7,Edo, 37.9 ,17,No,Yes,No,No,Yes,No,No,Yes,33,50,Kidnapping
+2008,8,Edo, 26.5 ,59,Yes,No,Yes,Yes,Yes,Yes,No,No,33,50,Armed Robbery
+2008,9,Edo, 35.2 ,13,Yes,No,No,Yes,Yes,No,Yes,Yes,33,50,Armed Robbery
+2008,10,Edo, 13.0 ,52,Yes,No,No,No,No,No,No,No,33,50,Armed Robbery
+2008,11,Edo, 47.1 ,60,Yes,No,No,Yes,No,Yes,No,No,33,50,Armed Robbery
+2008,12,Edo, 26.5 ,42,Yes,No,Yes,No,No,Yes,No,No,33,50,Armed Robbery
+2009,1,Edo, 41.6 ,91,Yes,Yes,No,No,No,No,No,No,33,50,Armed Robbery
+2009,2,Edo, 18.3 ,64,Yes,Yes,Yes,Yes,Yes,No,Yes,No,33,50,Armed Robbery
+2009,3,Edo, 5.0 ,66,Yes,No,No,Yes,No,No,Yes,No,33,50,Armed Robbery
+2009,4,Edo, 33.7 ,34,Yes,Yes,No,Yes,No,No,No,No,33,50,Armed Robbery
+2009,5,Edo, 0.4 ,95,Yes,Yes,Yes,Yes,No,No,No,No,33,50,Armed Robbery
+2009,6,Edo, 23.8 ,87,No,No,No,No,Yes,Yes,No,No,33,50,Cultism
+2009,7,Edo, 9.6 ,71,No,Yes,No,Yes,Yes,Yes,Yes,No,33,50,Kidnapping
+2009,8,Edo, 31.4 ,64,Yes,No,Yes,Yes,No,Yes,No,Yes,33,50,Armed Robbery
+2009,9,Edo, 49.0 ,33,No,No,No,No,No,Yes,No,No,33,50,Human Trafficking
+2009,10,Edo, 23.2 ,12,No,Yes,Yes,Yes,Yes,No,Yes,No,33,50,Kidnapping
+2009,11,Edo, 40.9 ,76,Yes,No,Yes,Yes,No,Yes,Yes,Yes,33,50,Armed Robbery
+2009,12,Edo, 25.4 ,19,Yes,No,Yes,Yes,No,Yes,Yes,No,33,50,Armed Robbery
+2010,1,Edo, 24.8 ,9,Yes,No,No,Yes,No,Yes,No,No,33,50,Armed Robbery
+2010,2,Edo, 46.5 ,74,No,No,Yes,No,No,No,Yes,Yes,33,50,Oil Bunkering
+2010,3,Edo, 44.5 ,17,No,No,Yes,No,Yes,Yes,Yes,Yes,33,50,Oil Bunkering
+2010,4,Edo, 39.3 ,50,Yes,Yes,No,Yes,Yes,No,No,No,33,50,Armed Robbery
+2010,5,Edo, 14.8 ,39,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2010,6,Edo, 27.3 ,41,Yes,No,No,No,No,No,No,No,33,50,Armed Robbery
+2010,7,Edo, 11.2 ,10,No,No,No,Yes,No,Yes,No,No,33,50,Piracy
+2010,8,Edo, 22.2 ,12,No,Yes,No,Yes,Yes,No,Yes,No,33,50,Kidnapping
+2010,9,Edo, 24.2 ,79,No,No,No,Yes,Yes,Yes,No,Yes,33,50,Piracy
+2010,10,Edo, 41.6 ,95,No,Yes,Yes,Yes,Yes,No,Yes,No,33,50,Kidnapping
+2010,11,Edo, 44.8 ,15,Yes,No,Yes,Yes,No,No,Yes,No,33,50,Armed Robbery
+2010,12,Edo, 20.7 ,28,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2011,1,Edo, 0.9 ,4,Yes,No,Yes,Yes,No,No,No,No,33,50,Armed Robbery
+2011,2,Edo, 43.1 ,36,Yes,No,Yes,Yes,No,No,Yes,No,33,50,Armed Robbery
+2011,3,Edo, 8.7 ,65,No,No,No,Yes,Yes,Yes,No,No,33,50,Piracy
+2011,4,Edo, 31.1 ,98,No,No,Yes,No,Yes,Yes,No,No,33,50,Oil Bunkering
+2011,5,Edo, 1.2 ,47,Yes,No,Yes,No,No,No,No,No,33,50,Armed Robbery
+2011,6,Edo, 20.0 ,81,Yes,Yes,Yes,No,Yes,Yes,Yes,No,33,50,Armed Robbery
+2011,7,Edo, 49.3 ,39,No,Yes,No,Yes,Yes,Yes,No,Yes,33,50,Kidnapping
+2011,8,Edo, 5.0 ,38,Yes,Yes,No,Yes,No,Yes,No,No,33,50,Armed Robbery
+2011,9,Edo, 21.2 ,44,No,No,Yes,No,No,No,Yes,No,33,50,Oil Bunkering
+2011,10,Edo, 15.4 ,51,Yes,No,No,Yes,No,No,Yes,Yes,33,50,Armed Robbery
+2011,11,Edo, 45.3 ,97,Yes,No,Yes,No,No,No,No,No,33,50,Armed Robbery
+2011,12,Edo, 43.5 ,85,Yes,No,Yes,Yes,No,No,No,No,33,50,Armed Robbery
+2012,1,Edo, 11.9 ,26,Yes,No,No,No,Yes,No,Yes,Yes,33,50,Armed Robbery
+2012,2,Edo, 4.1 ,36,Yes,No,No,No,No,No,No,Yes,33,50,Armed Robbery
+2012,3,Edo, 31.4 ,69,Yes,No,Yes,No,No,No,No,Yes,33,50,Armed Robbery
+2012,4,Edo, 16.8 ,97,Yes,Yes,Yes,Yes,No,Yes,No,Yes,33,50,Armed Robbery
+2012,5,Edo, 33.6 ,1,No,No,No,No,Yes,No,No,Yes,33,50,Cultism
+2012,6,Edo, 1.6 ,53,No,Yes,Yes,Yes,No,No,Yes,Yes,33,50,Kidnapping
+2012,7,Edo, 6.7 ,6,No,Yes,No,Yes,No,Yes,No,Yes,33,50,Kidnapping
+2012,8,Edo, 34.3 ,37,No,No,Yes,Yes,No,Yes,Yes,No,33,50,Oil Bunkering
+2012,9,Edo, 10.6 ,2,No,No,No,Yes,Yes,Yes,No,No,33,50,Piracy
+2012,10,Edo, 42.9 ,69,Yes,Yes,Yes,Yes,No,No,Yes,No,33,50,Armed Robbery
+2012,11,Edo, 2.9 ,90,Yes,Yes,Yes,Yes,No,Yes,No,Yes,33,50,Armed Robbery
+2012,12,Edo, 10.8 ,41,No,No,No,Yes,No,No,Yes,No,33,50,Piracy
+2013,1,Edo, 49.9 ,51,Yes,No,Yes,No,Yes,No,No,Yes,33,50,Armed Robbery
+2013,2,Edo, 21.7 ,47,No,Yes,Yes,No,Yes,No,Yes,No,33,50,Kidnapping
+2013,3,Edo, 35.1 ,13,No,No,No,No,Yes,Yes,No,No,33,50,Cultism
+2013,4,Edo, 9.1 ,76,Yes,No,Yes,Yes,Yes,Yes,No,No,33,50,Armed Robbery
+2013,5,Edo, 30.5 ,69,Yes,No,Yes,Yes,No,No,Yes,No,33,50,Armed Robbery
+2013,6,Edo, 36.3 ,66,Yes,Yes,Yes,Yes,No,No,Yes,Yes,33,50,Armed Robbery
+2013,7,Edo, 15.7 ,59,No,Yes,No,Yes,Yes,No,Yes,Yes,33,50,Kidnapping
+2013,8,Edo, 41.4 ,68,Yes,Yes,No,No,Yes,Yes,Yes,No,33,50,Armed Robbery
+2013,9,Edo, 30.2 ,59,No,No,No,Yes,No,No,Yes,Yes,33,50,Piracy
+2013,10,Edo, 19.5 ,91,No,No,Yes,No,No,Yes,No,Yes,33,50,Oil Bunkering
+2013,11,Edo, 27.9 ,10,No,Yes,Yes,Yes,Yes,No,Yes,No,33,50,Kidnapping
+2013,12,Edo, 28.8 ,13,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2014,1,Edo, 8.3 ,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,33,50,Armed Robbery
+2014,2,Edo, 20.1 ,90,No,No,No,No,Yes,Yes,Yes,Yes,33,50,Cultism
+2014,3,Edo, 17.2 ,15,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,33,50,Armed Robbery
+2014,4,Edo, 20.0 ,46,Yes,Yes,Yes,No,Yes,Yes,Yes,No,33,50,Armed Robbery
+2014,5,Edo, 38.1 ,57,Yes,No,Yes,Yes,Yes,Yes,No,No,33,50,Armed Robbery
+2014,6,Edo, 24.1 ,10,No,No,No,No,No,Yes,Yes,Yes,33,50,Human Trafficking
+2014,7,Edo, 47.0 ,22,No,No,Yes,No,No,Yes,No,No,33,50,Oil Bunkering
+2014,8,Edo, 14.7 ,89,Yes,Yes,Yes,Yes,No,No,No,No,33,50,Armed Robbery
+2014,9,Edo, 20.8 ,79,No,No,Yes,No,No,No,Yes,No,33,50,Oil Bunkering
+2014,10,Edo, 39.3 ,77,Yes,No,Yes,Yes,No,No,No,Yes,33,50,Armed Robbery
+2014,11,Edo, 27.3 ,8,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,33,50,Armed Robbery
+2014,12,Edo, 27.4 ,21,Yes,No,No,Yes,Yes,Yes,Yes,No,33,50,Armed Robbery
+2015,1,Edo, 2.7 ,85,Yes,Yes,Yes,No,Yes,No,Yes,No,33,50,Armed Robbery
+2015,2,Edo, 19.9 ,22,No,Yes,Yes,No,No,Yes,Yes,Yes,33,50,Kidnapping
+2015,3,Edo, 13.5 ,97,No,No,Yes,Yes,Yes,Yes,Yes,No,33,50,Oil Bunkering
+2015,4,Edo, 50.0 ,45,No,No,Yes,Yes,No,Yes,No,Yes,33,50,Oil Bunkering
+2015,5,Edo, 15.4 ,91,Yes,No,Yes,No,Yes,No,No,No,33,50,Armed Robbery
+2015,6,Edo, 44.2 ,40,Yes,No,Yes,No,Yes,Yes,No,Yes,33,50,Armed Robbery
+2015,7,Edo, 33.8 ,22,Yes,No,Yes,No,No,No,No,Yes,33,50,Armed Robbery
+2015,8,Edo, 17.0 ,30,No,No,Yes,Yes,No,No,Yes,Yes,33,50,Oil Bunkering
+2015,9,Edo, 27.2 ,62,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,33,50,Armed Robbery
+2015,10,Edo, 42.0 ,73,No,Yes,Yes,Yes,Yes,No,No,No,33,50,Kidnapping
+2015,11,Edo, 44.2 ,45,No,No,No,Yes,Yes,No,Yes,Yes,33,50,Piracy
+2015,12,Edo, 8.0 ,35,No,Yes,No,Yes,Yes,Yes,No,No,33,50,Kidnapping
+2016,1,Edo, 17.0 ,82,No,No,No,No,Yes,Yes,No,Yes,33,50,Cultism
+2016,2,Edo, 16.8 ,42,No,Yes,No,Yes,No,No,No,Yes,33,50,Kidnapping
+2016,3,Edo, 2.1 ,5,No,Yes,Yes,No,No,Yes,No,No,33,50,Kidnapping
+2016,4,Edo, 29.9 ,27,Yes,Yes,No,No,No,No,Yes,No,33,50,Armed Robbery
+2016,5,Edo, 42.7 ,70,Yes,No,No,Yes,No,Yes,Yes,No,33,50,Armed Robbery
+2016,6,Edo, 19.1 ,62,No,Yes,Yes,No,Yes,Yes,No,Yes,33,50,Kidnapping
+2016,7,Edo, 37.0 ,32,No,No,No,Yes,Yes,Yes,No,Yes,33,50,Piracy
+2016,8,Edo, 31.4 ,8,Yes,Yes,No,No,No,Yes,No,No,33,50,Armed Robbery
+2016,9,Edo, 18.8 ,85,No,Yes,Yes,Yes,Yes,Yes,No,Yes,33,50,Kidnapping
+2016,10,Edo, 7.1 ,18,No,Yes,Yes,Yes,No,Yes,No,No,33,50,Kidnapping
+2016,11,Edo, 35.5 ,78,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2016,12,Edo, 42.7 ,15,No,Yes,No,Yes,Yes,Yes,No,Yes,33,50,Kidnapping
+2017,1,Edo, 34.3 ,26,No,No,No,No,Yes,Yes,No,Yes,33,50,Cultism
+2017,2,Edo, 0.9 ,53,No,No,Yes,Yes,No,Yes,Yes,No,33,50,Oil Bunkering
+2017,3,Edo, 10.8 ,44,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,33,50,Armed Robbery
+2017,4,Edo, 3.5 ,32,Yes,Yes,No,Yes,No,Yes,Yes,No,33,50,Armed Robbery
+2017,5,Edo, 28.5 ,28,Yes,Yes,Yes,No,No,Yes,Yes,No,33,50,Armed Robbery
+2017,6,Edo, 37.8 ,39,No,Yes,No,No,Yes,No,Yes,Yes,33,50,Kidnapping
+2017,7,Edo, 5.5 ,32,No,No,Yes,Yes,Yes,Yes,Yes,No,33,50,Oil Bunkering
+2017,8,Edo, 41.9 ,77,Yes,Yes,Yes,No,Yes,Yes,Yes,No,33,50,Armed Robbery
+2017,9,Edo, 27.8 ,79,No,No,No,Yes,Yes,Yes,Yes,Yes,33,50,Piracy
+2017,10,Edo, 34.5 ,18,No,Yes,Yes,No,No,Yes,Yes,No,33,50,Kidnapping
+2017,11,Edo, 48.6 ,70,No,No,Yes,No,Yes,Yes,No,No,33,50,Oil Bunkering
+2017,12,Edo, 4.2 ,11,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,33,50,Kidnapping
+2018,1,Edo, 45.1 ,32,No,Yes,No,Yes,Yes,No,No,Yes,33,50,Kidnapping
+2018,2,Edo, 6.3 ,20,Yes,No,Yes,Yes,No,No,No,Yes,33,50,Armed Robbery
+2018,3,Edo, 19.6 ,97,No,Yes,Yes,Yes,No,No,No,No,33,50,Kidnapping
+2018,4,Edo, 42.6 ,40,Yes,Yes,Yes,Yes,No,Yes,No,No,33,50,Armed Robbery
+2018,5,Edo, 45.3 ,8,No,Yes,Yes,No,Yes,Yes,No,Yes,33,50,Kidnapping
+2018,6,Edo, 25.3 ,35,Yes,No,Yes,No,No,Yes,No,No,33,50,Armed Robbery
+2018,7,Edo, 29.7 ,69,No,Yes,Yes,Yes,Yes,No,No,Yes,33,50,Kidnapping
+2018,8,Edo, 35.4 ,99,Yes,Yes,No,Yes,Yes,Yes,No,Yes,33,50,Armed Robbery
+2018,9,Edo, 41.6 ,78,No,No,No,Yes,Yes,Yes,Yes,Yes,33,50,Piracy
+2018,10,Edo, 6.1 ,21,Yes,No,Yes,No,No,No,No,No,33,50,Armed Robbery
+2018,11,Edo, 40.5 ,24,No,No,No,Yes,No,No,No,No,33,50,Piracy
+2018,12,Edo, 24.1 ,17,Yes,Yes,No,Yes,Yes,Yes,No,Yes,33,50,Armed Robbery
+2019,1,Edo, 22.5 ,18,No,Yes,Yes,No,Yes,Yes,No,Yes,33,50,Kidnapping
+2019,2,Edo, 21.2 ,98,Yes,Yes,No,No,No,Yes,Yes,No,33,50,Armed Robbery
+2019,3,Edo, 25.5 ,12,Yes,No,No,No,No,Yes,No,Yes,33,50,Armed Robbery
+2019,4,Edo, 47.3 ,16,No,Yes,No,No,No,No,Yes,No,33,50,Kidnapping
+2019,5,Edo, 27.4 ,4,No,Yes,No,Yes,Yes,Yes,Yes,Yes,33,50,Kidnapping
+2019,6,Edo, 47.7 ,89,Yes,No,No,No,Yes,Yes,No,Yes,33,50,Armed Robbery
+2019,7,Edo, 9.0 ,34,No,No,No,No,Yes,No,No,No,33,50,Cultism
+2019,8,Edo, 36.2 ,92,Yes,No,No,Yes,No,Yes,Yes,No,33,50,Armed Robbery
+2019,9,Edo, 40.6 ,46,Yes,No,No,Yes,No,Yes,No,No,33,50,Armed Robbery
+2019,10,Edo, 34.0 ,75,Yes,No,Yes,Yes,No,No,No,No,33,50,Armed Robbery
+2019,11,Edo, 30.3 ,77,No,Yes,Yes,No,Yes,No,Yes,No,33,50,Kidnapping
+2019,12,Edo, 28.2 ,31,Yes,No,No,Yes,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2020,1,Edo, 43.0 ,25,Yes,Yes,No,No,No,No,No,Yes,33,50,Armed Robbery
+2020,2,Edo, 41.1 ,74,No,Yes,Yes,No,Yes,No,No,No,33,50,Kidnapping
+2020,3,Edo, 6.1 ,24,No,No,No,No,No,Yes,No,No,33,50,Human Trafficking
+2020,4,Edo, 42.4 ,65,No,No,No,Yes,Yes,No,Yes,Yes,33,50,Piracy
+2020,5,Edo, 20.7 ,25,No,No,Yes,No,No,Yes,No,Yes,33,50,Oil Bunkering
+2020,6,Edo, 12.7 ,28,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,33,50,Armed Robbery
+2020,7,Edo, 43.5 ,36,Yes,No,Yes,Yes,Yes,Yes,Yes,No,33,50,Armed Robbery
+2020,8,Edo, 21.6 ,82,Yes,No,No,Yes,No,Yes,No,Yes,33,50,Armed Robbery
+2020,9,Edo, 40.4 ,6,Yes,No,No,No,No,No,Yes,No,33,50,Armed Robbery
+2020,10,Edo, 13.2 ,66,No,No,Yes,No,No,Yes,No,Yes,33,50,Oil Bunkering
+2020,11,Edo, 0.2 ,67,Yes,No,Yes,No,No,Yes,No,Yes,33,50,Armed Robbery
+2020,12,Edo, 24.8 ,72,Yes,Yes,No,Yes,No,Yes,Yes,No,33,50,Armed Robbery
+2021,1,Edo, 5.0 ,95,No,Yes,Yes,No,Yes,Yes,No,Yes,33,50,Kidnapping
+2021,2,Edo, 37.7 ,48,Yes,Yes,No,No,No,No,Yes,Yes,33,50,Armed Robbery
+2021,3,Edo, 13.8 ,83,Yes,No,No,No,No,No,Yes,Yes,33,50,Armed Robbery
+2021,4,Edo, 22.2 ,70,Yes,No,Yes,No,No,No,No,No,33,50,Armed Robbery
+2021,5,Edo, 4.4 ,78,Yes,No,Yes,No,Yes,Yes,No,Yes,33,50,Armed Robbery
+2021,6,Edo, 14.3 ,67,Yes,Yes,No,Yes,No,No,No,No,33,50,Armed Robbery
+2021,7,Edo, 39.1 ,48,Yes,No,Yes,Yes,No,No,No,Yes,33,50,Armed Robbery
+2021,8,Edo, 7.6 ,65,No,No,Yes,Yes,No,Yes,Yes,Yes,33,50,Oil Bunkering
+2021,9,Edo, 32.4 ,44,No,No,Yes,Yes,Yes,No,Yes,Yes,33,50,Oil Bunkering
+2021,10,Edo, 45.9 ,94,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,33,50,Armed Robbery
+2021,11,Edo, 34.0 ,63,Yes,No,No,Yes,No,No,No,Yes,33,50,Armed Robbery
+2021,12,Edo, 40.6 ,46,No,Yes,No,No,Yes,No,Yes,No,33,50,Kidnapping
+2022,1,Edo, 5.4 ,19,Yes,No,No,Yes,No,No,Yes,No,33,50,Armed Robbery
+2022,2,Edo, 12.5 ,64,Yes,Yes,No,Yes,Yes,No,No,Yes,33,50,Armed Robbery
+2022,3,Edo, 44.7 ,83,Yes,Yes,Yes,Yes,No,Yes,No,No,33,50,Armed Robbery
+2022,4,Edo, 35.8 ,73,No,Yes,Yes,No,Yes,Yes,No,No,33,50,Kidnapping
+2022,5,Edo, 32.0 ,71,Yes,No,No,No,No,No,Yes,Yes,33,50,Armed Robbery
+2022,6,Edo, 33.2 ,50,No,No,No,Yes,No,Yes,No,No,33,50,Piracy
+2022,7,Edo, 20.7 ,63,Yes,Yes,Yes,No,Yes,No,Yes,No,33,50,Armed Robbery
+2022,8,Edo, 2.2 ,41,No,Yes,No,Yes,No,No,Yes,No,33,50,Kidnapping
+2022,9,Edo, 39.2 ,7,No,No,No,Yes,No,No,Yes,No,33,50,Piracy
+2022,10,Edo, 33.9 ,9,Yes,No,Yes,Yes,No,No,Yes,Yes,33,50,Armed Robbery
+2022,11,Edo, 23.6 ,4,No,Yes,No,No,No,No,Yes,No,33,50,Kidnapping
+2022,12,Edo, 45.0 ,89,Yes,No,Yes,Yes,Yes,No,No,Yes,33,50,Armed Robbery
+2000,1,Imo, 16.8 ,49,No,No,Yes,Yes,No,Yes,Yes,Yes,31,52,Oil Bunkering
+2000,2,Imo, 14.7 ,76,Yes,No,No,Yes,Yes,Yes,No,No,31,52,Armed Robbery
+2000,3,Imo, 43.6 ,6,Yes,No,Yes,No,Yes,No,Yes,Yes,31,52,Armed Robbery
+2000,4,Imo, 39.8 ,82,No,Yes,No,Yes,Yes,Yes,Yes,No,31,52,Kidnapping
+2000,5,Imo, 25.7 ,21,Yes,No,Yes,No,Yes,No,No,Yes,31,52,Armed Robbery
+2000,6,Imo, 6.5 ,15,Yes,No,No,Yes,No,Yes,Yes,No,31,52,Armed Robbery
+2000,7,Imo, 10.8 ,67,No,Yes,No,No,No,Yes,Yes,No,31,52,Kidnapping
+2000,8,Imo, 32.8 ,66,Yes,Yes,No,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2000,9,Imo, 19.3 ,56,Yes,No,Yes,Yes,No,No,No,No,31,52,Armed Robbery
+2000,10,Imo, 41.8 ,68,No,No,Yes,No,Yes,Yes,Yes,No,31,52,Oil Bunkering
+2000,11,Imo, 47.5 ,32,No,No,No,No,No,No,Yes,No,31,52,Drug Trafficking
+2000,12,Imo, 40.3 ,66,Yes,No,Yes,Yes,No,No,Yes,No,31,52,Armed Robbery
+2001,1,Imo, 18.9 ,29,Yes,Yes,No,No,No,No,No,Yes,31,52,Armed Robbery
+2001,2,Imo, 39.4 ,66,No,Yes,No,Yes,Yes,Yes,Yes,Yes,31,52,Kidnapping
+2001,3,Imo, 17.6 ,34,No,Yes,Yes,Yes,Yes,Yes,No,Yes,31,52,Kidnapping
+2001,4,Imo, 8.4 ,27,Yes,No,No,Yes,No,Yes,No,No,31,52,Armed Robbery
+2001,5,Imo, 1.7 ,60,No,No,Yes,No,Yes,No,Yes,Yes,31,52,Oil Bunkering
+2001,6,Imo, 19.3 ,39,Yes,No,No,Yes,Yes,No,No,No,31,52,Armed Robbery
+2001,7,Imo, 45.2 ,44,Yes,No,Yes,No,No,Yes,Yes,No,31,52,Armed Robbery
+2001,8,Imo, 11.9 ,82,Yes,Yes,No,Yes,Yes,No,Yes,No,31,52,Armed Robbery
+2001,9,Imo, 10.3 ,36,Yes,Yes,No,No,No,Yes,No,Yes,31,52,Armed Robbery
+2001,10,Imo, 48.5 ,19,Yes,No,Yes,No,No,Yes,No,Yes,31,52,Armed Robbery
+2001,11,Imo, 1.3 ,91,No,Yes,No,Yes,No,Yes,No,Yes,31,52,Kidnapping
+2001,12,Imo, 39.3 ,45,No,No,No,No,Yes,Yes,No,Yes,31,52,Cultism
+2002,1,Imo, 16.1 ,84,No,No,Yes,Yes,No,No,No,No,31,52,Oil Bunkering
+2002,2,Imo, 1.9 ,21,No,Yes,No,Yes,No,Yes,No,Yes,31,52,Kidnapping
+2002,3,Imo, 45.9 ,23,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2002,4,Imo, 7.0 ,94,Yes,No,No,Yes,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2002,5,Imo, 27.6 ,89,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2002,6,Imo, 13.7 ,95,Yes,No,No,No,Yes,Yes,No,No,31,52,Armed Robbery
+2002,7,Imo, 3.3 ,27,No,No,No,Yes,No,Yes,No,Yes,31,52,Piracy
+2002,8,Imo, 2.5 ,98,Yes,Yes,No,No,Yes,Yes,No,Yes,31,52,Armed Robbery
+2002,9,Imo, 5.8 ,72,Yes,No,Yes,No,Yes,No,Yes,Yes,31,52,Armed Robbery
+2002,10,Imo, 3.6 ,19,No,Yes,Yes,Yes,Yes,No,Yes,No,31,52,Kidnapping
+2002,11,Imo, 38.0 ,41,No,No,Yes,No,Yes,No,No,Yes,31,52,Oil Bunkering
+2002,12,Imo, 24.3 ,26,No,Yes,Yes,Yes,No,No,No,Yes,31,52,Kidnapping
+2003,1,Imo, 17.1 ,28,No,Yes,No,No,Yes,Yes,No,Yes,31,52,Kidnapping
+2003,2,Imo, 20.9 ,64,Yes,Yes,No,No,No,No,No,No,31,52,Armed Robbery
+2003,3,Imo, 46.4 ,68,Yes,No,Yes,No,Yes,No,Yes,No,31,52,Armed Robbery
+2003,4,Imo, 45.5 ,95,No,Yes,Yes,Yes,No,No,Yes,Yes,31,52,Kidnapping
+2003,5,Imo, 35.8 ,80,Yes,Yes,Yes,No,No,Yes,Yes,Yes,31,52,Armed Robbery
+2003,6,Imo, 44.2 ,51,Yes,Yes,No,Yes,Yes,No,No,No,31,52,Armed Robbery
+2003,7,Imo, 16.0 ,74,Yes,Yes,Yes,No,No,No,Yes,No,31,52,Armed Robbery
+2003,8,Imo, 19.1 ,48,No,Yes,Yes,No,Yes,Yes,No,No,31,52,Kidnapping
+2003,9,Imo, 30.7 ,10,Yes,No,No,No,No,No,No,No,31,52,Armed Robbery
+2003,10,Imo, 31.2 ,73,No,No,No,No,No,Yes,No,No,31,52,Human Trafficking
+2003,11,Imo, 24.1 ,39,Yes,No,Yes,Yes,No,No,Yes,Yes,31,52,Armed Robbery
+2003,12,Imo, 20.0 ,19,Yes,No,No,Yes,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2004,1,Imo, 49.3 ,64,Yes,No,Yes,No,No,No,No,Yes,31,52,Armed Robbery
+2004,2,Imo, 41.1 ,19,No,No,No,No,Yes,No,Yes,Yes,31,52,Cultism
+2004,3,Imo, 21.7 ,76,Yes,No,Yes,Yes,No,No,No,No,31,52,Armed Robbery
+2004,4,Imo, 36.4 ,62,No,Yes,Yes,Yes,No,Yes,No,No,31,52,Kidnapping
+2004,5,Imo, 13.5 ,13,No,No,Yes,Yes,No,No,No,No,31,52,Oil Bunkering
+2004,6,Imo, 5.0 ,25,No,Yes,Yes,Yes,No,Yes,Yes,No,31,52,Kidnapping
+2004,7,Imo, 17.6 ,89,Yes,Yes,No,No,No,Yes,Yes,No,31,52,Armed Robbery
+2004,8,Imo, 20.1 ,92,Yes,No,No,No,No,Yes,No,Yes,31,52,Armed Robbery
+2004,9,Imo, 0.8 ,42,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2004,10,Imo, 40.7 ,39,Yes,Yes,No,Yes,Yes,No,Yes,Yes,31,52,Armed Robbery
+2004,11,Imo, 18.0 ,30,No,Yes,Yes,Yes,Yes,No,Yes,Yes,31,52,Kidnapping
+2004,12,Imo, 29.0 ,5,No,Yes,Yes,Yes,No,No,Yes,Yes,31,52,Kidnapping
+2005,1,Imo, 3.7 ,81,No,No,No,Yes,Yes,Yes,No,No,31,52,Piracy
+2005,2,Imo, 8.7 ,18,Yes,No,No,Yes,No,No,Yes,No,31,52,Armed Robbery
+2005,3,Imo, 44.5 ,21,No,No,No,No,Yes,Yes,No,No,31,52,Cultism
+2005,4,Imo, 30.4 ,86,Yes,No,No,No,Yes,Yes,No,No,31,52,Armed Robbery
+2005,5,Imo, 47.5 ,50,No,No,No,No,No,Yes,Yes,No,31,52,Human Trafficking
+2005,6,Imo, 49.9 ,6,Yes,No,Yes,Yes,No,No,No,Yes,31,52,Armed Robbery
+2005,7,Imo, 18.6 ,50,Yes,No,Yes,Yes,Yes,No,No,Yes,31,52,Armed Robbery
+2005,8,Imo, 14.9 ,80,No,No,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Oil Bunkering
+2005,9,Imo, 42.9 ,66,No,No,No,No,Yes,No,No,No,31,52,Cultism
+2005,10,Imo, 49.9 ,1,No,No,No,Yes,Yes,No,No,No,31,52,Piracy
+2005,11,Imo, 31.5 ,57,No,Yes,No,Yes,No,Yes,Yes,No,31,52,Kidnapping
+2005,12,Imo, 39.8 ,30,Yes,No,No,No,Yes,Yes,Yes,No,31,52,Armed Robbery
+2006,1,Imo, 39.1 ,58,No,Yes,Yes,Yes,No,No,Yes,Yes,31,52,Kidnapping
+2006,2,Imo, 17.8 ,52,No,Yes,Yes,No,No,Yes,Yes,No,31,52,Kidnapping
+2006,3,Imo, 28.7 ,37,No,Yes,No,No,Yes,Yes,Yes,Yes,31,52,Kidnapping
+2006,4,Imo, 41.7 ,48,Yes,Yes,Yes,Yes,No,No,No,No,31,52,Armed Robbery
+2006,5,Imo, 34.4 ,87,Yes,No,Yes,No,Yes,No,No,Yes,31,52,Armed Robbery
+2006,6,Imo, 1.1 ,1,No,Yes,No,Yes,No,Yes,Yes,No,31,52,Kidnapping
+2006,7,Imo, 16.8 ,19,Yes,No,No,No,No,No,Yes,No,31,52,Armed Robbery
+2006,8,Imo, 7.2 ,46,No,No,No,Yes,Yes,Yes,No,Yes,31,52,Piracy
+2006,9,Imo, 11.6 ,67,Yes,Yes,No,No,No,Yes,Yes,Yes,31,52,Armed Robbery
+2006,10,Imo, 45.3 ,2,Yes,No,No,Yes,No,No,Yes,No,31,52,Armed Robbery
+2006,11,Imo, 1.8 ,56,Yes,Yes,No,No,Yes,Yes,No,Yes,31,52,Armed Robbery
+2006,12,Imo, 11.0 ,17,Yes,Yes,Yes,No,No,Yes,No,No,31,52,Armed Robbery
+2007,1,Imo, 15.5 ,92,No,No,Yes,No,No,Yes,No,No,31,52,Oil Bunkering
+2007,2,Imo, 30.8 ,82,No,No,No,Yes,Yes,No,Yes,Yes,31,52,Piracy
+2007,3,Imo, 26.7 ,97,No,Yes,Yes,Yes,Yes,No,No,No,31,52,Kidnapping
+2007,4,Imo, 10.9 ,79,Yes,No,No,No,No,No,Yes,No,31,52,Armed Robbery
+2007,5,Imo, 8.2 ,22,No,No,No,Yes,No,Yes,No,Yes,31,52,Piracy
+2007,6,Imo, 11.8 ,27,No,No,No,No,No,Yes,Yes,No,31,52,Human Trafficking
+2007,7,Imo, 25.1 ,55,No,Yes,No,Yes,Yes,No,Yes,No,31,52,Kidnapping
+2007,8,Imo, 13.6 ,32,Yes,Yes,Yes,No,No,No,Yes,No,31,52,Armed Robbery
+2007,9,Imo, 47.4 ,60,Yes,No,No,Yes,No,No,No,No,31,52,Armed Robbery
+2007,10,Imo, 23.2 ,83,Yes,No,Yes,No,No,Yes,No,Yes,31,52,Armed Robbery
+2007,11,Imo, 2.9 ,28,No,No,No,No,No,No,No,Yes,31,52,Vandalism
+2007,12,Imo, 36.5 ,28,No,No,No,No,No,Yes,Yes,Yes,31,52,Human Trafficking
+2008,1,Imo, 16.4 ,74,No,No,No,No,No,No,No,No,31,52,Kidnapping
+2008,2,Imo, 32.7 ,84,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2008,3,Imo, 14.0 ,25,Yes,No,No,No,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2008,4,Imo, 28.5 ,85,No,Yes,No,Yes,No,No,Yes,Yes,31,52,Kidnapping
+2008,5,Imo, 38.6 ,78,Yes,No,No,Yes,No,Yes,No,No,31,52,Armed Robbery
+2008,6,Imo, 46.4 ,86,Yes,Yes,Yes,No,Yes,No,No,Yes,31,52,Armed Robbery
+2008,7,Imo, 13.1 ,26,Yes,No,Yes,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2008,8,Imo, 16.7 ,75,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,31,52,Armed Robbery
+2008,9,Imo, 23.2 ,71,No,No,No,Yes,No,No,No,No,31,52,Piracy
+2008,10,Imo, 46.4 ,17,Yes,Yes,Yes,No,No,Yes,Yes,No,31,52,Armed Robbery
+2008,11,Imo, 45.1 ,82,Yes,Yes,No,Yes,No,No,Yes,No,31,52,Armed Robbery
+2008,12,Imo, 4.5 ,7,Yes,Yes,Yes,Yes,No,No,No,No,31,52,Armed Robbery
+2009,1,Imo, 6.6 ,56,Yes,Yes,Yes,No,Yes,No,No,No,31,52,Armed Robbery
+2009,2,Imo, 24.8 ,64,No,Yes,No,No,Yes,Yes,Yes,Yes,31,52,Kidnapping
+2009,3,Imo, 5.3 ,20,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Kidnapping
+2009,4,Imo, 17.3 ,38,Yes,No,No,No,Yes,Yes,No,No,31,52,Armed Robbery
+2009,5,Imo, 7.4 ,75,Yes,Yes,No,Yes,No,No,No,No,31,52,Armed Robbery
+2009,6,Imo, 31.8 ,58,Yes,No,Yes,Yes,No,No,No,Yes,31,52,Armed Robbery
+2009,7,Imo, 47.5 ,16,Yes,No,No,Yes,Yes,Yes,Yes,No,31,52,Armed Robbery
+2009,8,Imo, 49.8 ,51,Yes,No,No,No,Yes,Yes,Yes,No,31,52,Armed Robbery
+2009,9,Imo, 18.8 ,27,Yes,No,Yes,Yes,Yes,No,No,Yes,31,52,Armed Robbery
+2009,10,Imo, 30.0 ,51,No,No,Yes,No,Yes,Yes,Yes,No,31,52,Oil Bunkering
+2009,11,Imo, 42.8 ,75,Yes,Yes,No,No,Yes,No,Yes,No,31,52,Armed Robbery
+2009,12,Imo, 5.9 ,16,No,Yes,Yes,Yes,No,Yes,No,Yes,31,52,Kidnapping
+2010,1,Imo, 34.5 ,87,No,Yes,No,No,No,No,Yes,Yes,31,52,Kidnapping
+2010,2,Imo, 20.4 ,60,Yes,No,No,No,Yes,Yes,No,Yes,31,52,Armed Robbery
+2010,3,Imo, 10.3 ,76,No,Yes,Yes,No,Yes,Yes,No,Yes,31,52,Kidnapping
+2010,4,Imo, 20.1 ,40,No,Yes,Yes,No,Yes,No,Yes,Yes,31,52,Kidnapping
+2010,5,Imo, 3.8 ,67,No,Yes,Yes,No,No,No,Yes,No,31,52,Kidnapping
+2010,6,Imo, 34.8 ,2,No,Yes,Yes,Yes,No,No,No,No,31,52,Kidnapping
+2010,7,Imo, 12.6 ,48,No,Yes,No,No,No,Yes,Yes,No,31,52,Kidnapping
+2010,8,Imo, 15.6 ,52,No,No,No,Yes,Yes,No,No,No,31,52,Piracy
+2010,9,Imo, 6.1 ,24,Yes,Yes,Yes,Yes,No,No,Yes,No,31,52,Armed Robbery
+2010,10,Imo, 43.2 ,93,No,No,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Oil Bunkering
+2010,11,Imo, 24.7 ,98,No,No,No,Yes,No,No,Yes,No,31,52,Piracy
+2010,12,Imo, 28.6 ,84,No,No,No,Yes,No,No,No,No,31,52,Piracy
+2011,1,Imo, 28.5 ,82,Yes,No,No,Yes,No,No,Yes,No,31,52,Armed Robbery
+2011,2,Imo, 20.5 ,78,No,No,No,No,Yes,Yes,No,No,31,52,Cultism
+2011,3,Imo, 9.6 ,82,Yes,Yes,Yes,No,Yes,Yes,No,No,31,52,Armed Robbery
+2011,4,Imo, 37.3 ,2,No,Yes,No,No,No,Yes,No,Yes,31,52,Kidnapping
+2011,5,Imo, 6.4 ,65,Yes,Yes,No,Yes,Yes,No,Yes,No,31,52,Armed Robbery
+2011,6,Imo, 5.2 ,20,Yes,No,Yes,No,Yes,Yes,No,No,31,52,Armed Robbery
+2011,7,Imo, 35.5 ,34,No,Yes,No,No,Yes,No,No,No,31,52,Kidnapping
+2011,8,Imo, 10.4 ,41,No,Yes,No,No,Yes,No,Yes,No,31,52,Kidnapping
+2011,9,Imo, 15.3 ,41,Yes,No,Yes,Yes,Yes,No,No,No,31,52,Armed Robbery
+2011,10,Imo, 23.8 ,75,No,No,Yes,No,Yes,Yes,No,No,31,52,Oil Bunkering
+2011,11,Imo, 22.5 ,91,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2011,12,Imo, 35.4 ,23,Yes,No,No,No,No,No,No,No,31,52,Armed Robbery
+2012,1,Imo, 31.2 ,38,Yes,Yes,No,Yes,Yes,No,Yes,Yes,31,52,Armed Robbery
+2012,2,Imo, 32.2 ,44,Yes,No,Yes,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2012,3,Imo, 35.7 ,67,Yes,No,Yes,Yes,No,Yes,No,No,31,52,Armed Robbery
+2012,4,Imo, 14.6 ,62,No,Yes,No,No,No,Yes,Yes,No,31,52,Kidnapping
+2012,5,Imo, 16.1 ,12,Yes,Yes,Yes,No,No,No,No,No,31,52,Armed Robbery
+2012,6,Imo, 21.9 ,30,Yes,No,Yes,Yes,No,Yes,No,Yes,31,52,Armed Robbery
+2012,7,Imo, 15.4 ,95,No,Yes,Yes,No,Yes,Yes,No,No,31,52,Kidnapping
+2012,8,Imo, 49.2 ,87,Yes,No,No,Yes,No,Yes,Yes,No,31,52,Armed Robbery
+2012,9,Imo, 40.7 ,65,No,No,No,Yes,No,No,Yes,No,31,52,Piracy
+2012,10,Imo, 8.2 ,41,No,Yes,No,No,Yes,Yes,Yes,Yes,31,52,Kidnapping
+2012,11,Imo, 0.3 ,20,No,Yes,No,No,Yes,No,Yes,Yes,31,52,Kidnapping
+2012,12,Imo, 2.1 ,6,Yes,No,No,No,Yes,No,Yes,No,31,52,Armed Robbery
+2013,1,Imo, 12.2 ,75,Yes,No,No,Yes,No,No,No,Yes,31,52,Armed Robbery
+2013,2,Imo, 5.7 ,99,Yes,No,Yes,Yes,Yes,Yes,Yes,No,31,52,Armed Robbery
+2013,3,Imo, 26.7 ,4,No,Yes,No,No,No,Yes,Yes,Yes,31,52,Kidnapping
+2013,4,Imo, 42.9 ,93,Yes,No,No,Yes,Yes,Yes,Yes,No,31,52,Armed Robbery
+2013,5,Imo, 36.8 ,10,No,No,Yes,No,Yes,No,No,Yes,31,52,Oil Bunkering
+2013,6,Imo, 10.8 ,51,Yes,No,No,Yes,No,Yes,No,No,31,52,Armed Robbery
+2013,7,Imo, 20.0 ,93,No,No,No,No,Yes,No,Yes,No,31,52,Cultism
+2013,8,Imo, 25.4 ,38,Yes,No,Yes,No,Yes,Yes,No,Yes,31,52,Armed Robbery
+2013,9,Imo, 40.5 ,1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2013,10,Imo, 42.0 ,8,Yes,No,Yes,No,Yes,Yes,No,Yes,31,52,Armed Robbery
+2013,11,Imo, 45.5 ,81,No,No,No,No,Yes,Yes,No,Yes,31,52,Cultism
+2013,12,Imo, 25.5 ,83,No,No,Yes,Yes,No,No,Yes,Yes,31,52,Oil Bunkering
+2014,1,Imo, 34.7 ,63,Yes,No,No,No,No,No,Yes,No,31,52,Armed Robbery
+2014,2,Imo, 5.6 ,33,Yes,Yes,No,Yes,Yes,No,No,No,31,52,Armed Robbery
+2014,3,Imo, 28.3 ,15,No,Yes,No,No,No,No,No,Yes,31,52,Kidnapping
+2014,4,Imo, 12.4 ,31,No,Yes,No,Yes,No,Yes,No,No,31,52,Kidnapping
+2014,5,Imo, 21.6 ,21,No,No,Yes,No,No,No,No,No,31,52,Oil Bunkering
+2014,6,Imo, 31.7 ,3,Yes,No,Yes,No,Yes,No,Yes,Yes,31,52,Armed Robbery
+2014,7,Imo, 12.8 ,66,No,Yes,No,No,Yes,No,No,No,31,52,Kidnapping
+2014,8,Imo, 2.6 ,35,Yes,Yes,Yes,No,Yes,Yes,Yes,No,31,52,Armed Robbery
+2014,9,Imo, 0.5 ,41,No,Yes,No,Yes,No,No,No,Yes,31,52,Kidnapping
+2014,10,Imo, 1.1 ,59,Yes,No,No,Yes,No,No,Yes,Yes,31,52,Armed Robbery
+2014,11,Imo, 0.4 ,16,No,No,No,Yes,Yes,Yes,No,No,31,52,Piracy
+2014,12,Imo, 5.5 ,56,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Kidnapping
+2015,1,Imo, 12.0 ,45,No,Yes,No,Yes,No,No,Yes,No,31,52,Kidnapping
+2015,2,Imo, 11.1 ,59,No,Yes,No,Yes,No,No,Yes,Yes,31,52,Kidnapping
+2015,3,Imo, 49.3 ,50,No,No,Yes,Yes,Yes,Yes,No,Yes,31,52,Oil Bunkering
+2015,4,Imo, 15.3 ,85,Yes,No,Yes,No,No,No,Yes,Yes,31,52,Armed Robbery
+2015,5,Imo, 6.4 ,12,No,No,Yes,No,No,Yes,No,Yes,31,52,Oil Bunkering
+2015,6,Imo, 27.3 ,92,No,Yes,Yes,No,No,No,Yes,No,31,52,Kidnapping
+2015,7,Imo, 42.9 ,12,No,Yes,No,No,No,No,Yes,Yes,31,52,Kidnapping
+2015,8,Imo, 33.9 ,33,Yes,No,Yes,Yes,No,No,No,Yes,31,52,Armed Robbery
+2015,9,Imo, 14.8 ,84,No,Yes,No,Yes,No,No,Yes,No,31,52,Kidnapping
+2015,10,Imo, 28.1 ,49,Yes,No,Yes,Yes,No,No,No,No,31,52,Armed Robbery
+2015,11,Imo, 35.7 ,21,No,Yes,Yes,No,Yes,Yes,No,No,31,52,Kidnapping
+2015,12,Imo, 36.4 ,60,No,Yes,Yes,Yes,Yes,Yes,No,No,31,52,Kidnapping
+2016,1,Imo, 33.3 ,52,Yes,Yes,Yes,No,No,No,No,Yes,31,52,Armed Robbery
+2016,2,Imo, 43.5 ,54,No,Yes,Yes,Yes,No,No,Yes,No,31,52,Kidnapping
+2016,3,Imo, 43.5 ,39,Yes,No,Yes,Yes,No,No,Yes,Yes,31,52,Armed Robbery
+2016,4,Imo, 28.9 ,49,Yes,Yes,No,Yes,Yes,Yes,No,No,31,52,Armed Robbery
+2016,5,Imo, 21.5 ,64,No,No,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Oil Bunkering
+2016,6,Imo, 32.1 ,86,Yes,No,Yes,No,No,Yes,Yes,No,31,52,Armed Robbery
+2016,7,Imo, 40.9 ,26,No,No,Yes,No,Yes,Yes,No,Yes,31,52,Oil Bunkering
+2016,8,Imo, 0.3 ,71,No,Yes,Yes,Yes,No,Yes,Yes,Yes,31,52,Kidnapping
+2016,9,Imo, 49.6 ,7,Yes,No,No,No,No,Yes,No,No,31,52,Armed Robbery
+2016,10,Imo, 9.1 ,72,Yes,No,Yes,Yes,No,Yes,Yes,Yes,31,52,Armed Robbery
+2016,11,Imo, 23.5 ,62,Yes,No,Yes,Yes,No,Yes,Yes,Yes,31,52,Armed Robbery
+2016,12,Imo, 43.6 ,90,Yes,Yes,Yes,Yes,No,No,No,Yes,31,52,Armed Robbery
+2017,1,Imo, 11.3 ,88,No,Yes,Yes,Yes,No,Yes,Yes,Yes,31,52,Kidnapping
+2017,2,Imo, 23.8 ,24,No,No,No,No,No,Yes,Yes,No,31,52,Human Trafficking
+2017,3,Imo, 6.6 ,40,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2017,4,Imo, 19.8 ,76,No,No,No,Yes,No,Yes,Yes,Yes,31,52,Piracy
+2017,5,Imo, 8.9 ,47,No,No,Yes,No,Yes,No,No,No,31,52,Oil Bunkering
+2017,6,Imo, 18.2 ,8,No,Yes,No,Yes,No,Yes,Yes,No,31,52,Kidnapping
+2017,7,Imo, 18.7 ,54,No,No,No,No,No,No,No,No,31,52,Human Trafficking
+2017,8,Imo, 49.7 ,9,Yes,Yes,Yes,Yes,Yes,No,No,Yes,31,52,Armed Robbery
+2017,9,Imo, 49.7 ,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,31,52,Armed Robbery
+2017,10,Imo, 5.7 ,54,No,No,No,Yes,No,Yes,No,No,31,52,Piracy
+2017,11,Imo, 36.3 ,21,Yes,Yes,No,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2017,12,Imo, 2.6 ,95,Yes,Yes,Yes,Yes,No,Yes,Yes,No,31,52,Armed Robbery
+2018,1,Imo, 1.5 ,48,Yes,No,No,Yes,No,No,Yes,Yes,31,52,Armed Robbery
+2018,2,Imo, 5.3 ,47,No,No,No,No,Yes,No,No,No,31,52,Cultism
+2018,3,Imo, 48.3 ,88,No,Yes,No,Yes,Yes,No,Yes,Yes,31,52,Kidnapping
+2018,4,Imo, 47.0 ,68,No,Yes,Yes,No,Yes,No,No,No,31,52,Kidnapping
+2018,5,Imo, 9.7 ,84,Yes,No,No,No,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2018,6,Imo, 8.1 ,63,No,Yes,No,Yes,No,Yes,Yes,No,31,52,Kidnapping
+2018,7,Imo, 12.0 ,16,No,Yes,No,No,Yes,Yes,No,Yes,31,52,Kidnapping
+2018,8,Imo, 25.8 ,74,Yes,Yes,Yes,Yes,Yes,No,No,Yes,31,52,Armed Robbery
+2018,9,Imo, 28.5 ,90,No,Yes,Yes,No,Yes,No,Yes,Yes,31,52,Kidnapping
+2018,10,Imo, 11.1 ,93,No,Yes,No,Yes,Yes,Yes,Yes,No,31,52,Kidnapping
+2018,11,Imo, 37.8 ,5,Yes,Yes,Yes,No,Yes,Yes,No,Yes,31,52,Armed Robbery
+2018,12,Imo, 15.5 ,11,Yes,Yes,No,No,No,No,Yes,Yes,31,52,Armed Robbery
+2019,1,Imo, 46.1 ,29,Yes,No,Yes,Yes,No,Yes,Yes,Yes,31,52,Armed Robbery
+2019,2,Imo, 32.8 ,79,No,No,Yes,No,Yes,Yes,No,No,31,52,Oil Bunkering
+2019,3,Imo, 21.8 ,70,No,No,No,Yes,Yes,No,Yes,Yes,31,52,Piracy
+2019,4,Imo, 39.5 ,48,No,No,Yes,Yes,No,No,No,No,31,52,Oil Bunkering
+2019,5,Imo, 40.9 ,15,Yes,No,Yes,Yes,Yes,No,No,Yes,31,52,Armed Robbery
+2019,6,Imo, 14.5 ,84,Yes,Yes,Yes,Yes,No,Yes,No,No,31,52,Armed Robbery
+2019,7,Imo, 17.0 ,34,No,Yes,No,Yes,No,No,Yes,No,31,52,Kidnapping
+2019,8,Imo, 46.8 ,60,No,Yes,Yes,No,Yes,Yes,Yes,Yes,31,52,Kidnapping
+2019,9,Imo, 8.2 ,62,Yes,Yes,Yes,No,No,Yes,No,No,31,52,Armed Robbery
+2019,10,Imo, 2.1 ,2,Yes,No,No,No,Yes,No,No,No,31,52,Armed Robbery
+2019,11,Imo, 22.7 ,80,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2019,12,Imo, 40.1 ,19,Yes,Yes,Yes,No,No,No,Yes,No,31,52,Armed Robbery
+2020,1,Imo, 38.6 ,98,No,No,Yes,No,No,No,Yes,No,31,52,Oil Bunkering
+2020,2,Imo, 46.0 ,49,Yes,Yes,Yes,No,Yes,Yes,No,No,31,52,Armed Robbery
+2020,3,Imo, 26.7 ,78,No,Yes,Yes,No,No,Yes,No,No,31,52,Kidnapping
+2020,4,Imo, 5.0 ,88,No,No,No,No,Yes,No,Yes,Yes,31,52,Cultism
+2020,5,Imo, 29.4 ,28,No,Yes,No,Yes,No,No,Yes,No,31,52,Kidnapping
+2020,6,Imo, 38.9 ,48,Yes,Yes,Yes,Yes,No,No,Yes,No,31,52,Armed Robbery
+2020,7,Imo, 4.7 ,96,Yes,Yes,Yes,No,Yes,No,No,Yes,31,52,Armed Robbery
+2020,8,Imo, 8.6 ,37,Yes,Yes,Yes,Yes,Yes,No,No,Yes,31,52,Armed Robbery
+2020,9,Imo, 0.6 ,74,Yes,Yes,No,Yes,Yes,No,Yes,No,31,52,Armed Robbery
+2020,10,Imo, 29.7 ,49,No,No,No,No,No,Yes,Yes,Yes,31,52,Human Trafficking
+2020,11,Imo, 44.3 ,48,Yes,No,Yes,No,Yes,Yes,No,Yes,31,52,Armed Robbery
+2020,12,Imo, 33.5 ,73,Yes,No,Yes,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2021,1,Imo, 49.1 ,88,No,No,No,No,No,Yes,Yes,Yes,31,52,Human Trafficking
+2021,2,Imo, 3.2 ,29,Yes,No,Yes,Yes,No,No,Yes,Yes,31,52,Armed Robbery
+2021,3,Imo, 45.2 ,60,No,No,No,Yes,Yes,Yes,Yes,Yes,31,52,Piracy
+2021,4,Imo, 40.7 ,29,No,Yes,No,No,Yes,Yes,No,Yes,31,52,Kidnapping
+2021,5,Imo, 15.7 ,58,No,No,Yes,Yes,Yes,No,Yes,Yes,31,52,Oil Bunkering
+2021,6,Imo, 48.7 ,48,No,No,No,Yes,Yes,Yes,No,Yes,31,52,Piracy
+2021,7,Imo, 14.4 ,23,No,Yes,Yes,Yes,No,No,No,No,31,52,Kidnapping
+2021,8,Imo, 44.5 ,27,No,Yes,Yes,No,No,No,Yes,No,31,52,Kidnapping
+2021,9,Imo, 44.0 ,95,No,No,Yes,No,Yes,No,Yes,No,31,52,Oil Bunkering
+2021,10,Imo, 37.9 ,7,No,Yes,Yes,No,Yes,No,No,No,31,52,Kidnapping
+2021,11,Imo, 28.2 ,49,Yes,No,Yes,No,Yes,No,Yes,No,31,52,Armed Robbery
+2021,12,Imo, 6.0 ,54,Yes,Yes,Yes,Yes,No,Yes,No,Yes,31,52,Armed Robbery
+2022,1,Imo, 26.6 ,68,Yes,No,No,No,Yes,Yes,Yes,Yes,31,52,Armed Robbery
+2022,2,Imo, 17.8 ,78,Yes,Yes,No,No,Yes,Yes,Yes,No,31,52,Armed Robbery
+2022,3,Imo, 39.6 ,42,No,Yes,No,No,No,No,Yes,No,31,52,Kidnapping
+2022,4,Imo, 37.9 ,74,Yes,No,No,No,No,Yes,Yes,Yes,31,52,Armed Robbery
+2022,5,Imo, 45.5 ,59,No,No,Yes,Yes,Yes,Yes,No,No,31,52,Oil Bunkering
+2022,6,Imo, 0.7 ,44,Yes,No,No,Yes,Yes,Yes,No,Yes,31,52,Armed Robbery
+2022,7,Imo, 40.5 ,98,Yes,No,No,Yes,No,Yes,No,No,31,52,Armed Robbery
+2022,8,Imo, 46.9 ,26,Yes,No,No,No,Yes,No,Yes,Yes,31,52,Armed Robbery
+2022,9,Imo, 39.5 ,23,No,Yes,Yes,No,Yes,Yes,No,No,31,52,Kidnapping
+2022,10,Imo, 6.5 ,73,Yes,No,No,Yes,No,No,No,Yes,31,52,Armed Robbery
+2022,11,Imo, 4.1 ,8,No,No,Yes,No,No,No,No,No,31,52,Oil Bunkering
+2022,12,Imo, 1.0 ,53,No,Yes,No,No,No,Yes,Yes,No,31,52,Kidnapping
+2000,1,Ondo, 31.4 ,14,Yes,Yes,Yes,Yes,Yes,No,No,Yes,34,49,Armed Robbery
+2000,2,Ondo, 31.5 ,71,Yes,No,Yes,Yes,No,No,Yes,Yes,34,49,Armed Robbery
+2000,3,Ondo, 49.3 ,7,Yes,Yes,No,No,No,No,Yes,No,34,49,Armed Robbery
+2000,4,Ondo, 19.9 ,9,No,Yes,Yes,No,Yes,No,No,No,34,49,Kidnapping
+2000,5,Ondo, 16.6 ,3,Yes,No,Yes,No,Yes,No,Yes,Yes,34,49,Armed Robbery
+2000,6,Ondo, 31.2 ,78,No,Yes,No,Yes,No,No,No,Yes,34,49,Kidnapping
+2000,7,Ondo, 41.3 ,17,No,Yes,No,Yes,No,No,No,Yes,34,49,Kidnapping
+2000,8,Ondo, 46.8 ,44,Yes,No,No,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2000,9,Ondo, 40.2 ,86,Yes,No,Yes,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2000,10,Ondo, 21.3 ,46,No,Yes,Yes,No,No,No,No,Yes,34,49,Kidnapping
+2000,11,Ondo, 31.7 ,90,No,Yes,Yes,Yes,No,No,Yes,No,34,49,Kidnapping
+2000,12,Ondo, 42.8 ,58,No,No,No,Yes,Yes,Yes,No,No,34,49,Piracy
+2001,1,Ondo, 24.5 ,28,Yes,Yes,Yes,No,No,Yes,Yes,Yes,34,49,Armed Robbery
+2001,2,Ondo, 10.8 ,14,No,Yes,Yes,No,Yes,Yes,No,No,34,49,Kidnapping
+2001,3,Ondo, 8.5 ,9,Yes,Yes,Yes,No,No,Yes,No,Yes,34,49,Armed Robbery
+2001,4,Ondo, 0.0 ,26,No,No,Yes,Yes,Yes,No,No,Yes,34,49,Oil Bunkering
+2001,5,Ondo, 35.9 ,2,No,Yes,Yes,No,Yes,No,Yes,No,34,49,Kidnapping
+2001,6,Ondo, 5.6 ,75,Yes,Yes,Yes,No,No,Yes,Yes,No,34,49,Armed Robbery
+2001,7,Ondo, 12.2 ,81,No,No,Yes,Yes,No,Yes,Yes,Yes,34,49,Oil Bunkering
+2001,8,Ondo, 14.9 ,34,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2001,9,Ondo, 28.0 ,19,Yes,Yes,No,No,No,Yes,No,Yes,34,49,Armed Robbery
+2001,10,Ondo, 19.9 ,39,No,No,No,Yes,No,No,No,No,34,49,Piracy
+2001,11,Ondo, 33.7 ,82,Yes,No,Yes,No,No,Yes,Yes,Yes,34,49,Armed Robbery
+2001,12,Ondo, 2.8 ,13,Yes,No,Yes,No,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2002,1,Ondo, 6.2 ,5,No,No,No,Yes,No,Yes,Yes,Yes,34,49,Piracy
+2002,2,Ondo, 25.0 ,50,Yes,Yes,Yes,No,No,No,No,Yes,34,49,Armed Robbery
+2002,3,Ondo, 16.8 ,23,Yes,Yes,No,Yes,Yes,No,Yes,No,34,49,Armed Robbery
+2002,4,Ondo, 14.8 ,88,Yes,No,Yes,Yes,No,No,Yes,No,34,49,Armed Robbery
+2002,5,Ondo, 3.4 ,29,No,No,Yes,Yes,No,Yes,No,Yes,34,49,Oil Bunkering
+2002,6,Ondo, 44.8 ,72,Yes,Yes,No,No,Yes,Yes,Yes,No,34,49,Armed Robbery
+2002,7,Ondo, 34.6 ,26,No,No,No,Yes,Yes,Yes,No,No,34,49,Piracy
+2002,8,Ondo, 6.1 ,79,No,Yes,No,Yes,No,No,No,No,34,49,Kidnapping
+2002,9,Ondo, 3.3 ,57,Yes,No,No,No,No,No,No,Yes,34,49,Armed Robbery
+2002,10,Ondo, 48.7 ,1,Yes,Yes,No,No,Yes,Yes,No,No,34,49,Armed Robbery
+2002,11,Ondo, 34.1 ,28,Yes,No,Yes,No,Yes,Yes,No,No,34,49,Armed Robbery
+2002,12,Ondo, 20.9 ,62,No,No,Yes,No,No,No,Yes,Yes,34,49,Oil Bunkering
+2003,1,Ondo, 35.1 ,47,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,34,49,Armed Robbery
+2003,2,Ondo, 37.8 ,78,Yes,No,No,Yes,No,Yes,No,No,34,49,Armed Robbery
+2003,3,Ondo, 39.0 ,98,Yes,Yes,No,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2003,4,Ondo, 23.9 ,59,Yes,Yes,No,No,No,No,Yes,Yes,34,49,Armed Robbery
+2003,5,Ondo, 21.5 ,31,Yes,Yes,No,No,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2003,6,Ondo, 0.6 ,70,No,Yes,No,Yes,Yes,Yes,No,Yes,34,49,Kidnapping
+2003,7,Ondo, 46.3 ,49,No,Yes,No,No,Yes,Yes,Yes,Yes,34,49,Kidnapping
+2003,8,Ondo, 30.2 ,5,Yes,No,Yes,No,No,Yes,Yes,No,34,49,Armed Robbery
+2003,9,Ondo, 10.2 ,31,Yes,No,Yes,Yes,No,No,No,Yes,34,49,Armed Robbery
+2003,10,Ondo, 46.0 ,37,Yes,Yes,Yes,Yes,No,No,Yes,No,34,49,Armed Robbery
+2003,11,Ondo, 45.7 ,79,Yes,No,Yes,No,Yes,No,Yes,No,34,49,Armed Robbery
+2003,12,Ondo, 49.5 ,15,No,Yes,Yes,No,No,Yes,Yes,No,34,49,Kidnapping
+2004,1,Ondo, 43.7 ,52,Yes,No,No,No,Yes,No,Yes,Yes,34,49,Armed Robbery
+2004,2,Ondo, 49.9 ,69,No,No,No,Yes,Yes,Yes,No,Yes,34,49,Piracy
+2004,3,Ondo, 12.2 ,92,No,No,No,Yes,Yes,No,Yes,No,34,49,Piracy
+2004,4,Ondo, 42.1 ,97,Yes,No,No,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2004,5,Ondo, 41.2 ,11,No,Yes,No,Yes,Yes,No,Yes,No,34,49,Kidnapping
+2004,6,Ondo, 11.5 ,43,No,Yes,No,Yes,Yes,No,No,No,34,49,Kidnapping
+2004,7,Ondo, 4.9 ,70,No,No,Yes,No,No,No,No,No,34,49,Oil Bunkering
+2004,8,Ondo, 49.0 ,23,No,No,No,No,Yes,Yes,Yes,Yes,34,49,Cultism
+2004,9,Ondo, 14.8 ,40,Yes,Yes,No,No,No,Yes,No,Yes,34,49,Armed Robbery
+2004,10,Ondo, 43.5 ,63,Yes,No,No,Yes,Yes,Yes,No,Yes,34,49,Armed Robbery
+2004,11,Ondo, 0.2 ,2,No,Yes,No,Yes,No,No,No,No,34,49,Kidnapping
+2004,12,Ondo, 1.1 ,79,Yes,Yes,Yes,Yes,No,Yes,No,No,34,49,Armed Robbery
+2005,1,Ondo, 23.3 ,87,Yes,Yes,Yes,No,No,Yes,No,Yes,34,49,Armed Robbery
+2005,2,Ondo, 11.9 ,86,Yes,No,No,Yes,No,Yes,Yes,Yes,34,49,Armed Robbery
+2005,3,Ondo, 34.5 ,73,Yes,Yes,Yes,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2005,4,Ondo, 28.3 ,47,Yes,No,Yes,No,Yes,Yes,No,Yes,34,49,Armed Robbery
+2005,5,Ondo, 3.9 ,30,No,Yes,No,Yes,Yes,Yes,Yes,Yes,34,49,Kidnapping
+2005,6,Ondo, 8.1 ,16,Yes,No,No,No,Yes,No,Yes,Yes,34,49,Armed Robbery
+2005,7,Ondo, 19.4 ,59,Yes,No,No,Yes,No,No,No,No,34,49,Armed Robbery
+2005,8,Ondo, 9.3 ,47,Yes,No,No,Yes,No,Yes,Yes,No,34,49,Armed Robbery
+2005,9,Ondo, 39.6 ,30,Yes,Yes,No,No,No,No,Yes,Yes,34,49,Armed Robbery
+2005,10,Ondo, 20.8 ,9,No,Yes,Yes,No,Yes,No,Yes,No,34,49,Kidnapping
+2005,11,Ondo, 4.7 ,65,No,No,No,No,No,Yes,Yes,Yes,34,49,Human Trafficking
+2005,12,Ondo, 24.2 ,59,No,No,No,No,Yes,Yes,Yes,Yes,34,49,Cultism
+2006,1,Ondo, 4.5 ,64,No,No,No,No,No,No,Yes,No,34,49,Drug Trafficking
+2006,2,Ondo, 6.4 ,8,Yes,Yes,Yes,No,No,Yes,No,No,34,49,Armed Robbery
+2006,3,Ondo, 12.0 ,52,No,Yes,No,Yes,No,No,No,No,34,49,Kidnapping
+2006,4,Ondo, 43.0 ,18,Yes,Yes,No,Yes,No,No,Yes,Yes,34,49,Armed Robbery
+2006,5,Ondo, 46.2 ,91,Yes,Yes,No,No,No,No,Yes,Yes,34,49,Armed Robbery
+2006,6,Ondo, 41.3 ,82,Yes,No,Yes,Yes,Yes,Yes,No,Yes,34,49,Armed Robbery
+2006,7,Ondo, 16.7 ,96,Yes,No,No,No,No,No,Yes,No,34,49,Armed Robbery
+2006,8,Ondo, 13.6 ,58,Yes,Yes,No,Yes,Yes,Yes,No,Yes,34,49,Armed Robbery
+2006,9,Ondo, 27.5 ,49,No,Yes,No,No,Yes,Yes,Yes,Yes,34,49,Kidnapping
+2006,10,Ondo, 36.1 ,32,No,No,Yes,Yes,Yes,Yes,No,Yes,34,49,Oil Bunkering
+2006,11,Ondo, 49.7 ,48,No,Yes,No,Yes,Yes,Yes,No,Yes,34,49,Kidnapping
+2006,12,Ondo, 6.6 ,45,No,Yes,No,Yes,Yes,Yes,Yes,No,34,49,Kidnapping
+2007,1,Ondo, 2.5 ,54,Yes,Yes,No,Yes,Yes,No,Yes,No,34,49,Armed Robbery
+2007,2,Ondo, 34.7 ,85,No,Yes,Yes,Yes,Yes,Yes,Yes,No,34,49,Kidnapping
+2007,3,Ondo, 41.6 ,46,Yes,Yes,No,No,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2007,4,Ondo, 42.3 ,96,No,Yes,No,No,No,Yes,No,Yes,34,49,Kidnapping
+2007,5,Ondo, 33.9 ,31,Yes,No,No,No,No,Yes,Yes,Yes,34,49,Armed Robbery
+2007,6,Ondo, 47.7 ,37,Yes,Yes,Yes,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2007,7,Ondo, 25.6 ,16,No,Yes,Yes,No,Yes,No,Yes,No,34,49,Kidnapping
+2007,8,Ondo, 45.7 ,46,Yes,No,No,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2007,9,Ondo, 48.4 ,46,Yes,No,Yes,Yes,No,Yes,Yes,No,34,49,Armed Robbery
+2007,10,Ondo, 42.4 ,78,No,No,Yes,Yes,No,No,Yes,No,34,49,Oil Bunkering
+2007,11,Ondo, 15.5 ,88,Yes,Yes,Yes,No,Yes,Yes,No,Yes,34,49,Armed Robbery
+2007,12,Ondo, 9.8 ,89,No,No,No,Yes,Yes,No,Yes,No,34,49,Piracy
+2008,1,Ondo, 27.4 ,61,No,Yes,No,No,No,No,Yes,No,34,49,Kidnapping
+2008,2,Ondo, 22.7 ,46,No,Yes,Yes,No,No,No,Yes,No,34,49,Kidnapping
+2008,3,Ondo, 43.9 ,51,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34,49,Armed Robbery
+2008,4,Ondo, 5.0 ,62,Yes,No,Yes,Yes,Yes,Yes,Yes,No,34,49,Armed Robbery
+2008,5,Ondo, 12.9 ,35,Yes,No,No,No,Yes,Yes,No,No,34,49,Armed Robbery
+2008,6,Ondo, 37.6 ,81,No,No,No,No,Yes,No,Yes,No,34,49,Cultism
+2008,7,Ondo, 4.7 ,42,Yes,No,Yes,No,No,No,No,Yes,34,49,Armed Robbery
+2008,8,Ondo, 16.0 ,45,No,No,Yes,No,No,Yes,Yes,Yes,34,49,Oil Bunkering
+2008,9,Ondo, 19.4 ,68,No,Yes,Yes,No,Yes,No,Yes,No,34,49,Kidnapping
+2008,10,Ondo, 31.1 ,75,Yes,Yes,Yes,No,Yes,No,No,No,34,49,Armed Robbery
+2008,11,Ondo, 7.9 ,47,No,Yes,No,Yes,Yes,No,No,No,34,49,Kidnapping
+2008,12,Ondo, 43.0 ,79,Yes,Yes,Yes,No,No,Yes,No,No,34,49,Armed Robbery
+2009,1,Ondo, 22.4 ,30,Yes,No,No,No,Yes,No,No,Yes,34,49,Armed Robbery
+2009,2,Ondo, 45.9 ,24,Yes,No,Yes,No,Yes,Yes,No,No,34,49,Armed Robbery
+2009,3,Ondo, 23.4 ,66,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2009,4,Ondo, 13.8 ,43,Yes,No,Yes,Yes,No,Yes,No,No,34,49,Armed Robbery
+2009,5,Ondo, 7.1 ,34,No,No,Yes,Yes,Yes,No,No,Yes,34,49,Oil Bunkering
+2009,6,Ondo, 0.2 ,23,No,Yes,Yes,No,No,No,Yes,Yes,34,49,Kidnapping
+2009,7,Ondo, 26.6 ,61,No,Yes,No,No,Yes,Yes,Yes,No,34,49,Kidnapping
+2009,8,Ondo, 5.4 ,95,Yes,No,Yes,No,Yes,Yes,No,Yes,34,49,Armed Robbery
+2009,9,Ondo, 19.6 ,37,Yes,No,Yes,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2009,10,Ondo, 29.5 ,13,Yes,Yes,Yes,Yes,No,No,No,Yes,34,49,Armed Robbery
+2009,11,Ondo, 13.8 ,97,No,Yes,No,Yes,Yes,No,Yes,Yes,34,49,Kidnapping
+2009,12,Ondo, 8.8 ,71,Yes,Yes,No,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2010,1,Ondo, 38.7 ,96,No,No,No,Yes,No,Yes,Yes,No,34,49,Piracy
+2010,2,Ondo, 47.3 ,7,No,Yes,No,Yes,No,No,Yes,Yes,34,49,Kidnapping
+2010,3,Ondo, 5.0 ,42,Yes,Yes,Yes,No,No,Yes,Yes,Yes,34,49,Armed Robbery
+2010,4,Ondo, 7.8 ,38,Yes,No,Yes,Yes,Yes,No,Yes,No,34,49,Armed Robbery
+2010,5,Ondo, 48.0 ,52,No,No,Yes,Yes,No,No,No,No,34,49,Oil Bunkering
+2010,6,Ondo, 1.9 ,44,Yes,No,No,No,Yes,Yes,Yes,No,34,49,Armed Robbery
+2010,7,Ondo, 48.9 ,64,No,No,Yes,Yes,No,Yes,Yes,Yes,34,49,Oil Bunkering
+2010,8,Ondo, 0.2 ,13,Yes,No,Yes,No,No,No,No,No,34,49,Armed Robbery
+2010,9,Ondo, 43.7 ,88,Yes,Yes,No,Yes,No,No,Yes,No,34,49,Armed Robbery
+2010,10,Ondo, 15.4 ,28,No,Yes,No,No,Yes,No,No,Yes,34,49,Kidnapping
+2010,11,Ondo, 46.9 ,96,Yes,No,No,No,Yes,No,Yes,No,34,49,Armed Robbery
+2010,12,Ondo, 15.8 ,82,No,No,Yes,No,Yes,No,No,No,34,49,Oil Bunkering
+2011,1,Ondo, 32.7 ,98,Yes,No,Yes,No,Yes,Yes,Yes,No,34,49,Armed Robbery
+2011,2,Ondo, 4.0 ,98,No,No,No,No,Yes,No,Yes,No,34,49,Cultism
+2011,3,Ondo, 12.1 ,1,No,No,Yes,Yes,Yes,No,No,Yes,34,49,Oil Bunkering
+2011,4,Ondo, 38.7 ,43,Yes,Yes,No,Yes,Yes,No,Yes,No,34,49,Armed Robbery
+2011,5,Ondo, 26.4 ,42,No,Yes,No,No,Yes,Yes,Yes,No,34,49,Kidnapping
+2011,6,Ondo, 46.4 ,95,Yes,Yes,Yes,No,Yes,Yes,No,No,34,49,Armed Robbery
+2011,7,Ondo, 21.4 ,50,Yes,Yes,No,No,No,No,Yes,No,34,49,Armed Robbery
+2011,8,Ondo, 43.5 ,60,Yes,No,No,Yes,No,No,Yes,No,34,49,Armed Robbery
+2011,9,Ondo, 22.4 ,1,No,Yes,No,No,Yes,Yes,No,No,34,49,Kidnapping
+2011,10,Ondo, 49.0 ,51,No,No,Yes,No,Yes,Yes,No,Yes,34,49,Oil Bunkering
+2011,11,Ondo, 48.0 ,16,Yes,No,No,No,Yes,Yes,No,Yes,34,49,Armed Robbery
+2011,12,Ondo, 16.5 ,39,Yes,No,No,No,Yes,Yes,No,Yes,34,49,Armed Robbery
+2012,1,Ondo, 44.3 ,15,No,Yes,No,Yes,No,No,No,No,34,49,Kidnapping
+2012,2,Ondo, 42.4 ,33,Yes,No,No,No,No,Yes,Yes,No,34,49,Armed Robbery
+2012,3,Ondo, 10.5 ,87,Yes,Yes,No,No,Yes,No,No,No,34,49,Armed Robbery
+2012,4,Ondo, 31.2 ,53,No,Yes,No,Yes,No,No,Yes,Yes,34,49,Kidnapping
+2012,5,Ondo, 3.6 ,98,Yes,No,No,No,No,Yes,No,No,34,49,Armed Robbery
+2012,6,Ondo, 41.8 ,17,No,No,Yes,No,Yes,Yes,Yes,Yes,34,49,Oil Bunkering
+2012,7,Ondo, 8.7 ,89,Yes,No,Yes,Yes,Yes,Yes,Yes,No,34,49,Armed Robbery
+2012,8,Ondo, 3.5 ,6,No,Yes,No,Yes,Yes,Yes,No,No,34,49,Kidnapping
+2012,9,Ondo, 20.0 ,31,Yes,No,Yes,Yes,Yes,No,Yes,Yes,34,49,Armed Robbery
+2012,10,Ondo, 28.8 ,69,Yes,Yes,Yes,No,No,No,Yes,Yes,34,49,Armed Robbery
+2012,11,Ondo, 42.7 ,40,No,No,No,No,Yes,No,No,Yes,34,49,Cultism
+2012,12,Ondo, 48.7 ,30,Yes,No,Yes,Yes,No,Yes,No,Yes,34,49,Armed Robbery
+2013,1,Ondo, 22.0 ,69,No,Yes,No,Yes,Yes,No,No,Yes,34,49,Kidnapping
+2013,2,Ondo, 3.0 ,76,Yes,Yes,No,Yes,No,Yes,No,Yes,34,49,Armed Robbery
+2013,3,Ondo, 37.5 ,7,No,Yes,No,No,Yes,No,Yes,No,34,49,Kidnapping
+2013,4,Ondo, 28.3 ,13,No,Yes,No,No,Yes,Yes,Yes,Yes,34,49,Kidnapping
+2013,5,Ondo, 22.4 ,4,No,Yes,No,Yes,No,No,Yes,No,34,49,Kidnapping
+2013,6,Ondo, 15.5 ,50,No,Yes,Yes,No,No,No,Yes,No,34,49,Kidnapping
+2013,7,Ondo, 25.1 ,3,Yes,No,No,Yes,No,Yes,Yes,No,34,49,Armed Robbery
+2013,8,Ondo, 16.9 ,12,Yes,No,Yes,No,Yes,No,Yes,No,34,49,Armed Robbery
+2013,9,Ondo, 37.9 ,65,No,Yes,No,No,No,No,No,No,34,49,Kidnapping
+2013,10,Ondo, 27.2 ,27,No,No,No,No,No,Yes,Yes,Yes,34,49,Human Trafficking
+2013,11,Ondo, 43.8 ,50,No,Yes,No,No,No,Yes,Yes,Yes,34,49,Kidnapping
+2013,12,Ondo, 27.2 ,77,Yes,No,Yes,Yes,No,Yes,Yes,Yes,34,49,Armed Robbery
+2014,1,Ondo, 11.9 ,17,Yes,No,No,No,No,Yes,No,No,34,49,Armed Robbery
+2014,2,Ondo, 42.6 ,72,Yes,Yes,No,No,No,Yes,No,Yes,34,49,Armed Robbery
+2014,3,Ondo, 27.9 ,32,Yes,Yes,No,Yes,No,No,No,No,34,49,Armed Robbery
+2014,4,Ondo, 10.3 ,84,No,Yes,No,No,No,Yes,No,No,34,49,Kidnapping
+2014,5,Ondo, 31.2 ,51,No,No,Yes,Yes,No,No,Yes,No,34,49,Oil Bunkering
+2014,6,Ondo, 17.9 ,17,No,Yes,No,Yes,Yes,No,Yes,No,34,49,Kidnapping
+2014,7,Ondo, 42.2 ,34,Yes,No,Yes,No,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2014,8,Ondo, 22.7 ,35,Yes,Yes,No,No,No,No,No,Yes,34,49,Armed Robbery
+2014,9,Ondo, 36.3 ,99,Yes,No,Yes,Yes,Yes,No,Yes,Yes,34,49,Armed Robbery
+2014,10,Ondo, 4.8 ,24,No,No,Yes,Yes,Yes,Yes,Yes,Yes,34,49,Oil Bunkering
+2014,11,Ondo, 19.8 ,54,No,Yes,No,Yes,No,No,Yes,Yes,34,49,Kidnapping
+2014,12,Ondo, 49.2 ,18,Yes,No,No,No,No,Yes,No,No,34,49,Armed Robbery
+2015,1,Ondo, 40.4 ,50,No,No,Yes,Yes,No,Yes,No,Yes,34,49,Oil Bunkering
+2015,2,Ondo, 8.0 ,46,Yes,Yes,No,Yes,No,Yes,No,No,34,49,Armed Robbery
+2015,3,Ondo, 13.9 ,48,Yes,No,No,Yes,No,No,Yes,No,34,49,Armed Robbery
+2015,4,Ondo, 16.5 ,33,No,Yes,No,No,No,No,Yes,No,34,49,Kidnapping
+2015,5,Ondo, 32.5 ,87,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34,49,Armed Robbery
+2015,6,Ondo, 37.8 ,89,No,Yes,No,No,No,No,Yes,No,34,49,Kidnapping
+2015,7,Ondo, 37.5 ,27,Yes,Yes,No,No,Yes,Yes,No,No,34,49,Armed Robbery
+2015,8,Ondo, 25.5 ,1,No,No,No,Yes,No,No,Yes,Yes,34,49,Piracy
+2015,9,Ondo, 40.5 ,85,No,No,Yes,No,No,Yes,No,No,34,49,Oil Bunkering
+2015,10,Ondo, 21.9 ,59,No,No,No,Yes,Yes,No,Yes,No,34,49,Piracy
+2015,11,Ondo, 6.2 ,10,Yes,Yes,Yes,No,No,No,No,No,34,49,Armed Robbery
+2015,12,Ondo, 28.2 ,95,Yes,No,No,No,No,No,Yes,Yes,34,49,Armed Robbery
+2016,1,Ondo, 47.6 ,25,No,No,Yes,Yes,Yes,No,Yes,No,34,49,Oil Bunkering
+2016,2,Ondo, 39.6 ,84,No,Yes,No,Yes,No,No,No,No,34,49,Kidnapping
+2016,3,Ondo, 28.9 ,57,Yes,Yes,No,Yes,Yes,Yes,No,Yes,34,49,Armed Robbery
+2016,4,Ondo, 32.3 ,66,Yes,No,Yes,No,No,No,Yes,Yes,34,49,Armed Robbery
+2016,5,Ondo, 46.5 ,15,Yes,Yes,Yes,No,No,No,Yes,No,34,49,Armed Robbery
+2016,6,Ondo, 21.4 ,28,No,Yes,Yes,Yes,Yes,No,Yes,Yes,34,49,Kidnapping
+2016,7,Ondo, 16.6 ,13,Yes,Yes,No,Yes,No,No,No,Yes,34,49,Armed Robbery
+2016,8,Ondo, 48.9 ,14,Yes,Yes,No,No,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2016,9,Ondo, 43.2 ,66,No,No,No,No,Yes,No,No,Yes,34,49,Cultism
+2016,10,Ondo, 16.2 ,34,Yes,Yes,No,No,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2016,11,Ondo, 23.2 ,99,Yes,Yes,Yes,Yes,No,No,Yes,Yes,34,49,Armed Robbery
+2016,12,Ondo, 20.8 ,25,Yes,Yes,No,No,No,Yes,Yes,Yes,34,49,Armed Robbery
+2017,1,Ondo, 7.5 ,54,No,Yes,No,Yes,Yes,Yes,Yes,No,34,49,Kidnapping
+2017,2,Ondo, 47.9 ,79,No,Yes,No,No,No,Yes,No,Yes,34,49,Kidnapping
+2017,3,Ondo, 20.2 ,12,No,Yes,No,No,No,Yes,No,Yes,34,49,Kidnapping
+2017,4,Ondo, 43.8 ,9,No,Yes,No,Yes,No,Yes,Yes,Yes,34,49,Kidnapping
+2017,5,Ondo, 9.5 ,31,No,Yes,No,Yes,Yes,No,Yes,No,34,49,Kidnapping
+2017,6,Ondo, 27.4 ,78,No,No,No,Yes,No,Yes,Yes,Yes,34,49,Piracy
+2017,7,Ondo, 1.2 ,93,No,Yes,Yes,No,Yes,No,No,Yes,34,49,Kidnapping
+2017,8,Ondo, 38.2 ,53,Yes,No,No,No,No,Yes,Yes,No,34,49,Armed Robbery
+2017,9,Ondo, 29.0 ,43,Yes,Yes,No,No,No,Yes,No,Yes,34,49,Armed Robbery
+2017,10,Ondo, 31.3 ,38,No,Yes,No,Yes,Yes,No,No,No,34,49,Kidnapping
+2017,11,Ondo, 2.6 ,42,Yes,Yes,No,No,No,Yes,No,No,34,49,Armed Robbery
+2017,12,Ondo, 10.6 ,72,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,34,49,Armed Robbery
+2018,1,Ondo, 3.7 ,48,No,No,Yes,Yes,No,Yes,Yes,No,34,49,Oil Bunkering
+2018,2,Ondo, 14.4 ,67,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2018,3,Ondo, 31.4 ,66,Yes,Yes,Yes,No,No,No,No,Yes,34,49,Armed Robbery
+2018,4,Ondo, 28.3 ,16,Yes,No,Yes,No,No,Yes,Yes,No,34,49,Armed Robbery
+2018,5,Ondo, 30.6 ,83,Yes,No,Yes,Yes,No,Yes,Yes,No,34,49,Armed Robbery
+2018,6,Ondo, 27.5 ,94,Yes,Yes,No,No,Yes,No,Yes,Yes,34,49,Armed Robbery
+2018,7,Ondo, 13.7 ,16,No,No,Yes,Yes,Yes,No,No,Yes,34,49,Oil Bunkering
+2018,8,Ondo, 12.2 ,31,No,No,Yes,Yes,Yes,Yes,Yes,No,34,49,Oil Bunkering
+2018,9,Ondo, 6.9 ,58,No,No,No,No,No,Yes,Yes,Yes,34,49,Human Trafficking
+2018,10,Ondo, 42.5 ,28,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34,49,Armed Robbery
+2018,11,Ondo, 30.8 ,4,No,Yes,No,Yes,Yes,Yes,Yes,Yes,34,49,Kidnapping
+2018,12,Ondo, 9.3 ,10,Yes,Yes,No,No,Yes,No,Yes,No,34,49,Armed Robbery
+2019,1,Ondo, 8.9 ,51,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2019,2,Ondo, 43.7 ,18,Yes,Yes,No,Yes,Yes,No,Yes,Yes,34,49,Armed Robbery
+2019,3,Ondo, 37.1 ,47,Yes,No,Yes,Yes,Yes,No,Yes,Yes,34,49,Armed Robbery
+2019,4,Ondo, 33.0 ,32,No,Yes,Yes,Yes,Yes,No,Yes,No,34,49,Kidnapping
+2019,5,Ondo, 20.3 ,30,No,Yes,No,Yes,Yes,Yes,Yes,No,34,49,Kidnapping
+2019,6,Ondo, 13.1 ,36,Yes,No,No,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2019,7,Ondo, 49.0 ,9,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,34,49,Kidnapping
+2019,8,Ondo, 39.9 ,36,Yes,No,No,No,No,Yes,No,No,34,49,Armed Robbery
+2019,9,Ondo, 15.1 ,29,No,No,No,No,No,No,Yes,Yes,34,49,Drug Trafficking
+2019,10,Ondo, 42.4 ,16,No,Yes,Yes,Yes,Yes,No,No,No,34,49,Kidnapping
+2019,11,Ondo, 37.9 ,92,Yes,No,Yes,Yes,No,No,No,Yes,34,49,Armed Robbery
+2019,12,Ondo, 14.9 ,21,No,Yes,No,No,No,Yes,Yes,No,34,49,Kidnapping
+2020,1,Ondo, 21.3 ,64,Yes,Yes,Yes,No,Yes,Yes,No,Yes,34,49,Armed Robbery
+2020,2,Ondo, 9.3 ,66,No,No,Yes,No,Yes,Yes,No,Yes,34,49,Oil Bunkering
+2020,3,Ondo, 5.6 ,59,Yes,Yes,Yes,No,Yes,No,No,No,34,49,Armed Robbery
+2020,4,Ondo, 36.1 ,99,Yes,No,Yes,No,No,Yes,Yes,Yes,34,49,Armed Robbery
+2020,5,Ondo, 13.4 ,28,No,Yes,Yes,Yes,Yes,Yes,No,No,34,49,Kidnapping
+2020,6,Ondo, 41.0 ,55,No,Yes,Yes,No,No,No,No,No,34,49,Kidnapping
+2020,7,Ondo, 49.8 ,31,Yes,Yes,Yes,No,Yes,No,Yes,Yes,34,49,Armed Robbery
+2020,8,Ondo, 3.8 ,33,No,Yes,No,No,No,Yes,No,Yes,34,49,Kidnapping
+2020,9,Ondo, 23.7 ,87,No,Yes,Yes,Yes,No,No,No,No,34,49,Kidnapping
+2020,10,Ondo, 40.1 ,60,Yes,No,No,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2020,11,Ondo, 39.4 ,41,Yes,No,No,Yes,Yes,No,Yes,No,34,49,Armed Robbery
+2020,12,Ondo, 38.0 ,81,No,No,No,Yes,No,No,No,Yes,34,49,Piracy
+2021,1,Ondo, 17.4 ,46,Yes,No,Yes,Yes,No,No,Yes,No,34,49,Armed Robbery
+2021,2,Ondo, 22.7 ,49,Yes,No,Yes,Yes,Yes,Yes,No,Yes,34,49,Armed Robbery
+2021,3,Ondo, 29.7 ,65,Yes,No,No,No,Yes,Yes,No,Yes,34,49,Armed Robbery
+2021,4,Ondo, 48.7 ,42,No,Yes,Yes,Yes,No,Yes,No,No,34,49,Kidnapping
+2021,5,Ondo, 16.4 ,23,No,Yes,No,Yes,Yes,No,No,No,34,49,Kidnapping
+2021,6,Ondo, 46.2 ,27,Yes,No,Yes,No,No,No,Yes,Yes,34,49,Armed Robbery
+2021,7,Ondo, 13.5 ,89,No,No,Yes,Yes,Yes,No,No,Yes,34,49,Oil Bunkering
+2021,8,Ondo, 49.5 ,32,Yes,Yes,No,No,Yes,No,Yes,Yes,34,49,Armed Robbery
+2021,9,Ondo, 33.5 ,83,No,Yes,No,No,Yes,Yes,No,Yes,34,49,Kidnapping
+2021,10,Ondo, 23.2 ,88,Yes,Yes,No,Yes,No,Yes,Yes,No,34,49,Armed Robbery
+2021,11,Ondo, 30.7 ,3,Yes,No,Yes,No,Yes,Yes,No,Yes,34,49,Armed Robbery
+2021,12,Ondo, 13.6 ,60,No,No,No,No,No,No,No,No,34,49,Kidnapping
+2022,1,Ondo, 13.7 ,76,Yes,No,Yes,No,Yes,No,Yes,No,34,49,Armed Robbery
+2022,2,Ondo, 5.7 ,99,No,Yes,Yes,No,No,Yes,Yes,No,34,49,Kidnapping
+2022,3,Ondo, 5.7 ,79,No,Yes,Yes,Yes,No,No,Yes,Yes,34,49,Kidnapping
+2022,4,Ondo, 17.4 ,17,Yes,No,No,No,Yes,Yes,Yes,Yes,34,49,Armed Robbery
+2022,5,Ondo, 38.1 ,32,Yes,No,No,Yes,No,No,No,No,34,49,Armed Robbery
+2022,6,Ondo, 30.4 ,7,No,Yes,No,No,No,No,Yes,No,34,49,Kidnapping
+2022,7,Ondo, 5.1 ,83,Yes,Yes,Yes,No,No,Yes,Yes,No,34,49,Armed Robbery
+2022,8,Ondo, 42.6 ,71,Yes,Yes,Yes,No,No,Yes,Yes,No,34,49,Armed Robbery
+2022,9,Ondo, 30.1 ,69,Yes,Yes,No,Yes,Yes,No,No,Yes,34,49,Armed Robbery
+2022,10,Ondo, 48.0 ,58,Yes,No,Yes,Yes,Yes,Yes,No,No,34,49,Armed Robbery
+2022,11,Ondo, 33.5 ,40,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,34,49,Armed Robbery
+2022,12,Ondo, 8.8 ,85,No,Yes,No,No,No,No,No,Yes,34,49,Kidnapping
+2000,1,Rivers, 23.7 ,48,No,Yes,No,No,No,No,Yes,Yes,39,58,Kidnapping
+2000,2,Rivers, 32.4 ,51,Yes,No,No,No,Yes,No,No,Yes,39,58,Armed Robbery
+2000,3,Rivers, 1.4 ,57,Yes,No,Yes,No,Yes,Yes,Yes,No,39,58,Armed Robbery
+2000,4,Rivers, 0.7 ,71,Yes,Yes,Yes,Yes,No,No,No,Yes,39,58,Armed Robbery
+2000,5,Rivers, 6.5 ,37,No,Yes,Yes,No,Yes,No,Yes,No,39,58,Kidnapping
+2000,6,Rivers, 12.6 ,87,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,39,58,Armed Robbery
+2000,7,Rivers, 21.5 ,75,No,No,Yes,No,No,No,Yes,No,39,58,Oil Bunkering
+2000,8,Rivers, 24.4 ,74,No,No,No,Yes,Yes,No,Yes,No,39,58,Piracy
+2000,9,Rivers, 6.9 ,85,No,No,Yes,Yes,No,Yes,Yes,No,39,58,Oil Bunkering
+2000,10,Rivers, 33.7 ,55,Yes,Yes,Yes,No,Yes,No,No,No,39,58,Armed Robbery
+2000,11,Rivers, 29.8 ,41,No,No,Yes,No,No,No,Yes,No,39,58,Oil Bunkering
+2000,12,Rivers, 14.7 ,97,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39,58,Armed Robbery
+2001,1,Rivers, 0.7 ,20,No,Yes,No,No,No,No,Yes,No,39,58,Kidnapping
+2001,2,Rivers, 3.9 ,33,Yes,Yes,No,No,No,No,Yes,Yes,39,58,Armed Robbery
+2001,3,Rivers, 19.6 ,40,No,No,Yes,Yes,No,Yes,No,No,39,58,Oil Bunkering
+2001,4,Rivers, 7.7 ,99,Yes,Yes,No,Yes,Yes,No,No,Yes,39,58,Armed Robbery
+2001,5,Rivers, 18.8 ,34,No,No,No,Yes,Yes,Yes,Yes,Yes,39,58,Piracy
+2001,6,Rivers, 31.4 ,62,Yes,No,No,Yes,Yes,No,Yes,Yes,39,58,Armed Robbery
+2001,7,Rivers, 27.4 ,91,Yes,Yes,Yes,No,No,Yes,Yes,No,39,58,Armed Robbery
+2001,8,Rivers, 11.6 ,19,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39,58,Armed Robbery
+2001,9,Rivers, 17.2 ,43,Yes,No,Yes,Yes,No,No,No,No,39,58,Armed Robbery
+2001,10,Rivers, 30.7 ,69,No,Yes,Yes,Yes,No,Yes,No,No,39,58,Kidnapping
+2001,11,Rivers, 43.0 ,63,No,No,No,No,Yes,Yes,Yes,Yes,39,58,Cultism
+2001,12,Rivers, 37.7 ,93,Yes,Yes,Yes,Yes,No,No,Yes,Yes,39,58,Armed Robbery
+2002,1,Rivers, 27.7 ,10,No,No,No,No,Yes,No,Yes,No,39,58,Cultism
+2002,2,Rivers, 18.1 ,13,Yes,No,Yes,Yes,No,Yes,Yes,No,39,58,Armed Robbery
+2002,3,Rivers, 18.3 ,93,Yes,No,No,Yes,No,No,Yes,No,39,58,Armed Robbery
+2002,4,Rivers, 44.0 ,5,No,No,No,No,Yes,Yes,No,No,39,58,Cultism
+2002,5,Rivers, 2.0 ,58,Yes,Yes,No,Yes,No,Yes,No,No,39,58,Armed Robbery
+2002,6,Rivers, 49.4 ,59,Yes,Yes,Yes,Yes,Yes,No,Yes,No,39,58,Armed Robbery
+2002,7,Rivers, 33.2 ,76,No,No,No,No,No,No,No,Yes,39,58,Vandalism
+2002,8,Rivers, 34.1 ,59,Yes,No,Yes,Yes,Yes,Yes,No,No,39,58,Armed Robbery
+2002,9,Rivers, 1.9 ,77,Yes,Yes,No,Yes,No,No,No,No,39,58,Armed Robbery
+2002,10,Rivers, 30.3 ,86,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,39,58,Armed Robbery
+2002,11,Rivers, 24.2 ,15,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,39,58,Armed Robbery
+2002,12,Rivers, 5.3 ,77,No,Yes,No,No,No,Yes,No,Yes,39,58,Kidnapping
+2003,1,Rivers, 13.9 ,1,No,Yes,No,Yes,Yes,Yes,Yes,No,39,58,Kidnapping
+2003,2,Rivers, 44.5 ,38,No,Yes,No,No,No,Yes,No,Yes,39,58,Kidnapping
+2003,3,Rivers, 27.5 ,53,Yes,No,No,Yes,No,Yes,Yes,Yes,39,58,Armed Robbery
+2003,4,Rivers, 20.7 ,52,Yes,Yes,No,No,Yes,Yes,No,No,39,58,Armed Robbery
+2003,5,Rivers, 3.6 ,1,No,Yes,Yes,Yes,Yes,No,Yes,No,39,58,Kidnapping
+2003,6,Rivers, 35.7 ,11,Yes,No,No,No,Yes,Yes,Yes,No,39,58,Armed Robbery
+2003,7,Rivers, 35.1 ,58,Yes,Yes,No,Yes,Yes,No,No,No,39,58,Armed Robbery
+2003,8,Rivers, 30.7 ,40,Yes,Yes,Yes,No,Yes,No,No,Yes,39,58,Armed Robbery
+2003,9,Rivers, 25.5 ,86,Yes,Yes,No,No,No,Yes,Yes,No,39,58,Armed Robbery
+2003,10,Rivers, 21.7 ,99,No,Yes,No,Yes,Yes,No,Yes,Yes,39,58,Kidnapping
+2003,11,Rivers, 29.7 ,60,No,Yes,Yes,No,No,Yes,No,No,39,58,Kidnapping
+2003,12,Rivers, 11.7 ,44,No,No,No,Yes,Yes,No,No,Yes,39,58,Piracy
+2004,1,Rivers, 47.1 ,6,Yes,Yes,No,Yes,Yes,Yes,No,No,39,58,Armed Robbery
+2004,2,Rivers, 29.4 ,28,No,No,No,Yes,Yes,Yes,No,No,39,58,Piracy
+2004,3,Rivers, 15.6 ,31,No,No,Yes,Yes,No,Yes,Yes,No,39,58,Oil Bunkering
+2004,4,Rivers, 22.5 ,8,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39,58,Armed Robbery
+2004,5,Rivers, 40.3 ,5,Yes,No,Yes,No,No,No,Yes,Yes,39,58,Armed Robbery
+2004,6,Rivers, 8.1 ,54,No,Yes,No,Yes,No,No,No,Yes,39,58,Kidnapping
+2004,7,Rivers, 14.6 ,17,No,No,Yes,Yes,No,No,No,No,39,58,Oil Bunkering
+2004,8,Rivers, 34.0 ,38,No,No,No,Yes,Yes,No,Yes,Yes,39,58,Piracy
+2004,9,Rivers, 15.8 ,9,No,Yes,Yes,Yes,No,No,Yes,No,39,58,Kidnapping
+2004,10,Rivers, 39.6 ,74,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,39,58,Armed Robbery
+2004,11,Rivers, 6.5 ,84,No,Yes,Yes,Yes,No,Yes,Yes,No,39,58,Kidnapping
+2004,12,Rivers, 38.1 ,78,No,Yes,Yes,No,Yes,Yes,Yes,Yes,39,58,Kidnapping
+2005,1,Rivers, 3.4 ,14,Yes,Yes,Yes,No,No,Yes,Yes,No,39,58,Armed Robbery
+2005,2,Rivers, 0.6 ,26,No,No,Yes,Yes,Yes,Yes,No,Yes,39,58,Oil Bunkering
+2005,3,Rivers, 44.9 ,93,Yes,No,No,No,Yes,No,Yes,No,39,58,Armed Robbery
+2005,4,Rivers, 29.1 ,62,Yes,No,No,Yes,Yes,Yes,Yes,No,39,58,Armed Robbery
+2005,5,Rivers, 17.6 ,91,Yes,No,Yes,Yes,No,Yes,Yes,No,39,58,Armed Robbery
+2005,6,Rivers, 11.6 ,25,No,No,Yes,Yes,No,No,Yes,Yes,39,58,Oil Bunkering
+2005,7,Rivers, 30.8 ,80,No,No,Yes,Yes,Yes,No,Yes,Yes,39,58,Oil Bunkering
+2005,8,Rivers, 25.5 ,36,Yes,No,Yes,Yes,No,Yes,Yes,No,39,58,Armed Robbery
+2005,9,Rivers, 49.6 ,98,No,Yes,No,No,No,Yes,Yes,Yes,39,58,Kidnapping
+2005,10,Rivers, 49.2 ,80,No,Yes,Yes,No,No,No,No,Yes,39,58,Kidnapping
+2005,11,Rivers, 31.8 ,33,Yes,No,No,No,No,Yes,Yes,No,39,58,Armed Robbery
+2005,12,Rivers, 22.1 ,3,Yes,No,No,No,No,Yes,No,No,39,58,Armed Robbery
+2006,1,Rivers, 24.6 ,87,No,Yes,Yes,Yes,No,Yes,No,Yes,39,58,Kidnapping
+2006,2,Rivers, 34.1 ,11,Yes,Yes,Yes,No,No,No,No,No,39,58,Armed Robbery
+2006,3,Rivers, 5.1 ,58,No,Yes,No,Yes,Yes,Yes,Yes,No,39,58,Kidnapping
+2006,4,Rivers, 16.4 ,64,No,Yes,No,No,Yes,Yes,Yes,Yes,39,58,Kidnapping
+2006,5,Rivers, 3.8 ,18,No,No,Yes,No,No,No,Yes,Yes,39,58,Oil Bunkering
+2006,6,Rivers, 3.7 ,47,No,Yes,Yes,No,Yes,No,Yes,No,39,58,Kidnapping
+2006,7,Rivers, 9.8 ,44,Yes,No,Yes,No,Yes,No,Yes,Yes,39,58,Armed Robbery
+2006,8,Rivers, 24.3 ,93,Yes,No,No,Yes,Yes,Yes,Yes,Yes,39,58,Armed Robbery
+2006,9,Rivers, 39.2 ,59,Yes,No,No,No,No,No,Yes,No,39,58,Armed Robbery
+2006,10,Rivers, 24.3 ,50,Yes,Yes,Yes,No,No,Yes,Yes,No,39,58,Armed Robbery
+2006,11,Rivers, 16.8 ,69,No,Yes,No,Yes,No,No,Yes,No,39,58,Kidnapping
+2006,12,Rivers, 4.1 ,88,No,No,No,Yes,No,Yes,Yes,No,39,58,Piracy
+2007,1,Rivers, 27.5 ,29,Yes,No,Yes,No,No,No,No,Yes,39,58,Armed Robbery
+2007,2,Rivers, 13.6 ,93,No,No,Yes,Yes,Yes,Yes,Yes,Yes,39,58,Oil Bunkering
+2007,3,Rivers, 30.7 ,90,No,Yes,No,Yes,No,Yes,Yes,No,39,58,Kidnapping
+2007,4,Rivers, 48.9 ,67,No,No,No,Yes,Yes,No,Yes,No,39,58,Piracy
+2007,5,Rivers, 5.6 ,2,Yes,Yes,Yes,No,No,No,No,No,39,58,Armed Robbery
+2007,6,Rivers, 10.6 ,25,Yes,No,Yes,Yes,Yes,Yes,Yes,No,39,58,Armed Robbery
+2007,7,Rivers, 23.7 ,19,Yes,No,Yes,No,No,No,Yes,Yes,39,58,Armed Robbery
+2007,8,Rivers, 48.4 ,40,No,No,Yes,No,No,Yes,No,Yes,39,58,Oil Bunkering
+2007,9,Rivers, 38.6 ,2,Yes,Yes,Yes,No,No,No,Yes,No,39,58,Armed Robbery
+2007,10,Rivers, 44.9 ,83,Yes,Yes,No,No,No,No,No,No,39,58,Armed Robbery
+2007,11,Rivers, 16.7 ,65,Yes,No,No,Yes,No,Yes,No,Yes,39,58,Armed Robbery
+2007,12,Rivers, 49.6 ,62,Yes,Yes,No,No,No,No,No,Yes,39,58,Armed Robbery
+2008,1,Rivers, 5.1 ,91,Yes,No,No,Yes,Yes,No,No,Yes,39,58,Armed Robbery
+2008,2,Rivers, 2.6 ,54,Yes,Yes,Yes,No,No,Yes,Yes,Yes,39,58,Armed Robbery
+2008,3,Rivers, 42.8 ,45,No,Yes,Yes,Yes,Yes,Yes,No,No,39,58,Kidnapping
+2008,4,Rivers, 46.4 ,49,No,Yes,Yes,No,No,No,No,Yes,39,58,Kidnapping
+2008,5,Rivers, 4.5 ,99,Yes,No,No,Yes,Yes,Yes,Yes,Yes,39,58,Armed Robbery
+2008,6,Rivers, 5.7 ,69,Yes,Yes,No,No,Yes,No,Yes,Yes,39,58,Armed Robbery
+2008,7,Rivers, 1.7 ,38,No,Yes,No,No,Yes,No,Yes,No,39,58,Kidnapping
+2008,8,Rivers, 5.2 ,4,No,No,Yes,Yes,Yes,Yes,No,No,39,58,Oil Bunkering
+2008,9,Rivers, 10.5 ,17,Yes,No,No,No,Yes,Yes,Yes,Yes,39,58,Armed Robbery
+2008,10,Rivers, 48.5 ,53,Yes,No,Yes,No,Yes,Yes,No,Yes,39,58,Armed Robbery
+2008,11,Rivers, 33.4 ,85,Yes,No,Yes,No,No,Yes,No,No,39,58,Armed Robbery
+2008,12,Rivers, 38.9 ,53,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,39,58,Armed Robbery
+2009,1,Rivers, 38.8 ,31,No,Yes,Yes,No,No,Yes,Yes,Yes,39,58,Kidnapping
+2009,2,Rivers, 26.8 ,22,Yes,Yes,Yes,No,No,No,Yes,No,39,58,Armed Robbery
+2009,3,Rivers, 39.9 ,11,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,39,58,Armed Robbery
+2009,4,Rivers, 29.8 ,34,Yes,Yes,No,Yes,Yes,Yes,Yes,No,39,58,Armed Robbery
+2009,5,Rivers, 15.7 ,15,Yes,No,Yes,Yes,No,No,Yes,Yes,39,58,Armed Robbery
+2009,6,Rivers, 28.1 ,10,No,Yes,Yes,Yes,Yes,No,No,Yes,39,58,Kidnapping
+2009,7,Rivers, 26.7 ,96,No,Yes,No,Yes,Yes,No,No,No,39,58,Kidnapping
+2009,8,Rivers, 41.2 ,53,No,Yes,Yes,No,Yes,No,Yes,Yes,39,58,Kidnapping
+2009,9,Rivers, 49.1 ,48,Yes,No,No,No,Yes,Yes,No,No,39,58,Armed Robbery
+2009,10,Rivers, 20.6 ,31,Yes,No,No,No,Yes,No,No,No,39,58,Armed Robbery
+2009,11,Rivers, 38.2 ,37,No,Yes,No,Yes,Yes,No,No,No,39,58,Kidnapping
+2009,12,Rivers, 5.0 ,28,Yes,No,Yes,No,Yes,Yes,No,Yes,39,58,Armed Robbery
+2010,1,Rivers, 38.8 ,31,Yes,No,Yes,Yes,No,Yes,No,Yes,39,58,Armed Robbery
+2010,2,Rivers, 18.6 ,70,No,No,No,Yes,Yes,Yes,No,Yes,39,58,Piracy
+2010,3,Rivers, 2.0 ,14,No,No,Yes,No,No,Yes,Yes,No,39,58,Oil Bunkering
+2010,4,Rivers, 18.2 ,87,No,No,Yes,Yes,No,No,Yes,Yes,39,58,Oil Bunkering
+2010,5,Rivers, 30.5 ,16,No,No,No,Yes,No,Yes,Yes,Yes,39,58,Piracy
+2010,6,Rivers, 6.0 ,25,Yes,No,No,No,No,No,No,Yes,39,58,Armed Robbery
+2010,7,Rivers, 46.2 ,39,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,39,58,Armed Robbery
+2010,8,Rivers, 3.9 ,66,No,Yes,No,Yes,No,Yes,Yes,No,39,58,Kidnapping
+2010,9,Rivers, 46.5 ,38,Yes,No,No,No,No,Yes,Yes,Yes,39,58,Armed Robbery
+2010,10,Rivers, 35.4 ,41,No,Yes,No,Yes,No,Yes,No,No,39,58,Kidnapping
+2010,11,Rivers, 16.5 ,98,No,Yes,Yes,Yes,No,Yes,Yes,No,39,58,Kidnapping
+2010,12,Rivers, 19.5 ,40,Yes,No,Yes,No,No,Yes,No,No,39,58,Armed Robbery
+2011,1,Rivers, 37.0 ,64,No,Yes,Yes,No,Yes,Yes,Yes,No,39,58,Kidnapping
+2011,2,Rivers, 30.1 ,89,Yes,No,No,No,Yes,No,Yes,Yes,39,58,Armed Robbery
+2011,3,Rivers, 33.6 ,16,Yes,No,Yes,No,No,No,Yes,Yes,39,58,Armed Robbery
+2011,4,Rivers, 19.5 ,82,Yes,No,No,Yes,Yes,No,No,Yes,39,58,Armed Robbery
+2011,5,Rivers, 24.4 ,77,Yes,Yes,Yes,Yes,Yes,No,No,No,39,58,Armed Robbery
+2011,6,Rivers, 49.5 ,59,No,Yes,Yes,No,No,Yes,No,Yes,39,58,Kidnapping
+2011,7,Rivers, 10.7 ,91,Yes,Yes,No,Yes,No,Yes,No,No,39,58,Armed Robbery
+2011,8,Rivers, 20.9 ,98,No,Yes,Yes,Yes,No,No,No,Yes,39,58,Kidnapping
+2011,9,Rivers, 14.6 ,11,No,No,No,No,Yes,No,Yes,Yes,39,58,Cultism
+2011,10,Rivers, 38.3 ,1,No,No,Yes,No,No,No,Yes,Yes,39,58,Oil Bunkering
+2011,11,Rivers, 38.2 ,13,No,Yes,Yes,Yes,Yes,Yes,No,No,39,58,Kidnapping
+2011,12,Rivers, 14.6 ,30,Yes,No,No,No,Yes,Yes,No,Yes,39,58,Armed Robbery
+2012,1,Rivers, 4.1 ,69,Yes,No,No,No,Yes,Yes,Yes,No,39,58,Armed Robbery
+2012,2,Rivers, 0.6 ,18,No,Yes,No,No,No,No,No,No,39,58,Kidnapping
+2012,3,Rivers, 21.4 ,78,No,No,Yes,Yes,Yes,No,Yes,No,39,58,Oil Bunkering
+2012,4,Rivers, 20.5 ,13,Yes,Yes,Yes,No,No,Yes,No,Yes,39,58,Armed Robbery
+2012,5,Rivers, 49.4 ,32,No,No,Yes,Yes,No,Yes,Yes,Yes,39,58,Oil Bunkering
+2012,6,Rivers, 23.5 ,71,Yes,Yes,No,Yes,No,No,No,No,39,58,Armed Robbery
+2012,7,Rivers, 12.8 ,72,No,No,No,Yes,No,No,No,No,39,58,Piracy
+2012,8,Rivers, 44.6 ,50,Yes,No,No,No,No,Yes,Yes,No,39,58,Armed Robbery
+2012,9,Rivers, 24.6 ,71,No,Yes,Yes,No,Yes,No,Yes,No,39,58,Kidnapping
+2012,10,Rivers, 30.0 ,80,No,Yes,Yes,No,Yes,Yes,No,No,39,58,Kidnapping
+2012,11,Rivers, 4.8 ,31,Yes,Yes,No,No,Yes,Yes,No,Yes,39,58,Armed Robbery
+2012,12,Rivers, 19.1 ,51,No,Yes,Yes,No,Yes,No,Yes,Yes,39,58,Kidnapping
+2013,1,Rivers, 47.2 ,27,No,No,No,Yes,Yes,No,No,Yes,39,58,Piracy
+2013,2,Rivers, 29.5 ,60,Yes,No,Yes,Yes,No,No,Yes,No,39,58,Armed Robbery
+2013,3,Rivers, 17.2 ,33,No,Yes,Yes,Yes,No,Yes,Yes,No,39,58,Kidnapping
+2013,4,Rivers, 31.3 ,53,Yes,No,No,No,Yes,No,No,Yes,39,58,Armed Robbery
+2013,5,Rivers, 45.5 ,93,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,39,58,Armed Robbery
+2013,6,Rivers, 13.7 ,72,No,Yes,Yes,Yes,Yes,Yes,Yes,No,39,58,Kidnapping
+2013,7,Rivers, 25.3 ,33,No,No,No,No,No,Yes,No,No,39,58,Human Trafficking
+2013,8,Rivers, 47.9 ,41,No,No,No,No,No,No,Yes,No,39,58,Drug Trafficking
+2013,9,Rivers, 8.6 ,19,No,Yes,Yes,Yes,No,Yes,Yes,Yes,39,58,Kidnapping
+2013,10,Rivers, 36.0 ,85,No,Yes,No,Yes,Yes,Yes,Yes,No,39,58,Kidnapping
+2013,11,Rivers, 30.7 ,41,No,Yes,Yes,No,Yes,Yes,Yes,No,39,58,Kidnapping
+2013,12,Rivers, 34.0 ,85,No,No,No,No,Yes,No,No,No,39,58,Cultism
+2014,1,Rivers, 17.6 ,89,Yes,No,Yes,No,Yes,No,Yes,Yes,39,58,Armed Robbery
+2014,2,Rivers, 15.7 ,42,No,No,Yes,No,No,Yes,No,No,39,58,Oil Bunkering
+2014,3,Rivers, 34.2 ,23,Yes,No,No,Yes,Yes,Yes,Yes,Yes,39,58,Armed Robbery
+2014,4,Rivers, 10.8 ,75,No,Yes,Yes,Yes,Yes,Yes,No,No,39,58,Kidnapping
+2014,5,Rivers, 21.0 ,33,No,Yes,Yes,No,Yes,No,Yes,No,39,58,Kidnapping
+2014,6,Rivers, 9.4 ,20,Yes,Yes,No,Yes,No,Yes,No,Yes,39,58,Armed Robbery
+2014,7,Rivers, 0.4 ,25,No,Yes,No,Yes,No,Yes,Yes,No,39,58,Kidnapping
+2014,8,Rivers, 48.5 ,90,No,Yes,Yes,No,Yes,No,Yes,Yes,39,58,Kidnapping
+2014,9,Rivers, 21.6 ,52,Yes,Yes,No,Yes,No,Yes,Yes,No,39,58,Armed Robbery
+2014,10,Rivers, 48.5 ,12,No,No,No,Yes,No,No,Yes,Yes,39,58,Piracy
+2014,11,Rivers, 7.0 ,32,No,No,Yes,Yes,No,No,No,No,39,58,Oil Bunkering
+2014,12,Rivers, 29.4 ,33,No,Yes,Yes,No,No,No,No,Yes,39,58,Kidnapping
+2015,1,Rivers, 10.0 ,74,Yes,Yes,No,No,No,Yes,Yes,Yes,39,58,Armed Robbery
+2015,2,Rivers, 39.5 ,68,No,No,No,Yes,Yes,Yes,No,No,39,58,Piracy
+2015,3,Rivers, 39.2 ,15,No,No,No,No,Yes,No,Yes,Yes,39,58,Cultism
+2015,4,Rivers, 5.6 ,51,No,No,Yes,No,Yes,Yes,Yes,No,39,58,Oil Bunkering
+2015,5,Rivers, 45.6 ,6,No,No,Yes,No,No,No,No,Yes,39,58,Oil Bunkering
+2015,6,Rivers, 9.7 ,91,Yes,Yes,Yes,Yes,No,Yes,No,No,39,58,Armed Robbery
+2015,7,Rivers, 30.6 ,69,Yes,Yes,Yes,Yes,No,No,No,No,39,58,Armed Robbery
+2015,8,Rivers, 49.3 ,69,No,Yes,Yes,No,No,No,Yes,No,39,58,Kidnapping
+2015,9,Rivers, 44.1 ,82,No,Yes,Yes,Yes,Yes,Yes,Yes,No,39,58,Kidnapping
+2015,10,Rivers, 47.8 ,92,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,39,58,Armed Robbery
+2015,11,Rivers, 17.1 ,35,Yes,No,No,Yes,Yes,Yes,Yes,No,39,58,Armed Robbery
+2015,12,Rivers, 5.3 ,86,No,Yes,No,Yes,Yes,Yes,No,No,39,58,Kidnapping
+2016,1,Rivers, 9.4 ,34,Yes,No,Yes,Yes,Yes,No,No,No,39,58,Armed Robbery
+2016,2,Rivers, 25.0 ,63,No,Yes,Yes,No,Yes,No,No,No,39,58,Kidnapping
+2016,3,Rivers, 39.7 ,68,Yes,Yes,Yes,Yes,No,Yes,No,No,39,58,Armed Robbery
+2016,4,Rivers, 7.5 ,18,Yes,Yes,No,Yes,No,Yes,No,Yes,39,58,Armed Robbery
+2016,5,Rivers, 33.0 ,26,Yes,Yes,Yes,Yes,Yes,No,No,No,39,58,Armed Robbery
+2016,6,Rivers, 16.2 ,86,Yes,Yes,No,No,No,Yes,Yes,Yes,39,58,Armed Robbery
+2016,7,Rivers, 17.1 ,97,No,No,No,No,Yes,Yes,Yes,Yes,39,58,Cultism
+2016,8,Rivers, 33.1 ,61,Yes,No,No,No,Yes,Yes,No,No,39,58,Armed Robbery
+2016,9,Rivers, 23.3 ,78,Yes,No,No,Yes,No,Yes,No,No,39,58,Armed Robbery
+2016,10,Rivers, 40.6 ,95,No,Yes,No,No,Yes,No,No,Yes,39,58,Kidnapping
+2016,11,Rivers, 7.8 ,74,Yes,Yes,Yes,No,Yes,No,Yes,Yes,39,58,Armed Robbery
+2016,12,Rivers, 39.5 ,88,Yes,No,Yes,No,Yes,Yes,No,Yes,39,58,Armed Robbery
+2017,1,Rivers, 3.2 ,85,No,Yes,No,No,No,No,No,No,39,58,Kidnapping
+2017,2,Rivers, 9.7 ,48,Yes,Yes,Yes,Yes,No,Yes,No,Yes,39,58,Armed Robbery
+2017,3,Rivers, 32.8 ,72,No,No,No,No,No,Yes,Yes,Yes,39,58,Human Trafficking
+2017,4,Rivers, 42.7 ,96,No,Yes,No,No,No,Yes,No,No,39,58,Kidnapping
+2017,5,Rivers, 12.6 ,31,No,No,Yes,Yes,Yes,No,Yes,Yes,39,58,Oil Bunkering
+2017,6,Rivers, 16.4 ,34,No,Yes,Yes,Yes,No,No,Yes,No,39,58,Kidnapping
+2017,7,Rivers, 26.9 ,87,Yes,No,Yes,No,No,No,No,Yes,39,58,Armed Robbery
+2017,8,Rivers, 10.6 ,89,No,Yes,Yes,Yes,No,No,Yes,No,39,58,Kidnapping
+2017,9,Rivers, 40.6 ,7,Yes,Yes,Yes,No,Yes,No,Yes,Yes,39,58,Armed Robbery
+2017,10,Rivers, 38.7 ,83,Yes,No,No,Yes,No,Yes,Yes,No,39,58,Armed Robbery
+2017,11,Rivers, 7.3 ,7,Yes,Yes,Yes,Yes,No,Yes,No,No,39,58,Armed Robbery
+2017,12,Rivers, 23.2 ,47,Yes,Yes,Yes,No,Yes,No,Yes,Yes,39,58,Armed Robbery
+2018,1,Rivers, 38.7 ,8,Yes,No,Yes,Yes,Yes,No,No,No,39,58,Armed Robbery
+2018,2,Rivers, 16.9 ,78,Yes,Yes,No,No,Yes,No,No,Yes,39,58,Armed Robbery
+2018,3,Rivers, 31.7 ,1,Yes,No,Yes,Yes,Yes,Yes,No,No,39,58,Armed Robbery
+2018,4,Rivers, 2.5 ,77,Yes,Yes,No,No,No,No,Yes,No,39,58,Armed Robbery
+2018,5,Rivers, 30.4 ,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,39,58,Armed Robbery
+2018,6,Rivers, 7.6 ,53,Yes,Yes,Yes,Yes,No,Yes,Yes,No,39,58,Armed Robbery
+2018,7,Rivers, 41.5 ,92,No,Yes,No,Yes,No,No,Yes,No,39,58,Kidnapping
+2018,8,Rivers, 17.8 ,38,No,No,Yes,Yes,No,Yes,Yes,No,39,58,Oil Bunkering
+2018,9,Rivers, 14.1 ,51,No,Yes,Yes,Yes,No,Yes,Yes,No,39,58,Kidnapping
+2018,10,Rivers, 42.0 ,15,Yes,No,No,No,No,No,No,Yes,39,58,Armed Robbery
+2018,11,Rivers, 2.5 ,67,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39,58,Kidnapping
+2018,12,Rivers, 19.8 ,64,No,Yes,No,No,No,No,Yes,No,39,58,Kidnapping
+2019,1,Rivers, 18.5 ,68,No,Yes,No,No,No,Yes,No,No,39,58,Kidnapping
+2019,2,Rivers, 14.2 ,5,Yes,Yes,No,No,No,No,No,No,39,58,Armed Robbery
+2019,3,Rivers, 45.6 ,90,Yes,No,No,Yes,Yes,No,No,Yes,39,58,Armed Robbery
+2019,4,Rivers, 37.5 ,89,Yes,No,No,No,No,Yes,Yes,No,39,58,Armed Robbery
+2019,5,Rivers, 3.2 ,10,Yes,No,Yes,Yes,No,No,No,Yes,39,58,Armed Robbery
+2019,6,Rivers, 35.7 ,8,No,No,Yes,No,Yes,Yes,Yes,No,39,58,Oil Bunkering
+2019,7,Rivers, 26.4 ,12,No,Yes,Yes,No,No,Yes,No,No,39,58,Kidnapping
+2019,8,Rivers, 45.0 ,64,No,No,No,No,No,No,Yes,No,39,58,Drug Trafficking
+2019,9,Rivers, 15.6 ,59,No,No,No,No,Yes,Yes,Yes,No,39,58,Cultism
+2019,10,Rivers, 28.7 ,67,Yes,Yes,No,No,No,No,Yes,No,39,58,Armed Robbery
+2019,11,Rivers, 25.0 ,91,Yes,Yes,No,Yes,No,Yes,No,Yes,39,58,Armed Robbery
+2019,12,Rivers, 24.5 ,50,Yes,Yes,Yes,No,No,Yes,Yes,No,39,58,Armed Robbery
+2020,1,Rivers, 22.8 ,23,No,Yes,Yes,No,No,No,No,Yes,39,58,Kidnapping
+2020,2,Rivers, 10.3 ,40,Yes,No,No,Yes,No,Yes,Yes,Yes,39,58,Armed Robbery
+2020,3,Rivers, 37.8 ,97,Yes,No,No,Yes,Yes,Yes,No,No,39,58,Armed Robbery
+2020,4,Rivers, 22.6 ,78,No,Yes,Yes,Yes,Yes,Yes,Yes,No,39,58,Kidnapping
+2020,5,Rivers, 47.9 ,87,No,Yes,No,No,Yes,Yes,No,No,39,58,Kidnapping
+2020,6,Rivers, 13.0 ,95,Yes,Yes,No,No,No,Yes,Yes,Yes,39,58,Armed Robbery
+2020,7,Rivers, 34.1 ,77,Yes,No,No,No,No,Yes,Yes,Yes,39,58,Armed Robbery
+2020,8,Rivers, 47.0 ,76,Yes,No,Yes,No,No,Yes,Yes,Yes,39,58,Armed Robbery
+2020,9,Rivers, 33.2 ,99,Yes,Yes,Yes,No,Yes,Yes,No,No,39,58,Armed Robbery
+2020,10,Rivers, 43.6 ,18,Yes,Yes,No,No,No,No,Yes,Yes,39,58,Armed Robbery
+2020,11,Rivers, 41.4 ,21,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39,58,Armed Robbery
+2020,12,Rivers, 18.0 ,1,No,Yes,No,Yes,No,Yes,Yes,Yes,39,58,Kidnapping
+2021,1,Rivers, 30.0 ,38,No,Yes,No,No,Yes,No,Yes,No,39,58,Kidnapping
+2021,2,Rivers, 7.8 ,41,No,No,Yes,No,Yes,No,No,Yes,39,58,Oil Bunkering
+2021,3,Rivers, 26.8 ,42,Yes,Yes,No,No,No,No,Yes,Yes,39,58,Armed Robbery
+2021,4,Rivers, 11.5 ,9,No,No,No,No,No,Yes,Yes,No,39,58,Human Trafficking
+2021,5,Rivers, 37.2 ,23,Yes,Yes,Yes,No,No,No,No,No,39,58,Armed Robbery
+2021,6,Rivers, 26.4 ,78,Yes,Yes,No,Yes,Yes,No,No,No,39,58,Armed Robbery
+2021,7,Rivers, 20.6 ,11,No,No,No,Yes,Yes,Yes,No,Yes,39,58,Piracy
+2021,8,Rivers, 13.4 ,71,Yes,No,No,No,Yes,Yes,Yes,Yes,39,58,Armed Robbery
+2021,9,Rivers, 49.9 ,31,Yes,Yes,Yes,Yes,No,No,No,Yes,39,58,Armed Robbery
+2021,10,Rivers, 3.6 ,88,No,No,No,No,Yes,No,No,No,39,58,Cultism
+2021,11,Rivers, 2.2 ,26,No,Yes,Yes,No,No,Yes,No,Yes,39,58,Kidnapping
+2021,12,Rivers, 10.9 ,30,No,Yes,No,No,No,Yes,Yes,No,39,58,Kidnapping
+2022,1,Rivers, 48.6 ,34,Yes,No,No,Yes,Yes,Yes,Yes,No,39,58,Armed Robbery
+2022,2,Rivers, 49.0 ,46,No,Yes,No,Yes,No,Yes,Yes,Yes,39,58,Kidnapping
+2022,3,Rivers, 32.7 ,69,No,Yes,No,No,Yes,Yes,No,Yes,39,58,Kidnapping
+2022,4,Rivers, 44.0 ,5,Yes,No,Yes,Yes,No,No,Yes,Yes,39,58,Armed Robbery
+2022,5,Rivers, 10.7 ,61,No,No,Yes,Yes,No,Yes,No,No,39,58,Oil Bunkering
+2022,6,Rivers, 48.6 ,83,No,Yes,No,No,Yes,Yes,No,No,39,58,Kidnapping
+2022,7,Rivers, 7.1 ,38,No,No,No,Yes,No,Yes,No,Yes,39,58,Piracy
+2022,8,Rivers, 5.1 ,28,Yes,No,No,Yes,No,Yes,Yes,No,39,58,Armed Robbery
+2022,9,Rivers, 5.6 ,26,Yes,No,No,No,No,Yes,No,Yes,39,58,Armed Robbery
+2022,10,Rivers, 28.7 ,61,Yes,No,No,No,No,No,No,Yes,39,58,Armed Robbery
+2022,11,Rivers, 39.0 ,23,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39,58,Armed Robbery
+2022,12,Rivers, 18.3 ,46,No,Yes,No,No,No,No,No,No,39,58,Kidnapping
